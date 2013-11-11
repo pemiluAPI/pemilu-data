@@ -25,6 +25,10 @@
             "type": "string"
           },
           {
+            "id": "provinsi_id",
+            "type": "number"
+          },
+          {
             "id": "nama",
             "type": "string"
           },
@@ -33,7 +37,11 @@
             "type": "string"
           },
           {
-            "id": "provinsi_id",
+            "id": "kursi",
+            "type": "number"
+          },
+          {
+            "id": "penduduk",
             "type": "number"
           }
         ]
