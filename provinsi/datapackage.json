@@ -33,6 +33,14 @@
             "type": "string"
           },
           {
+            "id": "kursi",
+            "type": "number"
+          },
+          {
+            "id": "penduduk",
+            "type": "number"
+          },
+          {
             "id": "nama_inggris",
             "type": "string"
           }
