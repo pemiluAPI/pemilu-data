@@ -25,7 +25,7 @@
             "type": "number"
           },
           {
-            "id": "nama_lengkap",
+            "id": "nama",
             "type": "string"
           },
           {
