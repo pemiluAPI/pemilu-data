@@ -1,0 +1,50 @@
+{
+  "name": "partai",
+  "title": "Partai Pemilu 2014",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [{
+    "name": "Komisi Pemilihan Umum",
+    "web": "http://kpu.go.id/"
+  }],
+  "keywords": ["Indonesia", "Pemilu", "Partai"],
+  "resources": [
+    {
+      "name": "partai",
+      "path": "partai.csv",
+      "description": "Partai Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "singkatan",
+            "type": "string"
+          },
+          {
+            "id": "id",
+            "type": "number"
+          },
+          {
+            "id": "situs",
+            "type": "string"
+          },
+          {
+            "id": "facebook",
+            "type": "string"
+          },
+          {
+            "id": "twitter",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

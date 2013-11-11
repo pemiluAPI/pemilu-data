@@ -1,0 +1,74 @@
+{
+  "name": "kandidat",
+  "title": "Kandidat DPD & DPR, Pemilu 2014",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [{
+    "name": "Komisi Pemilihan Umum",
+    "web": "http://kpu.go.id/"
+  }],
+  "keywords": ["Indonesia", "Pemilu", "Kandidat"],
+  "resources": [
+    {
+      "name": "kandidat",
+      "path": "kandidat.csv",
+      "description": "Kandidat DPD & DPR, Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "lembaga",
+            "type": "string"
+          },
+          {
+            "id": "provinsi_id",
+            "type": "number"
+          },
+          {
+            "id": "dapil_id",
+            "type": "number"
+          },
+          {
+            "id": "partai_id",
+            "type": "number"
+          },
+          {
+            "id": "calon_urutan",
+            "type": "number"
+          },
+          {
+            "id": "calon_id",
+            "type": "string"
+          },
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "kelamin",
+            "type": "string"
+          },
+          {
+            "id": "tinggal",
+            "type": "string"
+          },
+          {
+            "id": "agama",
+            "type": "string"
+          },
+          {
+            "id": "tempat_lahir",
+            "type": "string"
+          },
+          {
+            "id": "tanggal_lahir",
+            "type": "date"
+          },
+        ]
+      }
+    }
+  ]
+}

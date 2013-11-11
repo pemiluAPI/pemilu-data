@@ -1,0 +1,46 @@
+{
+  "name": "provinsi",
+  "title": "Provinsi Pemilu 2014",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [{
+    "name": "Komisi Pemilihan Umum",
+    "web": "http://kpu.go.id/"
+  }],
+  "keywords": ["Indonesia", "Pemilu", "Provinsi"],
+  "resources": [
+    {
+      "name": "provinsi",
+      "path": "provinsi.csv",
+      "description": "Provinsi Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "id",
+            "type": "number"
+          },
+          {
+            "id": "nama_lengkap",
+            "type": "string"
+          },
+          {
+            "id": "singkatan",
+            "type": "string"
+          },
+          {
+            "id": "singkatan_alternatif",
+            "type": "string"
+          },
+          {
+            "id": "nama_inggris",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

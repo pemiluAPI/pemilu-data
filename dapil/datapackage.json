@@ -1,0 +1,42 @@
+{
+  "name": "dapil",
+  "title": "Daerah Pemilihan Provinsi Indonesia 2014",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [{
+    "name": "Komisi Pemilihan Umum",
+    "web": "http://kpu.go.id/"
+  }],
+  "keywords": ["Indonesia", "Pemilu", "Dapil"],
+  "resources": [
+    {
+      "name": "dapil",
+      "path": "dapil.csv",
+      "description": "Daerah Pemilihan Provinsi Indonesia 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "id",
+            "type": "string"
+          },
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "singkatan",
+            "type": "string"
+          },
+          {
+            "id": "provinsi_id",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ]
+}
