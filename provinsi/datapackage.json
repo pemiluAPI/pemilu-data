@@ -8,10 +8,16 @@
       "name": ""
     }
   ], 
-  "sources": [{
-    "name": "Komisi Pemilihan Umum",
-    "web": "http://kpu.go.id/"
-  }],
+  "sources": [
+    {
+      "name": "Komisi Pemilihan Umum",
+      "web": "http://kpu.go.id/"
+    },
+    {
+      "name": "Daftar Calon Legislatif Anggota DPR RI Pemilu 2014",
+      "web": "http://caleg.kpu.go.id/index.php"
+    }
+  ],
   "keywords": ["Indonesia", "Pemilu", "Provinsi"],
   "resources": [
     {
