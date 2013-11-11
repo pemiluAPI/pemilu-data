@@ -1,6 +1,7 @@
 {
   "name": "provinsi",
   "title": "Provinsi Pemilu 2014",
+  "last_updated": "2013-11-11",
   "licenses": [
     {
       "url": "", 
@@ -29,10 +30,6 @@
           },
           {
             "id": "singkatan",
-            "type": "string"
-          },
-          {
-            "id": "singkatan_alternatif",
             "type": "string"
           },
           {
