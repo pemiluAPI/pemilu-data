@@ -1,22 +1,36 @@
 {
-  "name": "kandidat",
-  "title": "Kandidat DPD & DPR, Pemilu 2014",
+  "name": "calong",
+  "title": "Calon DPD & DPR, Pemilu 2014",
+  "last_updated": "2013-11-11",
   "licenses": [
     {
       "url": "", 
       "name": ""
     }
   ], 
-  "sources": [{
-    "name": "Komisi Pemilihan Umum",
-    "web": "http://kpu.go.id/"
-  }],
-  "keywords": ["Indonesia", "Pemilu", "Kandidat"],
+  "sources": [
+    {
+      "name": "Daftar Calon Tetap Anggota DPR RI Pemilu Tahun 2014 berdasarkan Dapil",
+      "web": "http://kpu.go.id/index.php?option=com_content&task=view&id=8268&Itemid=490",
+      "last_downloaded": "2013-11-07"
+    },
+    {
+      "name": "Daftar Calon Tetap Anggota DPD RI Pemilu Tahun 2014",
+      "web": "http://kpu.go.id/index.php?option=com_content&task=view&id=8288&Itemid=491",
+      "last_downloaded": "2013-11-07"
+    },
+    {
+      "name": "DAFTAR CALON ANGGOTA DPR DAN DPD REPUBLIK INDONESIA PEMILIHAN UMUM 2014",
+      "web": "http://dct.kpu.go.id/index.php",
+      "last_downloaded": "2013-11-07"
+    }    
+  ],
+  "keywords": ["Indonesia", "Pemilu", "Calon"],
   "resources": [
     {
-      "name": "kandidat",
-      "path": "kandidat.csv",
-      "description": "Kandidat DPD & DPR, Pemilu 2014",
+      "name": "calon",
+      "path": "calon.csv",
+      "description": "Calon DPD & DPR, Pemilu 2014",
       "schema": {
         "fields": [
           {
