@@ -25,7 +25,7 @@
       "last_downloaded": "2013-11-07"
     }    
   ],
-  "keywords": ["Indonesia", "Pemilu", "Calon"],
+  "keywords": ["Indonesia", "Pemilu", "2014", "Calon"],
   "resources": [
     {
       "name": "calon",
@@ -67,6 +67,10 @@
           },
           {
             "id": "tinggal",
+            "type": "string"
+          },
+          {
+            "id": "foto_url",
             "type": "string"
           },
           {
