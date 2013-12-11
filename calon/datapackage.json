@@ -1,6 +1,6 @@
 {
   "name": "calong",
-  "title": "Calon DPD & DPR, Pemilu 2014",
+  "title": "Calon DPD, DPR, & DPRA; Pemilu 2014",
   "last_updated": "2013-11-11",
   "licenses": [
     {
@@ -23,9 +23,14 @@
       "name": "DAFTAR CALON ANGGOTA DPR DAN DPD REPUBLIK INDONESIA PEMILIHAN UMUM 2014",
       "web": "http://dct.kpu.go.id/index.php",
       "last_downloaded": "2013-11-07"
-    }    
+    },
+    {
+      "name": "Daftar Calon Tetap DPRA Pemilu 2014",
+      "web": "http://kip-acehprov.go.id/Newsflash/daftar-calon-tetap-dpra-pemilu-2014.html",
+      "last_downloaded": "2013-12-02"
+    }
   ],
-  "keywords": ["Indonesia", "Pemilu", "2014", "Calon"],
+  "keywords": ["Indonesia", "Pemilu", "2014", "Calon", "DPR", "DPD", "DPRA"],
   "resources": [
     {
       "name": "calon",
@@ -38,23 +43,35 @@
             "type": "string"
           },
           {
-            "id": "provinsi_id",
+            "id": "id_provinsi",
             "type": "number"
           },
           {
-            "id": "dapil_id",
+            "id": "nama_provinsi",
+            "type": "string"
+          },
+          {
+            "id": "id_dapil",
             "type": "number"
           },
           {
-            "id": "partai_id",
+            "id": "nama_dapil",
+            "type": "string"
+          },
+          {
+            "id": "id_partai",
             "type": "number"
+          },
+          {
+            "id": "nama_partai",
+            "type": "string"
           },
           {
             "id": "calon_urutan",
             "type": "number"
           },
           {
-            "id": "calon_id",
+            "id": "id",
             "type": "string"
           },
           {
@@ -62,7 +79,7 @@
             "type": "string"
           },
           {
-            "id": "kelamin",
+            "id": "jenis_kelamin",
             "type": "string"
           },
           {
