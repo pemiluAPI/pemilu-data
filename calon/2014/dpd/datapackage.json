@@ -1,0 +1,99 @@
+{
+  "name": "calong",
+  "title": "Calon DPD; Pemilu 2014",
+  "last_updated": "2013-12-11",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [
+    {
+      "name": "Daftar Calon Tetap Anggota DPD RI Pemilu Tahun 2014",
+      "web": "http://kpu.go.id/index.php?option=com_content&task=view&id=8288&Itemid=491",
+      "last_downloaded": "2013-11-07"
+    },
+    {
+      "name": "DAFTAR CALON ANGGOTA DPR DAN DPD REPUBLIK INDONESIA PEMILIHAN UMUM 2014",
+      "web": "http://dct.kpu.go.id/index.php",
+      "last_downloaded": "2013-11-07"
+    }
+  ],
+  "keywords": ["Indonesia", "Pemilu", "2014", "Calon", "DPD"],
+  "resources": [
+    {
+      "name": "calon",
+      "path": "calon.csv",
+      "description": "Calon DPD; Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "lembaga",
+            "type": "string"
+          },
+          {
+            "id": "id_provinsi",
+            "type": "number"
+          },
+          {
+            "id": "nama_provinsi",
+            "type": "string"
+          },
+          {
+            "id": "id_dapil",
+            "type": "number"
+          },
+          {
+            "id": "nama_dapil",
+            "type": "string"
+          },
+          {
+            "id": "id_partai",
+            "type": "number"
+          },
+          {
+            "id": "nama_partai",
+            "type": "string"
+          },
+          {
+            "id": "calon_urutan",
+            "type": "number"
+          },
+          {
+            "id": "id",
+            "type": "string"
+          },
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "jenis_kelamin",
+            "type": "string"
+          },
+          {
+            "id": "tinggal",
+            "type": "string"
+          },
+          {
+            "id": "foto_url",
+            "type": "string"
+          },
+          {
+            "id": "agama",
+            "type": "string"
+          },
+          {
+            "id": "tempat_lahir",
+            "type": "string"
+          },
+          {
+            "id": "tanggal_lahir",
+            "type": "date"
+          },
+        ]
+      }
+    }
+  ]
+}

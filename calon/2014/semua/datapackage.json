@@ -1,7 +1,7 @@
 {
   "name": "calong",
   "title": "Calon DPD, DPR, & DPRA; Pemilu 2014",
-  "last_updated": "2013-11-11",
+  "last_updated": "2013-12-11",
   "licenses": [
     {
       "url": "", 
@@ -35,7 +35,7 @@
     {
       "name": "calon",
       "path": "calon.csv",
-      "description": "Calon DPD & DPR, Pemilu 2014",
+      "description": "Calon DPD, DPR, & DPRA; Pemilu 2014",
       "schema": {
         "fields": [
           {

@@ -1,0 +1,94 @@
+{
+  "name": "calong",
+  "title": "Calon DPRA; Pemilu 2014",
+  "last_updated": "2013-12-11",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [
+    {
+      "name": "Daftar Calon Tetap DPRA Pemilu 2014",
+      "web": "http://kip-acehprov.go.id/Newsflash/daftar-calon-tetap-dpra-pemilu-2014.html",
+      "last_downloaded": "2013-12-02"
+    }
+  ],
+  "keywords": ["Indonesia", "Pemilu", "2014", "Calon", "DPRA"],
+  "resources": [
+    {
+      "name": "calon",
+      "path": "calon.csv",
+      "description": "Calon DPRA; Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "lembaga",
+            "type": "string"
+          },
+          {
+            "id": "id_provinsi",
+            "type": "number"
+          },
+          {
+            "id": "nama_provinsi",
+            "type": "string"
+          },
+          {
+            "id": "id_dapil",
+            "type": "number"
+          },
+          {
+            "id": "nama_dapil",
+            "type": "string"
+          },
+          {
+            "id": "id_partai",
+            "type": "number"
+          },
+          {
+            "id": "nama_partai",
+            "type": "string"
+          },
+          {
+            "id": "calon_urutan",
+            "type": "number"
+          },
+          {
+            "id": "id",
+            "type": "string"
+          },
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "jenis_kelamin",
+            "type": "string"
+          },
+          {
+            "id": "tinggal",
+            "type": "string"
+          },
+          {
+            "id": "foto_url",
+            "type": "string"
+          },
+          {
+            "id": "agama",
+            "type": "string"
+          },
+          {
+            "id": "tempat_lahir",
+            "type": "string"
+          },
+          {
+            "id": "tanggal_lahir",
+            "type": "date"
+          },
+        ]
+      }
+    }
+  ]
+}
