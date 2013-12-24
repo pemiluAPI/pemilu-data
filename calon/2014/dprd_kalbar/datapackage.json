@@ -1,0 +1,94 @@
+{
+  "name": "calong",
+  "title": "Calon DPRD Kalbar; Pemilu 2014",
+  "last_updated": "2013-12-11",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [
+    {
+      "name": "Peserta Pemilu 2014",
+      "web": "http://kalbar.kpu.go.id/kpu/pemilu-2014/peserta-pemilu-2014.html",
+      "last_downloaded": "2013-12-09"
+    }
+  ],
+  "keywords": ["Indonesia", "Pemilu", "2014", "Calon", "DPRD", "Kalbar", "Kalimantan Barat"],
+  "resources": [
+    {
+      "name": "calon",
+      "path": "calon.csv",
+      "description": "Calon DPRD Kalbar; Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "lembaga",
+            "type": "string"
+          },
+          {
+            "id": "id_provinsi",
+            "type": "number"
+          },
+          {
+            "id": "nama_provinsi",
+            "type": "string"
+          },
+          {
+            "id": "id_dapil",
+            "type": "number"
+          },
+          {
+            "id": "nama_dapil",
+            "type": "string"
+          },
+          {
+            "id": "id_partai",
+            "type": "number"
+          },
+          {
+            "id": "nama_partai",
+            "type": "string"
+          },
+          {
+            "id": "calon_urutan",
+            "type": "number"
+          },
+          {
+            "id": "id",
+            "type": "string"
+          },
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "jenis_kelamin",
+            "type": "string"
+          },
+          {
+            "id": "tinggal",
+            "type": "string"
+          },
+          {
+            "id": "foto_url",
+            "type": "string"
+          },
+          {
+            "id": "agama",
+            "type": "string"
+          },
+          {
+            "id": "tempat_lahir",
+            "type": "string"
+          },
+          {
+            "id": "tanggal_lahir",
+            "type": "date"
+          },
+        ]
+      }
+    }
+  ]
+}
