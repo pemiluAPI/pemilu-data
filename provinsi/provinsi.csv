@@ -1,1 +1,35 @@
-id,nama,singkatan,kursi,penduduk,nama_inggris11,Aceh,Aceh,13,5015234,Special Region of Aceh12,Sumatera Utara,Sumut,30,15227719,North Sumatra13,Sumatera Barat,Sumbar,14,5617977,West Sumatra14,Riau,Riau,11,6456322,Riau15,Jambi,Jambi,7,3532126,Jambi16,Sumatera Selatan,Sumsel,17,8528719,South Sumatra17,Bengkulu,Bengkulu,4,1996538,Bengkulu18,Lampung,Lampung,18,9586492,Lampung19,Kepulauan Bangka Belitung,Babel,3,1349199,Bangka-Belitung Islands21,Kepulauan Riau,Kepri,3,1895590,Riau Islands31,Daerah Khusus Ibukota Jakarta,DKI Jakarta,21,9603417,Jakarta32,Jawa Barat,Jabar,91,39910274,West Java33,Jawa Tengah,Jateng,77,32578357,Central Java34,Daerah Isimewa Yogyakarta,DIY,8,3458029,Special Region of Yogyakarta35,Jawa Timur,Jatim,87,37269885,East Java36,Banten,Banten,22,9938820,Banten51,Bali,Bali,9,4227705,Bali52,Nusa Tenggara Barat,NTB,10,5398573,West Nusa Tenggara53,Nusa Tenggara Timur,NTT,13,5343902,East Nusa Tenggara61,Kalimantan Barat,Kalbar,10,5193272,West Kalimantan62,Kalimantan Tengah,Kalteng,6,2640070,Central Kalimantan63,Kalimantan Selatan,Kalsel,11,4145843,South Kalimantan64,Kalimantan Timur,Kaltim,8,4154954,East Kalimantan65,Kalimantan Utara,Kaltara,,,North Kalimantan71,Sulawesi Utara,Sulut,6,2617155,North Sulawesi72,Sulawesi Tengah,Sulteng,6,2935343,Central Sulawesi73,Sulawesi Selatan,Sulsel,24,9368107,South Sulawesi74,Sulawesi Tenggara,Sultra,5,2691623,Southeast Sulawesi75,Gorontalo,Gorontalo,3,1147528,Gorontalo76,Sulawesi Barat,Sulbar,3,1589162,West Sulawesi81,Maluku,Maluku,4,1866248,Maluku82,Maluku Utara,Malut,3,1258354,North Maluku91,Papua,Papua,10,4224232,Papua92,Papua Barat,Pabar,3,1091171,West Papua
+id,nama,singkatan,kursi,penduduk,nama_inggris
+11,Aceh,Aceh,13,5015234,Special Region of Aceh
+12,Sumatera Utara,Sumut,30,15227719,North Sumatra
+13,Sumatera Barat,Sumbar,14,5617977,West Sumatra
+14,Riau,Riau,11,6456322,Riau
+15,Jambi,Jambi,7,3532126,Jambi
+16,Sumatera Selatan,Sumsel,17,8528719,South Sumatra
+17,Bengkulu,Bengkulu,4,1996538,Bengkulu
+18,Lampung,Lampung,18,9586492,Lampung
+19,Kepulauan Bangka Belitung,Babel,3,1349199,Bangka-Belitung Islands
+21,Kepulauan Riau,Kepri,3,1895590,Riau Islands
+31,Daerah Khusus Ibukota Jakarta,DKI Jakarta,21,9603417,Jakarta
+32,Jawa Barat,Jabar,91,39910274,West Java
+33,Jawa Tengah,Jateng,77,32578357,Central Java
+34,Daerah Isimewa Yogyakarta,DIY,8,3458029,Special Region of Yogyakarta
+35,Jawa Timur,Jatim,87,37269885,East Java
+36,Banten,Banten,22,9938820,Banten
+51,Bali,Bali,9,4227705,Bali
+52,Nusa Tenggara Barat,NTB,10,5398573,West Nusa Tenggara
+53,Nusa Tenggara Timur,NTT,13,5343902,East Nusa Tenggara
+61,Kalimantan Barat,Kalbar,10,5193272,West Kalimantan
+62,Kalimantan Tengah,Kalteng,6,2640070,Central Kalimantan
+63,Kalimantan Selatan,Kalsel,11,4145843,South Kalimantan
+64,Kalimantan Timur,Kaltim,8,4154954,East Kalimantan
+65,Kalimantan Utara,Kaltara,,,North Kalimantan
+71,Sulawesi Utara,Sulut,6,2617155,North Sulawesi
+72,Sulawesi Tengah,Sulteng,6,2935343,Central Sulawesi
+73,Sulawesi Selatan,Sulsel,24,9368107,South Sulawesi
+74,Sulawesi Tenggara,Sultra,5,2691623,Southeast Sulawesi
+75,Gorontalo,Gorontalo,3,1147528,Gorontalo
+76,Sulawesi Barat,Sulbar,3,1589162,West Sulawesi
+81,Maluku,Maluku,4,1866248,Maluku
+82,Maluku Utara,Malut,3,1258354,North Maluku
+91,Papua,Papua,10,4224232,Papua
+92,Papua Barat,Pabar,3,1091171,West Papua
