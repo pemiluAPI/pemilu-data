@@ -1,17 +1,19 @@
 {
   "name": "dapil",
   "title": "Daerah Pemilihan Provinsi Indonesia 2014",
-  "last_updated": "2013-11-04",
+  "last_updated": "2014-02-03",
   "licenses": [
     {
       "url": "", 
       "name": ""
     }
   ], 
-  "sources": [{
-    "name": "Komisi Pemilihan Umum",
-    "web": "http://kpu.go.id/"
-  }],
+  "sources": [
+    {
+      "name": "Dapil dan alokasi kursi Anggota DPRD Provinsi dan DPRD Kabupaten/Kota",
+      "web": "http://www.kpu.go.id/index.php?option=com_content&task=view&id=7657"
+    }
+  ],
   "keywords": ["Indonesia", "Pemilu", "Dapil"],
   "resources": [
     {
@@ -25,23 +27,31 @@
             "type": "string"
           },
           {
-            "id": "provinsi_id",
-            "type": "number"
-          },
-          {
             "id": "nama",
             "type": "string"
           },
           {
-            "id": "singkatan",
+            "id": "nama_lengkap",
             "type": "string"
           },
           {
-            "id": "kursi",
+            "id": "nama_lembaga",
+            "type": "string"
+          },
+          {
+            "id": "id_provinsi",
+            "type": "string"
+          },
+          {
+            "id": "nama_provinsi",
+            "type": "string"
+          },
+          {
+            "id": "jumlah_kursi",
             "type": "number"
           },
           {
-            "id": "penduduk",
+            "id": "jumlah_penduduk",
             "type": "number"
           }
         ]
