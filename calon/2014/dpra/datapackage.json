@@ -1,6 +1,6 @@
 {
   "name": "calong",
-  "title": "Calon DPRA; Pemilu 2014",
+  "title": "Calon DPRD Provinsi Aceh; Pemilu 2014",
   "last_updated": "2013-12-11",
   "licenses": [
     {
@@ -10,7 +10,7 @@
   ], 
   "sources": [
     {
-      "name": "Daftar Calon Tetap DPRA Pemilu 2014",
+      "name": "Daftar Calon Tetap DPRD Provinsi Aceh Pemilu 2014",
       "web": "http://kip-acehprov.go.id/Newsflash/daftar-calon-tetap-dpra-pemilu-2014.html",
       "last_downloaded": "2013-12-02"
     }
@@ -20,7 +20,7 @@
     {
       "name": "calon",
       "path": "calon.csv",
-      "description": "Calon DPRA; Pemilu 2014",
+      "description": "Calon DPRD Provinsi Aceh; Pemilu 2014",
       "schema": {
         "fields": [
           {

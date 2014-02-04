@@ -1,6 +1,6 @@
 {
   "name": "calong",
-  "title": "Calon DPRD Kalbar; Pemilu 2014",
+  "title": "Calon DPRD Provinsi Kalbar; Pemilu 2014",
   "last_updated": "2013-12-11",
   "licenses": [
     {
@@ -20,7 +20,7 @@
     {
       "name": "calon",
       "path": "calon.csv",
-      "description": "Calon DPRD Kalbar; Pemilu 2014",
+      "description": "Calon DPRD Provinsi Kalbar; Pemilu 2014",
       "schema": {
         "fields": [
           {
