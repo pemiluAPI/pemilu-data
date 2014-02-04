@@ -21,27 +21,27 @@
       "schema": {
         "fields": [
           {
+            "id": "id",
+            "type": "string"
+          },
+          {
             "id": "nama",
             "type": "string"
           },
           {
-            "id": "singkatan",
+            "id": "nama_lengkap",
             "type": "string"
           },
           {
-            "id": "id",
-            "type": "number"
-          },
-          {
-            "id": "situs",
+            "id": "url_situs",
             "type": "string"
           },
           {
-            "id": "facebook",
+            "id": "url_facebook",
             "type": "string"
           },
           {
-            "id": "twitter",
+            "id": "url_twitter",
             "type": "string"
           }
         ]
