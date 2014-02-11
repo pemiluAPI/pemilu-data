@@ -1,7 +1,7 @@
 {
   "name": "calong",
-  "title": "Calon DPRD Provinsi Aceh; Pemilu 2014",
-  "last_updated": "2013-12-11",
+  "title": "Calon DPRD Provinsi DI Yogyakarta; Pemilu 2014",
+  "last_updated": "2014-02-11",
   "licenses": [
     {
       "url": "", 
@@ -10,17 +10,17 @@
   ], 
   "sources": [
     {
-      "name": "Daftar Calon Tetap DPRD Provinsi Aceh Pemilu 2014",
-      "web": "http://kip-acehprov.go.id/Newsflash/daftar-calon-tetap-dpra-pemilu-2014.html",
-      "last_downloaded": "2013-12-02"
+      "name": "Komisi Pemilihan Umum - Daerah Istimewa Yogyakarta - Daftar Calon Tetap",
+      "web": "http://www.kpud-diyprov.go.id/main.php?hal=DCT",
+      "last_downloaded": "2014-02-06"
     }
   ],
-  "keywords": ["Indonesia", "Pemilu", "2014", "Calon", "DPRA"],
+  "keywords": ["Indonesia", "Pemilu", "2014", "Calon", "DPRD", "DI Yogyakarta", "Kalimantan Barat"],
   "resources": [
     {
-      "name": "calon",
-      "path": "calon.csv",
-      "description": "Calon DPRD Provinsi Aceh; Pemilu 2014",
+      "name": "Calon DPRD DIY",
+      "path": "calon-dprd_diy.csv",
+      "description": "Calon DPRD Provinsi DI Yogyakarta; Pemilu 2014",
       "schema": {
         "fields": [
           {

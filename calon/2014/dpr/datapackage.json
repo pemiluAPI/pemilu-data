@@ -33,6 +33,10 @@
             "type": "string"
           },
           {
+            "id": "tahun",
+            "type": "number"
+          },
+          {
             "id": "id_provinsi",
             "type": "number"
           },
@@ -42,7 +46,7 @@
           },
           {
             "id": "id_dapil",
-            "type": "number"
+            "type": "string"
           },
           {
             "id": "nama_dapil",
@@ -57,7 +61,7 @@
             "type": "string"
           },
           {
-            "id": "calon_urutan",
+            "id": "urutan",
             "type": "number"
           },
           {
@@ -73,14 +77,6 @@
             "type": "string"
           },
           {
-            "id": "tinggal",
-            "type": "string"
-          },
-          {
-            "id": "foto_url",
-            "type": "string"
-          },
-          {
             "id": "agama",
             "type": "string"
           },
@@ -92,6 +88,38 @@
             "id": "tanggal_lahir",
             "type": "date"
           },
+          {
+            "id": "status_perkawinan",
+            "type": "string"
+          },
+          {
+            "id": "nama_pasangan",
+            "type": "string"
+          },
+          {
+            "id": "jumlah_anak",
+            "type": "number"
+          },
+          {
+            "id": "kelurahan_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "kecamatan_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "kab_kota_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "provinsi_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "foto_url",
+            "type": "string"
+          }
         ]
       }
     }
