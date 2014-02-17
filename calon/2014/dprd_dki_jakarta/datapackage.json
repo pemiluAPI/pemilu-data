@@ -1,0 +1,122 @@
+{
+  "name": "calong",
+  "title": "Calon DPRD Provinsi DKI Jakarta; Pemilu 2014",
+  "last_updated": "2014-02-16",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [
+    {
+      "name": "DAFTAR CALON TETAP ANGGOTA DPRD DKI JAKARTA PEMILU 2014",
+      "web": "http://kpujakarta.wordpress.com/data/",
+      "last_downloaded": "2014-02-12"
+    }
+  ],
+  "keywords": ["Indonesia", "Pemilu", "2014", "Calon", "DPRD", "DKI Jakarta", "Jakarta"],
+  "resources": [
+    {
+      "name": "Calon DPRD DKI Jakarta",
+      "path": "calon-dprd_dki_jakarta.csv",
+      "description": "Calon DPRD Provinsi DKI Jakarta; Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "lembaga",
+            "type": "string"
+          },
+          {
+            "id": "tahun",
+            "type": "number"
+          },
+          {
+            "id": "id_provinsi",
+            "type": "number"
+          },
+          {
+            "id": "nama_provinsi",
+            "type": "string"
+          },
+          {
+            "id": "id_dapil",
+            "type": "string"
+          },
+          {
+            "id": "nama_dapil",
+            "type": "string"
+          },
+          {
+            "id": "id_partai",
+            "type": "number"
+          },
+          {
+            "id": "nama_partai",
+            "type": "string"
+          },
+          {
+            "id": "urutan",
+            "type": "number"
+          },
+          {
+            "id": "id",
+            "type": "string"
+          },
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "jenis_kelamin",
+            "type": "string"
+          },
+          {
+            "id": "agama",
+            "type": "string"
+          },
+          {
+            "id": "tempat_lahir",
+            "type": "string"
+          },
+          {
+            "id": "tanggal_lahir",
+            "type": "date"
+          },
+          {
+            "id": "status_perkawinan",
+            "type": "string"
+          },
+          {
+            "id": "nama_pasangan",
+            "type": "string"
+          },
+          {
+            "id": "jumlah_anak",
+            "type": "number"
+          },
+          {
+            "id": "kelurahan_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "kecamatan_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "kab_kota_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "provinsi_tinggal",
+            "type": "string"
+          },
+          {
+            "id": "foto_url",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
