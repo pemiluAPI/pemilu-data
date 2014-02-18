@@ -1,7 +1,7 @@
 {
-  "name": "provinsi",
-  "title": "Provinsi Pemilu 2014",
-  "last_updated": "2013-11-11",
+  "name": "questions",
+  "title": "Questions Pemilu 2014",
+  "last_updated": "2014-02-17",
   "licenses": [
     {
       "url": "", 
@@ -10,44 +10,53 @@
   ], 
   "sources": [
     {
-      "name": "Komisi Pemilihan Umum",
-      "web": "http://kpu.go.id/"
-    },
-    {
-      "name": "Daftar Calon Legislatif Anggota DPR RI Pemilu 2014",
-      "web": "http://caleg.kpu.go.id/index.php"
+      "name": "Rumah Pemilu and Perludem",
+      "web": "http://rumahpemilu.org/"
     }
   ],
-  "keywords": ["Indonesia", "Pemilu", "Provinsi"],
+  "keywords": ["Indonesia", "Pemilu", "Questions", "Rules", "Regulations", "Answers"],
   "resources": [
     {
-      "name": "provinsi",
-      "path": "provinsi.csv",
-      "description": "Provinsi Pemilu 2014",
+      "name": "questions",
+      "path": "questions.csv",
+      "description": "Questions Pemilu 2014",
       "schema": {
         "fields": [
           {
             "id": "id",
-            "type": "number"
-          },
-          {
-            "id": "nama",
             "type": "string"
           },
           {
-            "id": "singkatan",
+            "id": "question",
             "type": "string"
           },
           {
-            "id": "kursi",
-            "type": "number"
+            "id": "answer",
+            "type": "string"
           },
           {
-            "id": "penduduk",
-            "type": "number"
+            "id": "reference_law",
+            "type": "string"
           },
           {
-            "id": "nama_inggris",
+            "id": "excerpt_law",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tags",
+      "path": "tags.csv",
+      "description": "Tags for the questions",
+      "schema": {
+        "fields": [
+          {
+            "id": "id_question",
+            "type": "string"
+          },
+          {
+            "id": "tag",
             "type": "string"
           }
         ]
