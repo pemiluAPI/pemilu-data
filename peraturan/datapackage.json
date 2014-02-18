@@ -1,6 +1,6 @@
 {
-  "name": "questions",
-  "title": "Questions Pemilu 2014",
+  "name": "pertanyaan",
+  "title": "Pertanyaan Pemilu 2014",
   "last_updated": "2014-02-17",
   "licenses": [
     {
@@ -14,12 +14,12 @@
       "web": "http://rumahpemilu.org/"
     }
   ],
-  "keywords": ["Indonesia", "Pemilu", "Questions", "Rules", "Regulations", "Answers"],
+  "keywords": ["Indonesia", "Pemilu", "Pertanyaan", "Rules", "Regulations", "Answers"],
   "resources": [
     {
-      "name": "questions",
-      "path": "questions.csv",
-      "description": "Questions Pemilu 2014",
+      "name": "pertanyaan",
+      "path": "pertanyaan.csv",
+      "description": "Pertanyaan Pemilu 2014",
       "schema": {
         "fields": [
           {
@@ -48,7 +48,7 @@
     {
       "name": "tags",
       "path": "tags.csv",
-      "description": "Tags for the questions",
+      "description": "",
       "schema": {
         "fields": [
           {
