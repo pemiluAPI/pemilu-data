@@ -1,14 +1,14 @@
 FORMAT: 1A
-HOST: http://www.pemiluapi.org
+HOST: http://www.pemiluapi.org/peraturan/
 
-# Rules and Regulations API
-The Rules and Regulations API is a service that provides answers to questions about rules and regulations affecting the 2014 Indonesian elections.
+# Peraturan API
+The Peraturan API is a service that provides information about rules and regulations affecting the 2014 Indonesian elections.
 
-# Group Questions
-Questions related resources of the **Rules and Regulations API**
+# Group Pertanyaan
+Pertanyaan related resources of the **Peraturan API**
 
-## Questions Collection [/questions?apiKey={apiKey}&tags={tags}&law={law}&limit={limit}&offset={offset}]
-A list of Questions objects with abbreviated details (no riwayat pendidikan, pekerjaan, or organisasi)
+## Pertanyaan Collection [/pertanyaan?apiKey={apiKey}&tags={tags}&law={law}&limit={limit}&offset={offset}]
+A list of Pertanyaan objects with abbreviated details (no riwayat pendidikan, pekerjaan, or organisasi)
 
 + Parameters
     + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
@@ -17,14 +17,14 @@ A list of Questions objects with abbreviated details (no riwayat pendidikan, pek
     + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the questions.
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
 
-### List Questions [GET]
+### List Pertanyaan [GET]
 + Response 200 (application/json)
 
         {
             "results": {
                 "count": 2,
                 "total": 2,
-                "questions": [{
+                "pertanyaan": [{
                     "id": "001",
                     "question": "Apakah perempuan bisa mencalonkan diri dalam pemilu?",
                     "answer": "Ya, setiap warga negara indonesia baik perempuan maupun laki-laki memiliki hak untuk terlibat dalam pemerintahan",
@@ -46,8 +46,8 @@ A list of Questions objects with abbreviated details (no riwayat pendidikan, pek
             }
         }
 
-## Questions [/caleg/{id}?apiKey={apiKey}]
-A single Questions object with all its details
+## Pertanyaan [/pertanyaan/{id}?apiKey={apiKey}]
+A single Pertanyaan object with all its details
 
 + Parameters
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
@@ -60,7 +60,7 @@ A single Questions object with all its details
             "results": {
                 "count": 1,
                 "total": 1,
-                "caleg": [{
+                "pertanyaan": [{
                     "id": "001",
                     "question": "Apakah perempuan bisa mencalonkan diri dalam pemilu?",
                     "answer": "Ya, setiap warga negara indonesia baik perempuan maupun laki-laki memiliki hak untuk terlibat dalam pemerintahan",
@@ -74,7 +74,7 @@ A single Questions object with all its details
         }
 
 # Group Tags
-Tag related resources of the **Rules and Regulations API**
+Tag related resources of the **Peraturan API**
 
 ## Tags Collection [/tags?apiKey={apiKey}]
 A list of Tags objects
