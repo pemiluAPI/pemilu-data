@@ -1,4 +1,37 @@
 id,nama,nama_lengkap,nama_lembaga,id_provinsi,nama_provinsi,jumlah_kursi,jumlah_penduduk
+1100-00-0000,Aceh,Aceh,DPD,11,Aceh,13,5015234
+1200-00-0000,Sumut,Sumatera Utara,DPD,12,Sumut,30,15227719
+1300-00-0000,Sumbar,Sumatera Barat,DPD,13,Sumbar,14,5617977
+1400-00-0000,Riau,Riau,DPD,14,Riau,11,6456322
+1500-00-0000,Jambi,Jambi,DPD,15,Jambi,7,3532126
+1600-00-0000,Sumsel,Sumatera Selatan,DPD,16,Sumsel,17,8528719
+1700-00-0000,Bengkulu,Bengkulu,DPD,17,Bengkulu,4,1996538
+1800-00-0000,Lampung,Lampung,DPD,18,Lampung,18,9586492
+1900-00-0000,Babel,Kepulauan Bangka Belitung,DPD,19,Babel,3,1349199
+2100-00-0000,Kepri,Kepulauan Riau,DPD,21,Kepri,3,1895590
+3100-00-0000,DKI Jakarta,Daerah Khusus Ibukota Jakarta,DPD,31,DKI Jakarta,21,9603417
+3200-00-0000,Jabar,Jawa Barat,DPD,32,Jabar,91,39910274
+3300-00-0000,Jateng,Jawa Tengah,DPD,33,Jateng,77,32578357
+3400-00-0000,DIY,Daerah Isimewa Yogyakarta,DPD,34,DIY,8,3458029
+3500-00-0000,Jatim,Jawa Timur,DPD,35,Jatim,87,37269885
+3600-00-0000,Banten,Banten,DPD,36,Banten,22,9938820
+5100-00-0000,Bali,Bali,DPD,51,Bali,9,4227705
+5200-00-0000,NTB,Nusa Tenggara Barat,DPD,52,NTB,10,5398573
+5300-00-0000,NTT,Nusa Tenggara Timur,DPD,53,NTT,13,5343902
+6100-00-0000,Kalbar,Kalimantan Barat,DPD,61,Kalbar,10,5193272
+6200-00-0000,Kalteng,Kalimantan Tengah,DPD,62,Kalteng,6,2640070
+6300-00-0000,Kalsel,Kalimantan Selatan,DPD,63,Kalsel,11,4145843
+6400-00-0000,Kaltim,Kalimantan Timur,DPD,64,Kaltim,8,4154954
+7100-00-0000,Sulut,Sulawesi Utara,DPD,71,Sulut,6,2617155
+7200-00-0000,Sulteng,Sulawesi Tengah,DPD,72,Sulteng,6,2935343
+7300-00-0000,Sulsel,Sulawesi Selatan,DPD,73,Sulsel,24,9368107
+7400-00-0000,Sultra,Sulawesi Tenggara,DPD,74,Sultra,5,2691623
+7500-00-0000,Gorontalo,Gorontalo,DPD,75,Gorontalo,3,1147528
+7600-00-0000,Sulbar,Sulawesi Barat,DPD,76,Sulbar,3,1589162
+8100-00-0000,Maluku,Maluku,DPD,81,Maluku,4,1866248
+8200-00-0000,Malut,Maluku Utara,DPD,82,Malut,3,1258354
+9100-00-0000,Papua,Papua,DPD,91,Papua,10,4224232
+9200-00-0000,Pabar,Papua Barat,DPD,92,Pabar,3,1091171
 1101-00-0000,Aceh I,Aceh I,DPR,11,Aceh,7,2642760
 1102-00-0000,Aceh II,Aceh II,DPR,11,Aceh,6,2372474
 1201-00-0000,Sumut I,Sumatera Utara I,DPR,12,Sumut,10,2686316
