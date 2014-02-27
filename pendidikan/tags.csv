@@ -1,11 +1,65 @@
 id_question,tag
-002,Legaslatif
+001,Pilpres
+001,Pilleg
+002,Legislatif
 002,Presiden
 002,Jadwal
 003,TPS
 004,Warga Negara
 004,Persyaratan
+004,Hak Pilih
 005,TPS
 006,KPU
 006,Caleg
+006,Media Massa
 007,KPPS
+007,KTP
+007,KK
+008,DPT
+008,DPS
+008,DCS
+008,PPS
+009,Kost
+009,Mahasiswa
+009,Surat Pindah
+010,DPT
+010,DPS
+010,DCS
+010,PPS
+010,KTP
+011,Pemilih
+011,Luar Negeri
+011,PPLN
+011,KBRI
+012,TPS
+012,Berhalangan
+012,Sakit
+013,DPT
+013,DPS
+013,DPK
+014,Waktu
+014,Coblos
+015,KPU
+015,KPUD
+016,Jumlah Partai
+016,Pemilu
+016,Partai Lokal
+017,DPR
+018,DPD
+019,DPRD
+020,Dana Kampanye
+021,Cara Pilih
+021,Coblos
+022,Pilpres
+022,Pilleg
+023,Bawaslu
+023,Pemantau
+024,Penjara
+024,Pemilu
+025,Rumah Sakit
+025,Pasien
+025,Pemilu
+026,DPTB
+026,Tuna Wisma
+027,Rahasia
+027,Hak Pilih
