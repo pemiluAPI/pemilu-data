@@ -1,89 +1,384 @@
 id_question,tag
-001,women
-001,participation
-002,women
-002,participation
-003,women
-004,women
-005,women
-006,women
-007,women
-008,student
-009,student
-010,student
-011,student
-012,first time voter
-013,first time voter
-014,first time voter
-015,first time voter
-016,first time voter
-017,first time voter
-018,first time voter
-019,first time voter
-020,first time voter
-021,first time voter
-022,first time voter
-023,first time voter
-024,first time voter
-025,first time voter
-026,first time voter
-027,elderly people
-028,elderly people
-029,elderly people
-030,elderly people
-031,elderly people
-032,elderly people
-033,elderly people
-034,elderly people
-035,difable
-036,difable
-037,difable
-038,difable
-039,difable
-040,difable
-041,difable
-042,difable
-043,difable
-044,difable
-045,difable
-046,difable
-047,pemantau pemilu
-048,pemantau pemilu
-049,pemantau pemilu
-050,pemantau pemilu
-051,pemantau pemilu
-052,pemantau pemilu
-053,pemantau pemilu
-054,pemantau pemilu
-055,pemantau pemilu
-056,pemantau pemilu
-057,pemantau pemilu
-058,pemantau pemilu
-059,pemantau pemilu
-060,pemantau pemilu
-061,pemantau pemilu
-062,pemantau pemilu
-063,pemantau pemilu
-064,pemantau pemilu
-065,pemantau pemilu
-066,pemantau pemilu
-067,pemantau pemilu
-068,general question
-069,general question
-070,general question
-071,general question
-072,general question
-073,general question
-074,general question
-075,general question
-076,general question
-077,general question
-078,general question
-079,general question
-080,general question
-081,general question
-082,general question
-083,general question
-084,general question
-085,glbt people
-086,glbt people
+001,Perempuan
+001,Hak Asasi Manusia
+001,Emansipasi
+001,Women
+002,Perempuan
+002,Affirmative Action
+002,Partisipasi
+002,Ambang Batas
+002,Pendaftaran
+002,Caleg
+002,Women
+002,First Time Voters
+003,Perempuan
+003,Caleg
+003,KPU
+003,Verifikasi
+003,Partai Politik
+003,Pendaftaran
+003,Women
+003,Elderly People
+004,Perempuan
+004,Affirmative Action
+004,Partisipasi
+004,Ambang Batas
+004,Calon Legislatif
+004,Women
+004,LGBT People
+005,Perempuan
+005,Hak Asasi Manusia
+005,Emansipasi
+005,Warga Negara
+005,Women
+005,Disabled People
+006,Perempuan
+006,Calon Legislatif
+006,Informasi
+006,Women
+006,Wni Diluar Negeri
+007,Perempuan
+007,Penyelenggara Pemilu
+007,KPU
+007,Affirmative Action
+007,Women
+007,Kelompok Minoritas
+008,Pelajar
+008,Pemilih
+008,Mahasiswa
+008,TPS
+008,TPSLN
+008,PPS
+008,Student
+009,PPLN
+009,Pemilu
+009,Luar Negeri
+009,Pelajar
+009,Mahasiswa
+009,Student
+010,Pemilih
+010,Pelajar
+010,Mahasiswa
+010,Pindah Domisili
+010,DPRA
+010,DPRD
+010,DPRP
+010,DPRPB
+010,PPS
+010,DPK
+010,Student
+011,Pemilih
+011,Pelajar
+011,Mahasiswa
+011,Pindah Domisili
+011,DPRA
+011,DPRD
+011,DPRP
+011,DPRPB
+011,PPS
+011,DPK
+011,Student
+012,Pemilih Pemula
+012,Warga Negara
+012,Persyaratan
+012,Pemilih
+012,First Time Voter
+013,Pemilih Pemula
+013,DPT
+013,DPTb
+013,TPS
+013,Kpps
+013,First Time Voter
+014,Pemilih Pemula
+014,Lokasi Pemilu
+014,TPS
+014,TPSLN
+014,First Time Voter
+015,Pemilih Pemula
+015,Disabilitas
+015,Penyandang Cacat
+015,Bantuan Khusus
+015,First Time Voter
+016,Pemilih Pemula
+016,KPU
+016,Informasi
+016,Website KPU
+016,First Time Voter
+017,Pemilih Pemula
+017,TPS
+017,First Time Voter
+018,Pemilih Pemula
+018,Surat Suara
+018,Kpps
+018,TPS
+018,Kotak Suara
+018,Coblos
+018,Bilik Suara
+018,First Time Voter
+019,Pemilih Pemula
+019,Surat Suara
+019,Caleg
+019,DPR
+019,DPRD
+019,DPD
+019,Nomor Urut
+019,TPS
+019,Pemilu
+019,First Time Voter
+020,Pemilih Pemula
+020,DPT
+020,DPTb
+020,TPS
+020,Kpps
+020,First Time Voter
+021,Pemilih Pemula
+021,Kpps
+021,TPS
+021,KTP
+021,First Time Voter
+022,Pemilih Pemula
+022,Kpps
+022,TPS
+022,Identitas
+022,First Time Voter
+023,Lansia
+023,Pos
+023,TPSLN
+023,PPLN
+023,Elderly People
+024,Lansia
+024,Batas Usia
+024,Elderly People
+025,Lansia
+025,Bantuan Khusus
+025,Disabilitas
+025,Elderly People
+026,Lansia
+026,Bantuan Khusus
+026,Disabilitas
+026,Kpps
+026,TPS
+026,Elderly People
+027,Lansia
+027,Bantuan Khusus
+027,Disabilitas
+027,Kpps
+027,TPS
+027,Elderly People
+028,Lansia
+028,Bantuan Khusus
+028,Disabilitas
+028,Kpps
+028,TPS
+028,Elderly People
+029,Disabilitas
+029,Penyandang Cacat
+029,Difabel
+029,Penyandang Disabilitas
+029,Difable
+030,Difable
+031,Difable
+032,Difable
+033,Difable
+034,Difable
+035,Difable
+036,Difable
+037,Difable
+038,Difable
+039,Difable
+040,Difable
+041,Pemantau Pemilu
+041,Pendaftaran
+041,KPU
+041,Warga Negara
+042,Pemantau Pemilu
+042,Persyaratan
+042,KPU
+043,Pemantau Pemilu
+043,Partai Politik
+044,Pemantau Pemilu
+044,Persyaratan
+044,KPU
+044,Luar Negeri
+045,Pemantau Pemilu
+045,Pendaftaran
+045,KPU
+045,Warga Negara
+046,Pemantau Pemilu
+046,Akreditasi
+046,KPU
+047,Pemantau Pemilu
+047,Akreditasi
+047,KPU
+048,Pemantau Pemilu
+048,Akreditasi
+048,KPU
+049,Pemantau Pemilu
+049,Akreditasi
+049,KPU
+050,Pemantau Pemilu
+050,Akreditasi
+050,KPU
+051,Pemantau Pemilu
+051,Persyaratan
+051,Warga Negara Asing
+052,Pemantau Pemilu
+052,Persyaratan
+052,Warga Negara Asing
+053,Pemantau Pemilu
+053,Persyaratan
+053,Organisasi
+054,Pemantau Pemilu
+054,Persyaratan
+054,Organisasi
+055,Pemantau Pemilu
+055,Persyaratan
+055,Tanda Pengenal
+056,Pemantau Pemilu
+056,Warga Negara Indonesia
+056,Warga Negara Asing
+056,Tanda Pengenal
+056,Warna
+057,Pemantau Pemilu
+057,Akreditasi
+057,KPU
+057,Tanda Pengenal
+058,Pemantau Pemilu
+058,KPU
+058,Pemilu
+059,Pemantau Pemilu
+059,Pelanggaran
+059,Pemilu
+060,Pemantau Pemilu
+060,Pemilu
+060,Laporan
+060,KPU
+061,Pemilu
+061,Definisi
+061,Umum
+061,General Question
+062,Pemilu
+062,Jadwal
+062,Legislatif
+062,Presiden
+062,Waktu
+062,2014
+062,Umum
+062,General Question
+063,Pemilu
+063,Legislatif
+063,DPR
+063,DPD
+063,DPRD
+063,Presiden
+063,Definisi
+063,Umum
+063,General Question
+064,Pemilih
+064,Persyaratan
+064,Usia
+064,Umum
+064,Pemilu
+064,General Question
+065,Pemilih
+065,Persyaratan
+065,Usia
+065,Umum
+065,Pemilu
+065,Daftar Pemilih
+065,General Question
+066,TPS
+066,TPSLN
+066,Definisi
+066,Pemilu
+066,Umum
+066,General Question
+067,TPS
+067,Kpps
+067,Pemilu
+067,Identitas
+067,Umum
+067,General Question
+068,Pemilih
+068,Pemilu
+068,Kpps
+068,Daftar Pemilih Khusus
+068,DPS
+068,DPT
+068,Umum
+068,General Question
+069,Definisi
+069,Pemilu
+069,DPT
+069,DPK
+069,DPS
+069,TPS
+069,Umum
+069,General Question
+070,Pemilu
+070,TPS
+070,Waktu
+070,Penghitungan Suara
+070,General Question
+071,Penyelenggara Pemilu
+071,KPU
+071,KPU Provinsi
+071,KPU
+071,Kabupaten / Kota
+071,Pemilu
+071,Umum
+071,General Question
+072,Pemilu
+072,Partai Politik
+072,Peserta Pemilu
+072,Parpol
+072,Partai Lokal
+072,General Question
+073,DPR
+073,Sinonim
+073,Pemilu
+073,Legislatif
+073,Umum
+073,Pemilih Pemula
+073,General Question
+074,DPD
+074,Sinonim
+074,Pemilu
+074,Legislatif
+074,Umum
+074,Pemilih Pemula
+074,General Question
+075,DPRD
+075,Sinonim
+075,Pemilu
+075,Legislatif
+075,Umum
+075,Pemilih Pemula
+075,Kabupaten
+075,Kota
+075,General Question
+076,Pemilu
+076,Daftar Pemilih
+076,KPU
+076,Informasi
+076,Data
+076,General Question
+077,LGBT
+077,Lesbian
+077,Gay
+077,Transgender
+077,Bisexual
+077,Pemilu
+077,Hak Asasi Manusia
+077,Hak Memilih
+077,LGBT People
+078,LGBT
+078,Lesbian
+078,Gay
+078,Transgender
+078,Bisexual
+078,Pemilu
+078,Hak Asasi Manusia
+078,Caleg
+078,Capres
+078,LGBT People
