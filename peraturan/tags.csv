@@ -36,7 +36,7 @@ id_question,tag
 006,Calon Legislatif
 006,Informasi
 006,Women
-006,Wni Diluar Negeri
+006,WNI Diluar Negeri
 007,Perempuan
 007,Penyelenggara Pemilu
 007,KPU
@@ -87,7 +87,7 @@ id_question,tag
 013,DPT
 013,DPTb
 013,TPS
-013,Kpps
+013,KPPS
 013,First Time Voter
 014,Pemilih Pemula
 014,Lokasi Pemilu
@@ -109,7 +109,7 @@ id_question,tag
 017,First Time Voter
 018,Pemilih Pemula
 018,Surat Suara
-018,Kpps
+018,KPPS
 018,TPS
 018,Kotak Suara
 018,Coblos
@@ -129,15 +129,15 @@ id_question,tag
 020,DPT
 020,DPTb
 020,TPS
-020,Kpps
+020,KPPS
 020,First Time Voter
 021,Pemilih Pemula
-021,Kpps
+021,KPPS
 021,TPS
 021,KTP
 021,First Time Voter
 022,Pemilih Pemula
-022,Kpps
+022,KPPS
 022,TPS
 022,Identitas
 022,First Time Voter
@@ -156,19 +156,19 @@ id_question,tag
 026,Lansia
 026,Bantuan Khusus
 026,Disabilitas
-026,Kpps
+026,KPPS
 026,TPS
 026,Elderly People
 027,Lansia
 027,Bantuan Khusus
 027,Disabilitas
-027,Kpps
+027,KPPS
 027,TPS
 027,Elderly People
 028,Lansia
 028,Bantuan Khusus
 028,Disabilitas
-028,Kpps
+028,KPPS
 028,TPS
 028,Elderly People
 029,Disabilitas
@@ -294,14 +294,14 @@ id_question,tag
 066,Umum
 066,General Question
 067,TPS
-067,Kpps
+067,KPPS
 067,Pemilu
 067,Identitas
 067,Umum
 067,General Question
 068,Pemilih
 068,Pemilu
-068,Kpps
+068,KPPS
 068,Daftar Pemilih Khusus
 068,DPS
 068,DPT
@@ -363,22 +363,84 @@ id_question,tag
 076,Informasi
 076,Data
 076,General Question
-077,LGBT
-077,Lesbian
-077,Gay
-077,Transgender
-077,Bisexual
+077,Partai Aceh
+077,Peraturan
+077,Pemerintahan
+077,UUD 1945
+077,Aceh
 077,Pemilu
-077,Hak Asasi Manusia
-077,Hak Memilih
-077,LGBT People
-078,LGBT
-078,Lesbian
-078,Gay
-078,Transgender
-078,Bisexual
-078,Pemilu
-078,Hak Asasi Manusia
-078,Caleg
-078,Capres
-078,LGBT People
+077,General Question
+078,Partai Aceh
+078,Partai Lokal
+078,Partai Politik
+078,Partai Nasional
+078,Aceh
+078,General Question
+079,Partai Aceh
+079,Partai Lokal
+079,Partai Politik
+079,Partai Nasional
+079,Aceh
+079,DPRK
+079,DPRA
+079,General Question
+080,Manfaat
+080,Pemilu
+080,Aspirasi
+080,Partisipasi
+080,Masyarakat
+080,UUD 1945
+080,General Question
+081,Track Record
+081,Rekam Jejak
+081,Pemilih Pemula
+081,Caleg
+081,KPU
+081,General Question
+082,Bawaslu
+082,Pengawas
+082,Badan
+082,Panwaslu
+082,PPL
+082,PPLN
+082,Kecamatan
+082,Kelurahan
+082,Provinsi
+082,Lembaga
+082,Pemilu
+082,General Question
+083,Bawaslu
+083,Peran
+083,Pengawasan
+083,Penyenggaraan
+083,Panitia
+083,Pemilu
+083,General Question
+084,Panwaslu
+084,Bawaslu
+084,Pelanggaran
+084,Sanski
+084,Denda
+084,Pidana
+084,Penjara
+084,Pemilu
+084,General Question
+085,LGBT
+085,Lesbian
+085,Gay
+085,Transgender
+085,Bisexual
+085,Pemilu
+085,Hak Asasi Manusia
+085,Hak Memilih
+085,LGBT People
+086,LGBT
+086,Lesbian
+086,Gay
+086,Transgender
+086,Bisexual
+086,Pemilu
+086,Hak Asasi Manusia
+086,Caleg
+086,Capres
+086,LGBT People
