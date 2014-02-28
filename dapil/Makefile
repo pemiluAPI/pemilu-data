@@ -13,8 +13,8 @@ admin.topojson:
 dapil.topojson:
 	topojson --bbox --id-property id_dapil --properties id_provinsi,nm_provinsi,nm_dapil \
 		--simplify $(SIMPLIFY) \
-		$(SHP_PATH)/dapil_provinsi/shp/DAPIL_PROVINSI.shp \
 		$(SHP_PATH)/dapil_nasional_DPR/shp/DAPIL_NASIONAL_DPR.shp \
+		$(SHP_PATH)/dapil_provinsi_DPRDI/shp/DAPIL_PROVINSI_DPRDI.shp \
 		> $@
 
 test:
