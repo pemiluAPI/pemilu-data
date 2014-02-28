@@ -1,12 +1,12 @@
 SHP_PATH ?= shapefiles
 # smaller numbers (1e-8 == .00000001) are more precise
-SIMPLIFY ?= 1e-7
+SIMPLIFY ?= 1e-6
 
 all: admin.topojson dapil.topojson test
 
 admin.topojson:
 	topojson --bbox --id-property id_provinsi --properties nm_provinsi \
-		--simplify $(SIMPLIFY) \
+		--simplify 3e-7 \
 		$(SHP_PATH)/admin_provinsi/shp/PROVINSI_ADMINISTRATIVE_AREA.shp \
 		> $@
 
