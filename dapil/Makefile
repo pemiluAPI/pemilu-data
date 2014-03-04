@@ -2,11 +2,21 @@ SHP_PATH ?= shapefiles
 # smaller numbers (1e-8 == .00000001) are more precise
 SIMPLIFY ?= 1e-6
 
-all: admin.topojson dapil.topojson test
+all: \
+	admin.topojson \
+	admin-simple.topojson \
+	dapil.topojson \
+	test
 
 admin.topojson:
-	topojson --bbox --id-property id_provinsi --properties nm_provinsi \
+	topojson --bbox --id-property id_provinsi --properties id_provinsi,nm_provinsi \
 		--simplify 3e-7 \
+		$(SHP_PATH)/admin_provinsi/shp/PROVINSI_ADMINISTRATIVE_AREA.shp \
+		> $@
+
+admin-simple.topojson:
+	topojson --bbox --id-property id_provinsi --properties id_provinsi,nm_provinsi \
+		--simplify 1e-5 \
 		$(SHP_PATH)/admin_provinsi/shp/PROVINSI_ADMINISTRATIVE_AREA.shp \
 		> $@
 
