@@ -1,4 +1,4 @@
-lembaga,tahun,id_provinsi,nama_provinsi,id_dapil,nama_dapil,id_partai,nama_partai,urutan,id,nama,jenis_kelamin,agama,tempat_lahir,tanggal_lahir,status_perkawinan,nama_pasangan,jumlah_anak,kelurahan_tinggal,kecamatan_tinggal,kab_kota_tinggal,provinsi_tinggal,foto_url,tanggal_mulai,tanggal_akhir,keterangan
+lembaga,tahun,id_provinsi,nama_provinsi,id_dapil,nama_dapil,id_partai,nama_partai,urutan,id,nama,jenis_kelamin,agama,tempat_lahir,tanggal_lahir,status_perkawinan,nama_pasangan,jumlah_anak,kelurahan_tinggal,kecamatan_tinggal,kab_kota_tinggal,provinsi_tinggal,foto_url,tanggal_mulai,tanggal_berakhir,keterangan
 DPD,2009,11,ACEH,1100-00-0000,ACEH,,,1,DPD001,Tgk. Abdurrahman,L,Islam,Buket Bata,1962-06-19,Kawin,,,,,,,,,,
 DPD,2009,11,ACEH,1100-00-0000,ACEH,,,3,DPD002,"Dr. Ahmad Farhan Hamid, MS",L,Islam,Aceh,1953-01-21,Kawin,"Ir. Ferry Soraya, M.SIE",5,,,,,,,,
 DPD,2009,11,ACEH,1100-00-0000,ACEH,,,20,DPD003,Mursyid,L,Islam,Aceh Tengah,1967-10-14,,,,,,,,,,,

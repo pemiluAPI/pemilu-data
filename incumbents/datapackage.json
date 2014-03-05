@@ -125,7 +125,7 @@
             "type": "date"
           },
           {
-            "id": "tanggal_akhir",
+            "id": "tanggal_berakhir",
             "type": "date"
           },
           {
@@ -238,7 +238,7 @@
             "type": "date"
           },
           {
-            "id": "tanggal_akhir",
+            "id": "tanggal_berakhir",
             "type": "date"
           },
           {
