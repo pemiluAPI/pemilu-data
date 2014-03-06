@@ -43,6 +43,14 @@
           {
             "id": "url_twitter",
             "type": "string"
+          },
+          {
+            "id": "url_logo_small",
+            "type": "string"
+          },
+          {
+            "id": "url_logo_medium",
+            "type": "string"
           }
         ]
       }
