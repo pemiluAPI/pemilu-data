@@ -2,7 +2,9 @@ FORMAT: 1A
 HOST: http://api.pemiluapi.org/incumbent/api/
 
 # Incumbent API
-The Incumbent API is a service that provides information about members of DPR and DPD
+The Incumbent API is a service that provides information about members of DPR and DPD. It's part of [API Pemilu](http://developer.pemiluapi.org/)
+
+Sample call: [http://api.pemiluapi.org/incumbent/api/incumbents?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25](http://api.pemiluapi.org/incumbent/api/incumbents?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25)
 
 # Group Incumbents
 Incumbents related resources of the **Incumbents API**
