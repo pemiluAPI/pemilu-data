@@ -7,7 +7,7 @@ The Campaign Finance Report API is a service that provides information about cam
 # Group Contributions
 Contributions related resources of the **Campaign Finance Report API**
 
-## Contributions Collection [/caleg?apiKey={apiKey}&tahun={tahun}&lembaga={lembaga}&partai={partai}&nama={nama}&periode={periode}&limit={limit}&offset={offset}]
+## Contributions Collection [/contributions?apiKey={apiKey}&tahun={tahun}&lembaga={lembaga}&partai={partai}&nama={nama}&role={role}&periode={periode}&limit={limit}&offset={offset}]
 A list of Contributions objects with details
 
 + Parameters
@@ -15,30 +15,77 @@ A list of Contributions objects with details
     + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
     + periode (optional, string, `1,2,3`) ... String the period or periods to return results for (defaults to all available)
     + role (optional, string, `calon`) ... String the role or roles of the entity associated with the contribution (defaults to all; possible values are `calon`, `partai`, `perseorangan`, `kelompok`, `usaha`)
-    + nama (optional, string, `afzal`) ... String full or partial `nama` (name) of the person or organization associated with the contribution. Will return all matching records.
+    + nama (optional, string, `pasha`) ... String full or partial `nama` (name) of the person or organization associated with the contribution. Will return all matching records.
     + partai (optional, string, `1`) ... String id of the `partai` (party) associated with the contribution.
     + lembaga (optional, string, `DPR`) ... String `lembaga` (legislative body) that the contribution is associated with.
-    + tahun (optional, number, `2014`) ... Number `tahun` (election year) that the contribution took place during.
+    + tahun (optional, number, `2014`) ... Number `tahun` (election year) that the contribution took place during (default is `2014`).
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
 
 ### List Contributions [GET]
 + Response 200 (application/json)
 
         {
-            "periode": ["1", "2", "3"],
-            "partai": {
-                "id": "15",
-                "nama": "PKPI"
-            },
-            "role": "calon anggota legislatif",
-            "nama": "MUHAMMAD ILHAM PASHA"
-            "id_calon": "3603-00-0000-1504",
-            "mata_uang": "Rp",
-            "uang": 0,
-            "nilai_barang": 0,
-            "unit_barang": 0,
-            "nilai_jasa": 12850000,
-            "bentuk_jasa": "",
-            "jumlah": 12850000,
-            "keterangan": ""
+            "results": {
+                "count": 1,
+                "total": 1,
+                "contributions": [
+                    {
+                        "periode": ["1", "2", "3"],
+                        "partai": {
+                            "id": "15",
+                            "nama": "PKPI"
+                        },
+                        "role": "calon anggota legislatif",
+                        "nama": "MUHAMMAD ILHAM PASHA"
+                        "id_calon": "3603-00-0000-1504",
+                        "mata_uang": "Rp",
+                        "uang": 0,
+                        "nilai_barang": 0,
+                        "unit_barang": 0,
+                        "nilai_jasa": 12850000,
+                        "bentuk_jasa": "",
+                        "jumlah": 12850000,
+                        "keterangan": ""
+                    }
+                ]
+            }
+        }
+
+
+## Contributions [/contributions/{id}?apiKey={apiKey}&periode={periode}]
+The contributions for a single candidate
+
++ Parameters
+    + periode (optional, string, `1,2,3`) ... String the period or periods to return results for (defaults to all available)
+    + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
+    + id (required, string, `1101-00-0000-0101`) ... String `id` of the candidate to collect information on
+
+### Retrieve contributions for a candidate [GET]
++ Response 200 (application/json)
+
+        {
+            "results": {
+                "count": 1,
+                "total": 1,
+                "contributions": [
+                    {
+                        "periode": ["1", "2", "3"],
+                        "partai": {
+                            "id": "15",
+                            "nama": "PKPI"
+                        },
+                        "role": "calon anggota legislatif",
+                        "nama": "MUHAMMAD ILHAM PASHA"
+                        "id_calon": "3603-00-0000-1504",
+                        "mata_uang": "Rp",
+                        "uang": 0,
+                        "nilai_barang": 0,
+                        "unit_barang": 0,
+                        "nilai_jasa": 12850000,
+                        "bentuk_jasa": "",
+                        "jumlah": 12850000,
+                        "keterangan": ""
+                    }
+                ]
+            }
         }
