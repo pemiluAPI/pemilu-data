@@ -14,6 +14,7 @@ A list of Contributions objects with details
     + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
     + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
     + periode (optional, string, `1,2,3`) ... String the period or periods to return results for (defaults to all available)
+    + role (optional, string, `calon`) ... String the role or roles of the entity associated with the contribution (defaults to all; possible values are `calon`, `partai`, `perseorangan`, `kelompok`, `usaha`)
     + nama (optional, string, `afzal`) ... String full or partial `nama` (name) of the person or organization associated with the contribution. Will return all matching records.
     + partai (optional, string, `1`) ... String id of the `partai` (party) associated with the contribution.
     + lembaga (optional, string, `DPR`) ... String `lembaga` (legislative body) that the contribution is associated with.
