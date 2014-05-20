@@ -1,0 +1,66 @@
+{
+  "name": "pertanyaan",
+  "title": "Pertanyaan Pemilu 2014",
+  "last_updated": "2014-02-17",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [
+    {
+      "name": "Rumah Pemilu and Perludem",
+      "web": "http://rumahpemilu.org/"
+    }
+  ],
+  "keywords": ["Indonesia", "Pemilu", "Pertanyaan", "Rules", "Regulations", "Answers"],
+  "resources": [
+    {
+      "name": "pertanyaan",
+      "path": "pertanyaan.csv",
+      "description": "Pertanyaan Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "id",
+            "type": "string"
+          },
+          {
+            "id": "question",
+            "type": "string"
+          },
+          {
+            "id": "answer",
+            "type": "string"
+          },
+          {
+            "id": "reference_law",
+            "type": "string"
+          },
+          {
+            "id": "excerpt_law",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tags",
+      "path": "tags.csv",
+      "description": "",
+      "schema": {
+        "fields": [
+          {
+            "id": "id_question",
+            "type": "string"
+          },
+          {
+            "id": "tag",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
