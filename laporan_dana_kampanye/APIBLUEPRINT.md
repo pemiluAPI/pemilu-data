@@ -7,12 +7,13 @@ The Campaign Finance Report API is a service that provides information about cam
 # Group Contributions
 Contributions related resources of the **Campaign Finance Report API**
 
-## Contributions Collection [/contributions?apiKey={apiKey}&tahun={tahun}&lembaga={lembaga}&partai={partai}&nama={nama}&role={role}&periode={periode}&limit={limit}&offset={offset}]
+## Contributions Collection [/contributions?apiKey={apiKey}&tahun={tahun}&lembaga={lembaga}&partai={partai}&nama={nama}&role={role}&periode={periode}&total={total}&limit={limit}&offset={offset}]
 A list of Contributions objects with details
 
 + Parameters
     + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
     + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
+    + total (optional, string, `false`) ... String if `true`, return only the sum total values for all requested records (defaults to `false`)
     + periode (optional, string, `1,2,3`) ... String the period or periods to return results for (defaults to all available)
     + role (optional, string, `calon`) ... String the role or roles of the entity associated with the contribution (defaults to all; possible values are `calon`, `partai`, `perseorangan`, `kelompok`, `usaha`)
     + nama (optional, string, `pasha`) ... String full or partial `nama` (name) of the person or organization associated with the contribution. Will return all matching records.
