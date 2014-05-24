@@ -1,4 +1,16 @@
 periode,id_partai,nama_partai,role,nama,id_calon,mata_uang,uang,nilai_barang,unit_barang,nilai_jasa,bentuk_jasa,jumlah,keterangan
+1,7,Partai Demokrat,partai politik,Partai Demokrat,,Rp,235000000,,,,,235000000,
+1,6,Partai Gerakan Indonesia Raya,partai politik,Partai Gerindra,,Rp,,,,,,0,
+1,5,Partai Golongan Karya,partai politik,Partai Golkar,,Rp,2002000000,,,,,2002000000,
+1,10,Partai Hati Nurani Rakyat,partai politik,Partai Hanura,,Rp,4643500000,7600000000,2000000,1317318075,,13560818075,
+1,1,Partai NasDem,partai politik,Partai NasDem,,Rp,550000000,25779504000,2435706,,,26329504000,"Saldo di BRI dan BCA, Billboard"
+1,8,Partai Amanat Nasional,partai politik,Partai PAN,,Rp,9032202,,,,,9032202,
+1,14,Partai Bulan Bintang,partai politik,Partai Bulan Bintang,,Rp,50000000,496675000,,,,546675000,
+1,4,Partai Demokrasi Indonesia Perjuangan,partai politik,Partai Demokrasi Indonesia Perjuangan,,Rp,26640250373,,,,,26640250373,
+1,2,Partai Kebangkitan Bangsa,partai politik,Partai Kebangkitan Bangsa,,Rp,465701895811,,,,,465701895811,
+1,15,Partai Keadilan dan Persatuan Indonesia,partai politik,Partai Keadilan Dan Persatuan Indonesia,,Rp,4000000000,,,,,4000000000,
+1,3,Partai Keadilan Sejahtera,partai politik,Partai Keadilan Sejahtera,,Rp,93276852990,,,,,93276852990,
+1,9,Partai Persatuan Pembangunan,partai politik,Partai Persatuan Pembangunan,,Rp,1818868741,,,,,1818868741,
 1,7,Partai Demokrat,calon anggota legislatif,"H. TEUKU RIEFKY HARSYA B.Sc, MT",1101-00-0000-0701,Rp,,110000000,0,25000000,,135000000,
 1,7,Partai Demokrat,calon anggota legislatif,"Ir. NOVA IRIANSYAH, MT",1101-00-0000-0702,Rp,,156900000,0,85700000,,242600000,
 1,7,Partai Demokrat,calon anggota legislatif,Ir. Hj. NURSHANTI ADNAN,1101-00-0000-0703,Rp,,,0,,,0,
