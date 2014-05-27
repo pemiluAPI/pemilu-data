@@ -26,29 +26,63 @@ A list of Contributions objects with details
 + Response 200 (application/json)
 
         {
-            "results": {
-                "count": 1,
-                "total": 1,
-                "contributions": [
-                    {
-                        "periode": ["1", "2", "3"],
+            "data": {
+                "results": {
+                    "count": 2,
+                    "total": 6645,
+                    "contributions": [{
+                        "periode": [
+                            "1",
+                            "2"
+                        ],
                         "partai": {
-                            "id": "15",
-                            "nama": "PKPI"
+                            "id": 7,
+                            "nama": "Partai Demokrat"
                         },
-                        "role": "calon anggota legislatif",
-                        "nama": "MUHAMMAD ILHAM PASHA"
-                        "id_calon": "3603-00-0000-1504",
+                        "role": "partai politik",
+                        "nama": "Partai Demokrat",
+                        "id_calon": "",
+                        "lembaga": "DPR",
+                        "tahun": "2014",
+                        "mata_uang": "Rp",
+                        "uang": 235000000,
+                        "nilai_barang": 0,
+                        "unit_barang": 0,
+                        "nilai_jasa": 0,
+                        "bentuk_jasa": "",
+                        "jumlah": 235000000,
+                        "keterangan": ""
+                    }, {
+                        "periode": [
+                            "1",
+                            "2"
+                        ],
+                        "partai": {
+                            "id": 6,
+                            "nama": "Partai Gerakan Indonesia Raya"
+                        },
+                        "role": "partai politik",
+                        "nama": "Partai Gerindra",
+                        "id_calon": "",
+                        "lembaga": "DPR",
+                        "tahun": "2014",
                         "mata_uang": "Rp",
                         "uang": 0,
                         "nilai_barang": 0,
                         "unit_barang": 0,
-                        "nilai_jasa": 12850000,
+                        "nilai_jasa": 0,
                         "bentuk_jasa": "",
-                        "jumlah": 12850000,
+                        "jumlah": 0,
                         "keterangan": ""
+                    }],
+                    "value_totals": {
+                        "uang": 235000000,
+                        "nilai_barang": 0,
+                        "unit_barang": 0,
+                        "nilai_jasa": 0,
+                        "jumlah": 235000000
                     }
-                ]
+                }
             }
         }
 
@@ -65,28 +99,33 @@ The contributions for a single candidate
 + Response 200 (application/json)
 
         {
-            "results": {
-                "count": 1,
-                "total": 1,
-                "contributions": [
-                    {
-                        "periode": ["1", "2", "3"],
+            "data": {
+                "results": {
+                    "count": 1,
+                    "total": 6608,
+                    "contributions": [{
+                        "periode": [
+                            "1",
+                            "2"
+                        ],
                         "partai": {
-                            "id": "15",
-                            "nama": "PKPI"
+                            "id": 7,
+                            "nama": "Partai Demokrat"
                         },
                         "role": "calon anggota legislatif",
-                        "nama": "MUHAMMAD ILHAM PASHA"
-                        "id_calon": "3603-00-0000-1504",
+                        "nama": "H. TEUKU RIEFKY HARSYA B.Sc, MT",
+                        "id_calon": "1101-00-0000-0701",
+                        "lembaga": "DPR",
+                        "tahun": "2014",
                         "mata_uang": "Rp",
                         "uang": 0,
-                        "nilai_barang": 0,
+                        "nilai_barang": 110000000,
                         "unit_barang": 0,
-                        "nilai_jasa": 12850000,
+                        "nilai_jasa": 207550000,
                         "bentuk_jasa": "",
-                        "jumlah": 12850000,
+                        "jumlah": 317550000,
                         "keterangan": ""
-                    }
-                ]
+                    }]
+                }
             }
         }
