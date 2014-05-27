@@ -391,3 +391,74 @@ A single Candidates object with all its details
         }
 
 
+# Group Videos
+Videos related resources of the **Presidential Candidate API**
+
+## Videos Collection [/videos?apiKey={apiKey}&id_calon={id_calon}&tags={tags}&limit={limit}&offset={offset}]
+A list of Video objects
+
++ Parameters
+    + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
+    + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
+    + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the questions.
+    + id_calon (optional, string, `ps`) ... String the `id_calon` of the candidate related to the videos
+    + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
+
+### List all Videos [GET]
++ Response 200 (application/json)
+
+        {
+            "results": {
+                "count": 3,
+                "videos": [{
+                    "id": "0001",
+                    "id_calon": "ps",
+                    "judul": "Prabowo Subianto: Orasi Politik Prabowo Subianto pada Hari Buruh",
+                    "url_video": "http://www.youtube.com/watch?v=UH73XrMKxUI",
+                    "tanggal_direkam": "2014-05-01",
+                    "tanggal_upload": "2014-05-01",
+                    "tags": ["orasi", "pidato", "prabowo"]
+                }, {
+                    "id": "0002",
+                    "id_calon": "ps",
+                    "judul": "Pidato Letjen TNI Prabowo Subianto satu bulan sebelum Presiden Soeharto Lengser pada acara Syukuran Pangkostrad",
+                    "url_video": "http://www.youtube.com/watch?v=0aWF8S9HJCw",
+                    "tanggal_direkam": "1998-04-21",
+                    "tanggal_upload": "2013-05-13",
+                    "tags": ["orasi", "pidato", "prabowo"]
+                }, {
+                    "id": "0003",
+                    "id_calon": "ps",
+                    "judul": "Prabowo Subianto berbicara dengan Dalton Tanonaka mengenai keinginannya menjadi presiden Republik Indonesia, kepergiannya ke Jordan tahun 1998, berakhirnya dukungan Prabowo kepada SBY, pesan yang ingin disampaikan dengan Partai Gerindra, kerusuhan 1998, penculikan aktivis demokrasi 1998, tuduhan kekerasan terhadap suku Cina, visa Amerika, dan orang-orang yang mempengaruhi cara berpikir Prabowo. Direkam tahun 2008.",
+                    "url_video": "http://www.youtube.com/watch?v=08SMkHVMK3E",
+                    "tanggal_direkam": "2008",
+                    "tanggal_upload": "2011-12-05",
+                    "tags": ["interview", "prabowo"]
+                }]
+            }
+        }
+
+## Videos [/videos/{id}?apiKey={apiKey}]
+A single Videos object with all its details
+
++ Parameters
+    + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
+    + id (required, string, `0003`) ... String `id` of the Video to perform action with.
+
+### Retrieve a Video [GET]
++ Response 200 (application/json)
+
+        {
+            "results": {
+                "count": 1,
+                "videos": [{
+                    "id": "0003",
+                    "id_calon": "ps",
+                    "judul": "Prabowo Subianto berbicara dengan Dalton Tanonaka mengenai keinginannya menjadi presiden Republik Indonesia, kepergiannya ke Jordan tahun 1998, berakhirnya dukungan Prabowo kepada SBY, pesan yang ingin disampaikan dengan Partai Gerindra, kerusuhan 1998, penculikan aktivis demokrasi 1998, tuduhan kekerasan terhadap suku Cina, visa Amerika, dan orang-orang yang mempengaruhi cara berpikir Prabowo. Direkam tahun 2008.",
+                    "url_video": "http://www.youtube.com/watch?v=08SMkHVMK3E",
+                    "tanggal_direkam": "2008",
+                    "tanggal_upload": "2011-12-05",
+                    "tags": ["interview", "prabowo"]
+                }]
+            }
+        }
