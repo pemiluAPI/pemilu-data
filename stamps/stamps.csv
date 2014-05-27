@@ -1,2 +1,12 @@
-id,nama,url_preview,width_preview,height_preview,url_full,width_full,height_full
+id,text,url_preview,width_preview,height_preview,url_full,width_full,height_full
 001,FPO,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+002,Indonesia Choose!,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+003,"Hati putih, jari ungu",http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+004,Mau perubahan? Pilih!,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+005,Suarakan Suaramu!,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+006,Yuk Milih!,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+007,Mark the day,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+008,Prabowo 4 President,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+009,Jokowi 4 President,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+010,Prabowo/Hatta 2014,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
+011,Jokowi/Kalla 2014,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png,50,50,http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png,135,135
