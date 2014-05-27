@@ -10,12 +10,13 @@ Sample call: [http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e2
 # Group Stamps
 Stamp related resources of the **Stamps API**
 
-## Stamp Collection [/stamps?apiKey={apiKey}&tags={tags}&limit={limit}&offset={offset}]
-A list of Stamp objects with abbreviated details (no riwayat pendidikan, pekerjaan, or organisasi)
+## Stamp Collection [/stamps?apiKey={apiKey}&tags={tags}&text={text}&limit={limit}&offset={offset}]
+A list of Stamp objects with all details
 
 + Parameters
     + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
     + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
+    + text (optional, string, `vote`) ... String full or partial text of the stamp. Will return all matching records.
     + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the stamps.
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
 
@@ -29,7 +30,7 @@ A list of Stamp objects with abbreviated details (no riwayat pendidikan, pekerja
                     "total": 60,
                     "stamps": [{
                         "id": "001",
-                        "nama": "FPO",
+                        "text": "FPO",
                         "url_preview": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png",
                         "width_preview": 50,
                         "height_preview": 50,
@@ -59,7 +60,7 @@ A single Stamp object with all its details
                     "total": 1,
                     "stamps": [{
                         "id": "001",
-                        "nama": "FPO",
+                        "text": "FPO",
                         "url_preview": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png",
                         "width_preview": 50,
                         "height_preview": 50,
