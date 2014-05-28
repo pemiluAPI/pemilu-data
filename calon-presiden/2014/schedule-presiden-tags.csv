@@ -2,11 +2,9 @@ id_schedule,tag
 0001,debat
 0001,capres
 0001,televisi
-0001,capres
 0002,debat
 0002,capres
 0002,televisi
-0002,capres
 0003,debat
 0003,capres
 0003,televisi
@@ -18,5 +16,4 @@ id_schedule,tag
 0005,debat
 0005,capres
 0005,televisi
-0005,capres
 0005,cawapres
