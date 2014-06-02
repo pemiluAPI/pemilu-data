@@ -33,6 +33,8 @@ A list of Candidates objects with all its details
                     "id": "jw",
                     "tahun": 2014,
                     "nama": "Joko Widodo",
+                    "role": "capres"
+                    "id_running_mate": "jk"
                     "jenis_kelamin": "L",
                     "agama": "Islam",
                     "tempat_lahir": "Surakarta",
@@ -104,6 +106,8 @@ A list of Candidates objects with all its details
                     "id": "ps",
                     "tahun": 2014,
                     "nama": "Prabowo Subianto",
+                    "role": "capres"
+                    "id_running_mate": "hr"
                     "jenis_kelamin": "L",
                     "agama": "ISLAM",
                     "tempat_lahir": "Jakarta",
@@ -319,6 +323,8 @@ A single Candidates object with all its details
                     "id": "jw",
                     "tahun": 2014,
                     "nama": "Joko Widodo",
+                    "role": "capres"
+                    "id_running_mate": "jk"
                     "jenis_kelamin": "L",
                     "agama": "Islam",
                     "tempat_lahir": "Surakarta",
