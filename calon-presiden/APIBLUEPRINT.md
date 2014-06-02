@@ -402,7 +402,7 @@ A list of Event objects
     + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
     + after (optional, date, `2014-05-21`) ... String return events only on or after this date
     + before (optional, date, `2014-06-21`) ... String return events only on or before this date
-    + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the questions.
+    + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the events.
     + id_calon (optional, string, `ps`) ... String list of candidate IDs for the candidate or candidates related to the events
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
 
@@ -451,7 +451,7 @@ A single Events object with all its details
 
 + Parameters
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
-    + id (required, string, `0003`) ... String `id` of the Event to perform action with.
+    + id (required, string, `0003`) ... String `id` of the event to perform action with.
 
 ### Retrieve a Event [GET]
 + Response 200 (application/json)
@@ -474,6 +474,83 @@ A single Events object with all its details
         }
 
 
+# Group Promises
+Promises related resources of the **Presidential Candidate API**
+
+## Promises Collection [/promises?apiKey={apiKey}&id_calon={id_calon}&tags={tags}&limit={limit}&offset={offset}]
+A list of Promise objects
+
++ Parameters
+    + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
+    + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
+    + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the promises.
+    + id_calon (optional, string, `ps`) ... String list of candidate IDs for the candidate or candidates related to the promises
+    + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
+
+### List all Promises [GET]
++ Response 200 (application/json)
+
+        {
+            "results": {
+                "count": 3,
+                "promises": [{
+                    "id": "0001",
+                    "id_calon": "jw",
+                    "context_janji": "Tetap akan mengawal pembangunan di Jakarta",
+                    "janji": "Ya tentu saja akan mengawal, karena apa? Ini Jakarta menyangkut Jabodetabek, untuk transportasi Ini justru bisa mempercepat penyelesaian masalah-masalah yang ada",
+                    "tanggal": "2014-03-24",
+                    "judul_sumber": "merdeka.com",
+                    "url_sumber": "https://id.berita.yahoo.com/jika-jadi-presiden-jokowi-janji-tetap-benahi-jakarta-072751011.html",
+                    "tags": ["janji","jokowi","pembangunan jakarta"]
+                }, {
+                    "id": "0002",
+                    "id_calon": "jw",
+                    "context_janji": "Selamatkan lahan pertanian",
+                    "janji": "Jokowi mengatakan jika terpilih menjadi presiden maka ia akan fokus pada penanganan lahan untuk masyarakat. Terutama lahan yang digunakan sebagai lahan pertanian",
+                    "tanggal": "2014-05-01",
+                    "judul_sumber": "merdeka.com",
+                    "url_sumber": "https://id.berita.yahoo.com/jadi-presiden-jokowi-janji-ke-petani-selamatkan-lahan-064346728.html",
+                    "tags": ["janji","jokowi","lahan pertanian"]
+                }, {
+                    "id": "0003",
+                    "id_calon": "jw",
+                    "context_janji": "Memperbaiki capaian kinerja pemerintahan SBY",
+                    "janji": "Calon presiden dari partai PDIP, Joko Widodo menyatakan siap memperbaiki capaian kinerja Pemerintahan pimpinan Susilo Bambang Yudhoyono (SBY)",
+                    "tanggal": "2014-04-30",
+                    "judul_sumber": "portalkbr.com",
+                    "url_sumber": "http://www.portalkbr.com/berita/beritapemilu/3229825_6033.html",
+                    "tags": ["janji","jokowi","kinerja"]
+                }]
+            }
+        }
+
+## Promises [/promises/{id}?apiKey={apiKey}]
+A single Promises object with all its details
+
++ Parameters
+    + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
+    + id (required, string, `0003`) ... String `id` of the promise to perform action with.
+
+### Retrieve a Promise [GET]
++ Response 200 (application/json)
+
+        {
+            "results": {
+                "count": 1,
+                "promises": [{
+                    "id": "0003",
+                    "id_calon": "jw",
+                    "context_janji": "Memperbaiki capaian kinerja pemerintahan SBY",
+                    "janji": "Calon presiden dari partai PDIP, Joko Widodo menyatakan siap memperbaiki capaian kinerja Pemerintahan pimpinan Susilo Bambang Yudhoyono (SBY)",
+                    "tanggal": "2014-04-30",
+                    "judul_sumber": "portalkbr.com",
+                    "url_sumber": "http://www.portalkbr.com/berita/beritapemilu/3229825_6033.html",
+                    "tags": ["janji","jokowi","kinerja"]
+                }]
+            }
+        }
+
+
 # Group Videos
 Videos related resources of the **Presidential Candidate API**
 
@@ -483,7 +560,7 @@ A list of Video objects
 + Parameters
     + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
     + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
-    + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the questions.
+    + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the videos.
     + id_calon (optional, string, `ps`) ... String the `id_calon` of the candidate related to the videos
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
 
