@@ -1,4 +1,4 @@
-tahun,id_partai,nama_partai,id,nama,role,running_mate,jenis_kelamin,agama,tempat_lahir,tanggal_lahir,status_perkawinan,nama_pasangan,jumlah_anak,kelurahan_tinggal,kecamatan_tinggal,kab_kota_tinggal,provinsi_tinggal
+tahun,id_partai,nama_partai,id,nama,role,id_running_mate,jenis_kelamin,agama,tempat_lahir,tanggal_lahir,status_perkawinan,nama_pasangan,jumlah_anak,kelurahan_tinggal,kecamatan_tinggal,kab_kota_tinggal,provinsi_tinggal
 2014,4,Partai Demokrasi Indonesia Perjuangan,jw,Joko Widodo,capres,jk,L,Islam,Surakarta,1961-06-21,Kawin,"Hj. Iriana, SE., MM.",3,,,Jakarta Pusat,DKI Jakarta
 2014,5,Partai Golongan Karya,jk,Jusuf Kalla,cawapres,jw,L,Islam,"Watampone, Sulawesi Selatan",1942-05-15,Kawin,Hj. Mufidah Yusuf,5,,,Jakarta Selatan,DKI Jakarta
 2014,6,Partai Gerakan Indonesia Raya,ps,Prabowo Subianto,capres,hr,L,Islam,Jakarta,1951-06-17,Cerai,,1,Desa Bojongkoneng,Babakan Madang,Bogor,Jawa Barat
