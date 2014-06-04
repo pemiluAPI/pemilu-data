@@ -93,6 +93,19 @@ A list of Candidates objects with all its details
                             "tanggal_mulai": "2002",
                             "tanggal_selesai": "2007"
                         }
+                    ],
+                    "riwayat_penghargaan": [
+                        {
+                            "id": "7",
+                            "ringkasan": "Satya Bhakti",
+                            "institusi": "Kadin Jawa Tengah",
+                            "tanggal": "2007"
+                        }, {
+                            "id": "8",
+                            "ringkasan": "Solo Pos Award",
+                            "institusi": "Solo Pos",
+                            "tanggal": "2007"
+                        }
                     ]
                 }, {
                     "id": "ps",
@@ -157,6 +170,19 @@ A list of Candidates objects with all its details
                             "jabatan": "Ketua",
                             "tanggal_mulai": "2009",
                             "tanggal_selesai": "2014"
+                        }
+                    ],
+                    "riwayat_penghargaan": [
+                        {
+                            "id": "13",
+                            "ringkasan": "Bintang Kartika Eka Paksi Nararya",
+                            "institusi": "Tentara Nasional Indonesia (TNI) Angkatan Darat Republik Indonesia",
+                            "tanggal": ""
+                        }, {
+                            "id": "14",
+                            "ringkasan": "Bintang Yudha Dharma Nararya",
+                            "institusi": "Tentara Nasional Indonesia (TNI) Angkatan Darat Republik Indonesia",
+                            "tanggal": ""
                         }
                     ]
                 }]
@@ -240,6 +266,19 @@ A single Candidates object with all its details
                             "jabatan": "Ketua",
                             "tanggal_mulai": "2002",
                             "tanggal_selesai": "2007"
+                        }
+                    ],
+                    "riwayat_penghargaan": [
+                        {
+                            "id": "7",
+                            "ringkasan": "Satya Bhakti",
+                            "institusi": "Kadin Jawa Tengah",
+                            "tanggal": "2007"
+                        }, {
+                            "id": "8",
+                            "ringkasan": "Solo Pos Award",
+                            "institusi": "Solo Pos",
+                            "tanggal": "2007"
                         }
                     ]
                 }]
