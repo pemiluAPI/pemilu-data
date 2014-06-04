@@ -21,23 +21,94 @@ id_video,tag
 0007,pidato
 0007,prabowo
 0007,news segment
-0008,jokowi
-0008,news segment
-0008,al jazeera
-0009,orasi
-0009,pidato
-0009,jokowi
-0010,interview
-0010,jokowi
-0011,interview
-0011,jokowi
-0012,interview
-0012,jokowi
+0008,talkshow
+0008,prabowo
+0009,talkshow
+0009,prabowo
+0010,talkshow
+0010,prabowo
+0011,talkshow
+0011,prabowo
+0012,orasi
+0012,prabowo
 0013,pidato
-0013,jokowi
-0014,pidato
-0014,jokowi
+0013,orasi
+0013,prabowo
+0014,talkshow
+0014,prabowo
 0015,pidato
-0015,jokowi
+0015,orasi
+0015,prabowo
 0016,pidato
-0016,jokowi
+0016,orasi
+0016,prabowo
+0017,profil
+0017,prabowo
+0018,profil
+0018,prabowo
+0019,iklan kampanye
+0019,prabowo
+0019,gerindra
+0020,iklan
+0020,kampanye
+0020,gerindra
+0021,visi
+0021,misi
+0021,prabowo
+0022,orasi
+0022,pidato
+0022,prabowo
+0023,orasi
+0023,pidato
+0023,prabowo
+0024,wawancara
+0024,eksklusif
+0024,prabowo
+0025,wawancara
+0025,eksklusif
+0025,prabowo
+0026,wawancara
+0026,eksklusif
+0026,prabowo
+0027,wawancara
+0027,eksklusif
+0027,prabowo
+0028,wawancara
+0028,eksklusif
+0028,prabowo
+0029,dialog
+0029,interaktif
+0029,prabowo
+0030,iklan
+0030,prabowo gerindra
+0031,iklan
+0031,prabowo
+0031,gerindra
+0032,debat
+0032,tim sukse
+0033,jokowi
+0033,news segment
+0033,al jazeera
+0034,orasi
+0034,pidato
+0034,jokowi
+0035,interview
+0035,jokowi
+0036,interview
+0036,jokowi
+0037,interview
+0037,jokowi
+0038,pidato
+0038,jokowi
+0039,pidato
+0039,jokowi
+0040,pidato
+0040,jokowi
+0041,pidato
+0041,jokowi
+0042,debat
+0042,tim sukse
+0043,visi misi
+0043,jokowi
+0044,visi misi
+0044,jokowi
