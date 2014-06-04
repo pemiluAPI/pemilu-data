@@ -63,44 +63,35 @@ A list of Candidates objects with all its details
                             "ringkasan": "SMPN I Solo",
                             "tanggal_mulai": "",
                             "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 3,
-                            "ringkasan": "SMAN 6 Solo",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 4,
-                            "ringkasan": "Fakultas Kehutanan UGM Yogyakarta",
-                            "tanggal_mulai": "1985",
-                            "tanggal_selesai": "1985"
                         }
                     ],
                     "riwayat_pekerjaan": [
                         {
-                            "id": 5,
+                            "id": 3,
                             "ringkasan": "Eksportir Mebel",
                             "tanggal_mulai": "",
                             "tanggal_selesai": ""
                         },
                         {
-                            "id": 6,
+                            "id": 4,
                             "ringkasan": "Walikota Surakarta",
                             "tanggal_mulai": "2005",
                             "tanggal_selesai": "2010"
-                        },
+                        }
+                    ],
+                    "riwayat_organisasi": [
                         {
-                            "id": 7,
-                            "ringkasan": "Walikota Surakarta",
-                            "tanggal_mulai": "2010",
-                            "tanggal_selesai": "2015"
-                        },
-                        {
-                            "id": 8,
-                            "ringkasan": "Gubernur Prov. DKI Jakarta",
-                            "tanggal_mulai": "2012",
-                            "tanggal_selesai": "2017"
+                            "id": 5,
+                            "ringkasan": "Bidang Pertambangan dan energi KADIN Surakarta",
+                            "jabatan": "Ketua",
+                            "tanggal_mulai": "1992",
+                            "tanggal_selesai": "1996"
+                        }, {
+                            "id": 6,
+                            "ringkasan": "ASMINDO Komda Surakarta",
+                            "jabatan": "Ketua",
+                            "tanggal_mulai": "2002",
+                            "tanggal_selesai": "2007"
                         }
                     ]
                 }, {
@@ -127,182 +118,47 @@ A list of Candidates objects with all its details
                     "biografi": "Letnan Jenderal TNI (Purn.) Prabowo Subianto Djojohadikusumo (lahir diJakarta, 17 Oktober 1951; umur 62 tahun) adalah seorang pengusaha, politisi, dan mantan perwira TNI Angkatan Darat. Ia menempuh pendidikan dan jenjang karier militer selama 28 tahun sebelum berkecimpung dalam bisnis dan politik. Bersama Hatta Rajasa, ia maju sebagai calon Presiden Indonesia ke-7 dalam pemilihan umum presiden Indonesia 2014.\n\nLahir di Jakarta, masa kecil Prabowo putra begawan ekonomi Soemitro Djojohadikoesoemo banyak dilewatkan di luar negeri bersama orangtuanya. Minatnya pada dunia militer dipengaruhi figur paman Soebianto Djojohadikusumo yang gugur dalam Pertempuran Lengkong 1946. Keluar sebagai lulusan terbaik Akademi Militer tahun 1974, Prabowo mencatatkan diri sebagai komandan termuda saat mengikuti operasi Tim Nanggala di Timor Timur. Kariernya melejit setelah menjabat Wakil Detasemen Penanggulangan Teror Komando Pasukan Khusus (Kopassus) pada 1983. Merengkuh jabatan Komandan Kopassus pada 1995, selang setahun ia dipromosikan sebagaiKomandan Jenderal Kopasus, memimpin operasi pembebasan sandera Mapenduma. Terakhir, ia bertugas sebagai Panglima Kostrad dua bulan sampai kejatuhan Presiden Soeharto pada Mei 1998.\n\nSetelah tidak aktif dalam dinas militer, Prabowo menghabiskan waktu di Yordania dan beberapa negera Eropa. Ia menekuni dunia bisnis, mengikuti adiknya Hashim Djojohadikusumo yang pengusaha minyak. Bisnis Prabo meliputi sedikitnya 27 perusahaan yang bergerak di sektor berbeda. Kembali ke Tanah Air, ia berkecimpung dalam politik. Pada 2008, ia bersama rekannya mengukuhkan pembentukan Partai Gerakan Indonesia Raya. Lewat jalur perhimpunan, Prabowo merangkul petani, pedagang pasar tradisional, dan kegiatan pencak silat Indonesia. Selama dua periode, ia memimpin Himpunan Kerukunan Tani Indonesia (HKTI) sejak 2004.",
                     "riwayat_pendidikan": [
                         {
-                            "id": 9,
+                            "id": 7,
                             "ringkasan": "SD Victoria Institution, Kuala Lumpur",
                             "tanggal_mulai": "1960",
                             "tanggal_selesai": "1963"
                         },
                         {
-                            "id": 10,
+                            "id": 8,
                             "ringkasan": "SMP International School, Zurich",
                             "tanggal_mulai": "1963",
                             "tanggal_selesai": "1964"
-                        },
-                        {
-                            "id": 11,
-                            "ringkasan": "SMA American School, London",
-                            "tanggal_mulai": "1964",
-                            "tanggal_selesai": "1967"
-                        },
-                        {
-                            "id": 12,
-                            "ringkasan": "Akademi Militer Nasional, Magelang",
-                            "tanggal_mulai": "1970",
-                            "tanggal_selesai": "1974"
-                        },
-                        {
-                            "id": 13,
-                            "ringkasan": "The Army Special Forces Training Course Fort Bragg (USA)",
-                            "tanggal_mulai": "1980",
-                            "tanggal_selesai": "1980"
-                        },
-                        {
-                            "id": 14,
-                            "ringkasan": "The Army Special Forces Training Course (GSG-9 Germany)",
-                            "tanggal_mulai": "1981",
-                            "tanggal_selesai": "1981"
-                        },
-                        {
-                            "id": 15,
-                            "ringkasan": "The Advanced Infantry Officers Course Fort Benning (USA)",
-                            "tanggal_mulai": "1985",
-                            "tanggal_selesai": "1985"
                         }
                     ],
                     "riwayat_pekerjaan": [
                         {
-                            "id": 16,
+                            "id": 9,
                             "ringkasan": "Komandan Peleton Para Komando Group-1 Kopassandha",
                             "tanggal_mulai": "1976",
                             "tanggal_selesai": "1976"
                         },
                         {
-                            "id": 17,
+                            "id": 10,
                             "ringkasan": "Komandan Kompi Para Komando Group-1 Kopassandha",
                             "tanggal_mulai": "1977",
                             "tanggal_selesai": "1977"
-                        },
-                        {
-                            "id": 18,
-                            "ringkasan": "Wakil Komandan Detasemen-81 Kopassus",
-                            "tanggal_mulai": "1983",
-                            "tanggal_selesai": "1985"
-                        },
-                        {
-                            "id": 19,
-                            "ringkasan": "Wakil Komandan Batalyon Infanteri Lintas Udara 328 Kostrad",
-                            "tanggal_mulai": "1985",
-                            "tanggal_selesai": "1987"
-                        },
-                        {
-                            "id": 20,
-                            "ringkasan": "Komandan Batalyon Infanteri Lintas Udara 328 Kostrad",
-                            "tanggal_mulai": "1987",
-                            "tanggal_selesai": "1991"
-                        },
-                        {
-                            "id": 21,
-                            "ringkasan": "Kepala Staf Brigade Infanteri Lintas Udara 17/Kujang I/Kostrad",
-                            "tanggal_mulai": "1991",
-                            "tanggal_selesai": "1993"
-                        },
-                        {
-                            "id": 22,
-                            "ringkasan": "Komandan Group-3/Pusat Pendidikan Pasukan Khusus",
-                            "tanggal_mulai": "1993",
-                            "tanggal_selesai": "1995"
-                        },
-                        {
-                            "id": 23,
-                            "ringkasan": "Wakil Komandan Komando Pasukan Khusus",
-                            "tanggal_mulai": "1994",
-                            "tanggal_selesai": "1994"
-                        },
-                        {
-                            "id": 24,
-                            "ringkasan": "Komandan Komando Pasukan Khusus",
-                            "tanggal_mulai": "1995",
-                            "tanggal_selesai": "1996"
-                        },
-                        {
-                            "id": 25,
-                            "ringkasan": "Komandan Jenderal Komando Pasukan Khusus",
-                            "tanggal_mulai": "1996",
-                            "tanggal_selesai": "1998"
-                        },
-                        {
-                            "id": 26,
-                            "ringkasan": "Panglima Komando Cadangan Strategi TNI Angkatan Darat",
-                            "tanggal_mulai": "1998",
-                            "tanggal_selesai": "1998"
-                        },
-                        {
-                            "id": 27,
-                            "ringkasan": "Komandan Sekolah Staf dan Komando ABRI",
-                            "tanggal_mulai": "1998",
-                            "tanggal_selesai": "1998"
-                        },
-                        {
-                            "id": 28,
-                            "ringkasan": "Ketua Umum HKTI Periode",
-                            "tanggal_mulai": "2004",
-                            "tanggal_selesai": "2009"
-                        },
-                        {
-                            "id": 29,
-                            "ringkasan": "Ketua Umum HKTI Periode",
-                            "tanggal_mulai": "2010",
-                            "tanggal_selesai": "2015"
-                        },
-                        {
-                            "id": 30,
-                            "ringkasan": "Ketua Umum Pengurus Besar Ikatan Pencak Silat Indonesia (PB IPSI) Periode",
-                            "tanggal_mulai": "2001",
-                            "tanggal_selesai": "2011"
-                        },
-                        {
-                            "id": 31,
-                            "ringkasan": "Komisari Perusahaan Migas Karazanbasmunai di Kazakhstan",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 32,
-                            "ringkasan": "Komisaris Utama PT Tidar Kerinci Agung",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 33,
-                            "ringkasan": "Presiden dan CEO PT Nusantara Energy",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 34,
-                            "ringkasan": "Presiden dan CEO PT Jaladri Nusantara",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 35,
-                            "ringkasan": "Dewan Penasihat Organisasi Kosgoro",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 36,
-                            "ringkasan": "Ketua Yayasan Pendidikan Kebangsaan (Universitas Kebangsaan)",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 37,
-                            "ringkasan": "Pendiri Koperasi Swadesi Indonesia (KSI)",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
                         }
-                    ]                    
+                    ],
+                    "riwayat_organisasi": [
+                        {
+                            "id": 11,
+                            "ringkasan": "Ketua Umum Dewan Mesjid Indonesia",
+                            "jabatan": "Ketua",
+                            "tanggal_mulai": "2010",
+                            "tanggal_selesai": "2014"
+                        }, {
+                            "id": 12,
+                            "ringkasan": "Ketua Umum Palang Merah Indonesia",
+                            "jabatan": "Ketua",
+                            "tanggal_mulai": "2009",
+                            "tanggal_selesai": "2014"
+                        }
+                    ]
                 }]
             }
         }
@@ -355,46 +211,37 @@ A single Candidates object with all its details
                             "ringkasan": "SMPN I Solo",
                             "tanggal_mulai": "",
                             "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 3,
-                            "ringkasan": "SMAN 6 Solo",
-                            "tanggal_mulai": "",
-                            "tanggal_selesai": ""
-                        },
-                        {
-                            "id": 4,
-                            "ringkasan": "Fakultas Kehutanan UGM Yogyakarta",
-                            "tanggal_mulai": "1985",
-                            "tanggal_selesai": "1985"
                         }
                     ],
                     "riwayat_pekerjaan": [
                         {
-                            "id": 5,
+                            "id": 3,
                             "ringkasan": "Eksportir Mebel",
                             "tanggal_mulai": "",
                             "tanggal_selesai": ""
                         },
                         {
-                            "id": 6,
+                            "id": 4,
                             "ringkasan": "Walikota Surakarta",
                             "tanggal_mulai": "2005",
                             "tanggal_selesai": "2010"
-                        },
-                        {
-                            "id": 7,
-                            "ringkasan": "Walikota Surakarta",
-                            "tanggal_mulai": "2010",
-                            "tanggal_selesai": "2015"
-                        },
-                        {
-                            "id": 8,
-                            "ringkasan": "Gubernur Prov. DKI Jakarta",
-                            "tanggal_mulai": "2012",
-                            "tanggal_selesai": "2017"
                         }
                     ],
+                    "riwayat_organisasi": [
+                        {
+                            "id": 5,
+                            "ringkasan": "Bidang Pertambangan dan energi KADIN Surakarta",
+                            "jabatan": "Ketua",
+                            "tanggal_mulai": "1992",
+                            "tanggal_selesai": "1996"
+                        }, {
+                            "id": 6,
+                            "ringkasan": "ASMINDO Komda Surakarta",
+                            "jabatan": "Ketua",
+                            "tanggal_mulai": "2002",
+                            "tanggal_selesai": "2007"
+                        }
+                    ]
                 }]
             }
         }
