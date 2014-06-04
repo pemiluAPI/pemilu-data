@@ -96,12 +96,12 @@ A list of Candidates objects with all its details
                     ],
                     "riwayat_penghargaan": [
                         {
-                            "id": "7",
+                            "id": 7,
                             "ringkasan": "Satya Bhakti",
                             "institusi": "Kadin Jawa Tengah",
                             "tanggal": "2007"
                         }, {
-                            "id": "8",
+                            "id": 8,
                             "ringkasan": "Solo Pos Award",
                             "institusi": "Solo Pos",
                             "tanggal": "2007"
@@ -174,12 +174,12 @@ A list of Candidates objects with all its details
                     ],
                     "riwayat_penghargaan": [
                         {
-                            "id": "13",
+                            "id": 13,
                             "ringkasan": "Bintang Kartika Eka Paksi Nararya",
                             "institusi": "Tentara Nasional Indonesia (TNI) Angkatan Darat Republik Indonesia",
                             "tanggal": ""
                         }, {
-                            "id": "14",
+                            "id": 14,
                             "ringkasan": "Bintang Yudha Dharma Nararya",
                             "institusi": "Tentara Nasional Indonesia (TNI) Angkatan Darat Republik Indonesia",
                             "tanggal": ""
@@ -270,12 +270,12 @@ A single Candidates object with all its details
                     ],
                     "riwayat_penghargaan": [
                         {
-                            "id": "7",
+                            "id": 7,
                             "ringkasan": "Satya Bhakti",
                             "institusi": "Kadin Jawa Tengah",
                             "tanggal": "2007"
                         }, {
-                            "id": "8",
+                            "id": 8,
                             "ringkasan": "Solo Pos Award",
                             "institusi": "Solo Pos",
                             "tanggal": "2007"
