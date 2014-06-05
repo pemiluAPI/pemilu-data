@@ -9,7 +9,7 @@ Sample call: [http://api.pemiluapi.org/candidate/api/caleg?apiKey=fea6f7d9ec0b31
 # Group Candidates
 Candidates related resources of the **Candidates API**
 
-## Candidates Collection [/caleg?apiKey={apiKey}&tahun={tahun}&lembaga={lembaga}&jenis_kelamin={jenis_kelamin}&agama={agama}&provinsi={provinsi}&dapil={dapil}&partai={partai}&nama={nama}&limit={limit}&offset={offset}]
+## Candidates Collection [/caleg?apiKey={apiKey}&tahun={tahun}&lembaga={lembaga}&acara_terpilih={acara_terpilih}&jenis_kelamin={jenis_kelamin}&agama={agama}&provinsi={provinsi}&dapil={dapil}&partai={partai}&nama={nama}&limit={limit}&offset={offset}]
 A list of Candidates objects with abbreviated details (no riwayat pendidikan, pekerjaan, or organisasi)
 
 + Parameters
@@ -21,6 +21,7 @@ A list of Candidates objects with abbreviated details (no riwayat pendidikan, pe
     + provinsi (optional, string, `11`) ... String id of the `provinsi` (province) that the candidate is running in.
     + agama (optional, string, `islam`) ... String full or partial `agama` (religion) of the candidate. Will return all matching records.
     + jenis_kelamin (optional, string, `L`) ... String `jenis_kelamin` (gender) of the candidate.
+    + acara_terpilih (optional, string, `true`) ... String if true, show only candidates who were elected
     + lembaga (optional, string, `DPD`) ... String `lembaga` (legislative body) that the candidate is running for.
     + tahun (optional, number, `2014`) ... Number `tahun` (election year) that the candidate is running for.
     + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
@@ -61,7 +62,10 @@ A list of Candidates objects with abbreviated details (no riwayat pendidikan, pe
                         "nama": "Partai NasDem"
                     },
                     "urutan": 1,
-                    "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/01.%20PROF.%20DR.%20BACHTIAR%20ALY%2C%20MA.jpg"
+                    "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/01.%20PROF.%20DR.%20BACHTIAR%20ALY%2C%20MA.jpg",
+                    "suara_sah": "38820",
+                    "peringkat_suara_sah_calon": "1",
+                    "terpilih": "true"
                 }, {
                     "id": "1101-00-0000-0102",
                     "tahun": 2014,
@@ -91,7 +95,10 @@ A list of Candidates objects with abbreviated details (no riwayat pendidikan, pe
                         "nama": "Partai NasDem"
                     },
                     "urutan": 2,
-                    "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/02.%20DRS.%20H.T.%20PRIBADI.JPG"
+                    "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/02.%20DRS.%20H.T.%20PRIBADI.JPG",
+                    "suara_sah": "16523",
+                    "peringkat_suara_sah_calon": "3",
+                    "terpilih": "false"
                 }]
             }
         }
@@ -161,7 +168,10 @@ A single Candidates object with all its details
                             "nama": "Partai NasDem"
                         },
                         "urutan": 2,
-                        "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/02.%20DRS.%20H.T.%20PRIBADI.JPG"
+                        "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/02.%20DRS.%20H.T.%20PRIBADI.JPG",
+                        "suara_sah": "16523",
+                        "peringkat_suara_sah_calon": "3",
+                        "terpilih": "false"
                     }
                 ]
             }
