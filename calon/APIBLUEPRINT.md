@@ -63,8 +63,8 @@ A list of Candidates objects with abbreviated details (no riwayat pendidikan, pe
                     },
                     "urutan": 1,
                     "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/01.%20PROF.%20DR.%20BACHTIAR%20ALY%2C%20MA.jpg",
-                    "suara_sah": "38820",
-                    "peringkat_suara_sah_calon": "1",
+                    "suara_sah": 38820,
+                    "peringkat_suara_sah_calon": 1,
                     "terpilih": "true"
                 }, {
                     "id": "1101-00-0000-0102",
@@ -96,8 +96,8 @@ A list of Candidates objects with abbreviated details (no riwayat pendidikan, pe
                     },
                     "urutan": 2,
                     "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/02.%20DRS.%20H.T.%20PRIBADI.JPG",
-                    "suara_sah": "16523",
-                    "peringkat_suara_sah_calon": "3",
+                    "suara_sah": 16523,
+                    "peringkat_suara_sah_calon": 3,
                     "terpilih": "false"
                 }]
             }
@@ -169,8 +169,8 @@ A single Candidates object with all its details
                         },
                         "urutan": 2,
                         "foto_url": "http:\/\/dct.kpu.go.id\/images\/foto\/DPR\/1101.%20ACEH%20I\/01.%20NASDEM\/02.%20DRS.%20H.T.%20PRIBADI.JPG",
-                        "suara_sah": "16523",
-                        "peringkat_suara_sah_calon": "3",
+                        "suara_sah": 16523,
+                        "peringkat_suara_sah_calon": 3,
                         "terpilih": "false"
                     }
                 ]
