@@ -4,7 +4,11 @@ HOST: http://api.pemiluapi.org/faq-presiden/api/
 # FAQ Presiden API
 The FAQ Presiden API is a service that provides answers to questions about rules and regulations affecting the 2014 Indonesian Presidential elections.  It's part of [API Pemilu](http://developer.pemiluapi.org/)
 
-Sample call: [http://api.pemiluapi.org/faq-presiden/api/questions?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/faq-presiden/api/questions?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+Sample calls:
+
+**List all questions**
+
+[http://api.pemiluapi.org/faq-presiden/api/questions?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/faq-presiden/api/questions?apiKey=fea6f7d9ec0b31e256a673114792cb17)
 
 
 # Group Questions
