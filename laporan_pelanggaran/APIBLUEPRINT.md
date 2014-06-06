@@ -4,7 +4,19 @@ HOST: http://api.pemiluapi.org/laporan_pelanggaran/api/
 # Laporan Pelanggaran API
 The Laporan Pelanggaran API is a service that provides election violation reports. It's part of [API Pemilu](http://developer.pemiluapi.org/)
 
-Sample call: [http://api.pemiluapi.org/laporan_pelanggaran/api/reports?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/laporan_pelanggaran/api/reports?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+Sample calls:
+
+**List all reports**
+
+[http://api.pemiluapi.org/laporan_pelanggaran/api/reports?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/laporan_pelanggaran/api/reports?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Get reports with tags**
+
+[http://api.pemiluapi.org/laporan_pelanggaran/api/reports?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=masa%20tenang,iklan](http://api.pemiluapi.org/laporan_pelanggaran/api/reports?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=masa%20tenang,iklan)
+
+**List reports' tags**
+
+[http://api.pemiluapi.org/laporan_pelanggaran/api/tags?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/laporan_pelanggaran/api/tags?apiKey=fea6f7d9ec0b31e256a673114792cb17)
 
 
 # Group Reports
