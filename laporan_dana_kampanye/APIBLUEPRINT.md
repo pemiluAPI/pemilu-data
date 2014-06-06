@@ -4,6 +4,16 @@ HOST: http://api.pemiluapi.org/campaignfinance/api/
 # Campaign Finance Report API
 The Campaign Finance Report API is a service that provides information about campaign finance reports in the 2014 Indonesian elections. It's part of [API Pemilu](http://developer.pemiluapi.org/)
 
+Sample calls:
+
+**List all contributions**
+
+[http://api.pemiluapi.org/campaignfinance/api/contributions?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/campaignfinance/api/contributions?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**List all partai contributions and show a total**
+
+[http://api.pemiluapi.org/campaignfinance/api/contributions?apiKey=fea6f7d9ec0b31e256a673114792cb17&role=partai&total=true](http://api.pemiluapi.org/campaignfinance/api/contributions?apiKey=fea6f7d9ec0b31e256a673114792cb17&role=partai&total=true)
+
 # Group Contributions
 Contributions related resources of the **Campaign Finance Report API**
 
@@ -13,7 +23,7 @@ A list of Contributions objects with details
 + Parameters
     + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
     + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
-    + total (optional, string, `false`) ... String if `true`, return only the sum total values for all requested records (defaults to `false`)
+    + total (optional, string, `false`) ... String if `true`, include the sum total values for all requested records in the result (defaults to `false`)
     + periode (optional, string, `1,2,3`) ... String the period or periods to return results for (defaults to all available)
     + role (optional, string, `calon`) ... String the role or roles of the entity associated with the contribution (defaults to all; possible values are `calon`, `partai`, `perseorangan`, `kelompok`, `usaha`)
     + nama (optional, string, `pasha`) ... String full or partial `nama` (name) of the person or organization associated with the contribution. Will return all matching records.
