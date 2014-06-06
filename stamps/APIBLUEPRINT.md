@@ -4,7 +4,7 @@ HOST: http://api.pemiluapi.org/stamps/api/
 # Stamps API
 ![animated gif of all the stamp designs](http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/stamps-animated.gif)
 
-The Stamps API is a service that provides links to election-related stamps and banners that can be overlaid on photographs and shared on social media.  It's part of [API Pemilu](http://developer.pemiluapi.org/)
+The Stamps API is a service that provides links to stamps and badges related to the 2014 Indonesian elections that can be overlaid on photographs and shared on social media. It's part of [API Pemilu](http://developer.pemiluapi.org/)
 
 Sample calls:
 
