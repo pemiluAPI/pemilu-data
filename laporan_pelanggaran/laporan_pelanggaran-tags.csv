@@ -1,10 +1,547 @@
 id_laporan,tag
-00001,hanura
+00001,pidana
 00001,masa tenang
 00001,poster
 00001,foto
-00002,pkb
-00002,poster
-00002,foto
+00002,pidana
+00002,masa tenang
+00002,kampanye
 00003,facebook
 00003,masa tenang
+00004,pidana
+00004,tps
+00004,kertas suara
+00005,pidana
+00005,masa tenang
+00005,kampanye
+00006,pidana
+00006,tps
+00006,suara
+00007,pidana
+00007,dpr
+00007,caleg
+00007,money politic
+00008,dpd
+00008,alat peraga
+00009,dpd
+00009,alat peraga
+00010,dpr
+00010,alat peraga
+00011,dpd
+00011,caleg
+00011,alat peraga
+00012,dprd
+00012,caleg
+00012,alat peraga
+00013,dprd
+00013,caleg
+00013,alat peraga
+00014,partai
+00014,kampanye
+00014,alat peraga
+00015,dprd
+00015,caleg
+00015,alat peraga
+00016,dpr
+00016,caleg
+00016,alat peraga
+00017,dprd
+00017,caleg
+00017,alat peraga
+00018,dpr
+00018,caleg
+00018,alat peraga
+00019,dprd
+00019,caleg
+00019,alat peraga
+00020,dpd
+00020,alat peraga
+00021,dpd
+00021,jakarta
+00021,alat peraga
+00022,dprd
+00022,caleg
+00022,alat peraga
+00023,dpr
+00023,caleg
+00023,alat peraga
+00024,dpd
+00024,alat peraga
+00025,dpd
+00025,alat peraga
+00026,partai
+00026,alat peraga
+00027,dprd
+00027,caleg
+00027,alat peraga
+00028,dprd
+00028,caleg
+00028,alat peraga
+00029,dprd
+00029,caleg
+00029,alat peraga
+00030,dprd
+00030,caleg
+00030,alat peraga
+00031,dprd
+00031,caleg
+00031,alat peraga
+00032,partai
+00032,alat peraga
+00033,pidana
+00033,partai
+00034,pidana
+00034,partai
+00034,money politic
+00035,pidana
+00035,partai
+00035,money politic
+00036,pidana
+00036,partai
+00036,money politic
+00037,pidana
+00037,partai
+00037,money politic
+00038,dprd
+00038,caleg
+00038,alat peraga
+00039,partai
+00039,alat peraga
+00040,partai
+00040,alat peraga
+00041,dpr
+00041,caleg
+00041,alat peraga
+00042,dprd
+00042,caleg
+00042,alat peraga
+00043,dprd
+00043,caleg
+00043,alat peraga
+00044,dprd
+00044,caleg
+00044,alat peraga
+00045,pidana
+00045,partai
+00045,money politic
+00046,partai
+00046,alat peraga
+00047,dpr
+00047,caleg
+00047,alat peraga
+00048,pidana
+00048,dprd
+00048,caleg
+00048,money politic
+00049,partai
+00049,iklan
+00050,partai
+00050,iklan
+00051,pidana
+00051,dprd
+00051,caleg
+00051,anak anak
+00052,pidana
+00052,caleg
+00052,money politic
+00053,pidana
+00053,caleg
+00053,money politic
+00054,partai
+00054,alat peraga
+00055,televisi
+00055,iklan
+00056,partai
+00056,iklan
+00057,partai
+00057,anak anak
+00058,partai
+00058,alat peraga
+00059,dprd
+00059,caleg
+00059,alat peraga
+00060,dprd
+00060,caleg
+00060,alat peraga
+00061,dpr
+00061,caleg
+00061,alat peraga
+00062,caleg
+00062,alat peraga
+00063,dpr
+00063,demokrat
+00063,alat peraga
+00064,caleg
+00064,alat peraga
+00065,pidana
+00065,dprd
+00065,alat peraga
+00066,pidana
+00066,dprd
+00066,anak anak
+00067,partai
+00067,alat peraga
+00068,dpr
+00068,dprd
+00068,alat peraga
+00069,dprd
+00069,caleg
+00069,berita
+00070,pidana
+00070,partai
+00070,pengerahan massa
+00071,pidana
+00071,partai
+00071,pengerahan massa
+00072,partai
+00072,alat peraga
+00073,pidana
+00073,dprd
+00073,money politic
+00074,pidana
+00074,partai
+00074,anak anak
+00075,pidana
+00075,dpr
+00075,money politic
+00076,partai
+00076,iklan
+00077,pidana
+00077,caleg
+00077,money politic
+00078,kampanye
+00078,partai
+00078,alat peraga
+00079,partai
+00079,alat peraga
+00080,pidana
+00080,dprd
+00080,sara
+00081,dpr
+00081,caleg
+00081,alat peraga
+00082,partai
+00082,alat peraga
+00083,partai
+00083,alat peraga
+00084,partai
+00084,iklan
+00085,dpt
+00085,pemilih
+00086,pidana
+00086,partai
+00086,money politic
+00087,partai
+00087,lain lain
+00088,pidana
+00088,dprd
+00088,anak anak
+00089,pidana
+00089,dprd
+00089,money politic
+00090,pidana
+00090,dprd
+00090,money politic
+00091,pidana
+00091,dprd
+00091,tempat terlarang
+00092,dpt
+00092,pemilih
+00093,pidana
+00093,panitia
+00094,masa tenang
+00094,partai
+00095,masa tenang
+00095,partai
+00096,masa tenang
+00096,partai
+00097,pidana
+00097,panitia
+00097,kpps
+00098,pidana
+00098,tps
+00098,data pemilih
+00099,pidana
+00099,tps
+00099,caleg
+00100,pidana
+00100,dpt
+00101,pidana
+00101,money politic
+00102,tps
+00102,panitia
+00103,dprd
+00103,caleg
+00103,alat peraga
+00104,partai
+00104,alat peraga
+00105,dprd
+00105,caleg
+00105,alat peraga
+00106,dprd
+00106,caleg
+00106,alat peraga
+00107,partai
+00107,alat peraga
+00108,dpr
+00108,caleg
+00108,alat peraga
+00109,pidana
+00109,money politic
+00110,dpr
+00110,caleg
+00110,alat peraga
+00111,pidana
+00111,panitia
+00111,kpps
+00112,kampanye
+00112,alat peraga
+00113,pidana
+00113,caleg
+00113,money politic
+00114,kampanye
+00114,alat peraga
+00115,kampanye
+00115,alat peraga
+00116,kampanye
+00116,alat peraga
+00117,kampanye
+00117,alat peraga
+00118,kampanye
+00118,alat peraga
+00119,kampanye
+00119,alat peraga
+00120,partai
+00120,alat peraga
+00121,pidana
+00121,panitia
+00121,tps
+00122,pidana
+00122,caleg
+00122,money politic
+00123,partai
+00123,money politic
+00124,dpr
+00124,caleg
+00124,alat peraga
+00125,dpr
+00125,caleg
+00125,alat peraga
+00126,dprd
+00126,caleg
+00126,alat peraga
+00127,dprd
+00127,caleg
+00127,alat peraga
+00128,pidana
+00128,partai
+00129,dprd
+00129,pdip
+00129,alat peraga
+00130,dpr
+00130,dprd
+00130,alat peraga
+00131,caleg
+00131,alat peraga
+00132,dpr
+00132,caleg
+00132,alat peraga
+00133,dpr
+00133,caleg
+00133,alat peraga
+00134,masa tenang
+00134,partai
+00135,masa tenang
+00135,partai
+00135,alat peraga
+00136,pidana
+00136,sms
+00137,minggu tenang
+00137,alat peraga
+00138,minggu tenang
+00138,alat peraga
+00139,pidana
+00139,minggu tenang
+00139,kampanye
+00140,dpr
+00140,alat peraga
+00141,masa tenang
+00141,kampanye
+00142,masa tenang
+00142,iklan
+00143,pidana
+00143,masa tenang
+00143,kampanye
+00144,masa tenang
+00144,kampanye
+00144,partai
+00145,masa tenang
+00145,kampanye
+00145,partai
+00146,pidana
+00146,money politic
+00147,pidana
+00147,money politic
+00148,pidana
+00148,money politic
+00149,pidana
+00149,alat peraga
+00150,pidana
+00150,masa tenang
+00150,kampanye
+00151,pidana
+00151,masa tenang
+00151,kampanye
+00152,pidana
+00152,masa tenang
+00152,kampanye
+00153,pidana
+00153,masa pemilihan
+00153,kampanye
+00154,pidana
+00154,panitia
+00154,pemilih
+00155,pidana
+00155,panitia
+00155,pemilih
+00156,pidana
+00156,panitia
+00156,tps
+00157,pidana
+00157,masa tenang
+00157,kampanye
+00158,pidana
+00158,masa tenang
+00158,kampanye
+00159,pidana
+00159,masa pemilihan
+00159,kampanye
+00160,pidana
+00160,masa pemilihan
+00160,kampanye
+00161,pidana
+00161,masa pemilihan
+00161,kampanye
+00162,pidana
+00162,masa pemilihan
+00162,kampanye
+00163,pidana
+00163,masa pemilihan
+00163,kampanye
+00164,pidana
+00164,panitia
+00164,pps
+00165,pidana
+00165,masa tenang
+00165,kampanye
+00166,pidana
+00166,pks
+00166,money politic
+00167,pidana
+00167,masa tenang
+00167,kampanye
+00168,pidana
+00168,masa tenang
+00168,kampanye
+00169,pidana
+00169,masa tenang
+00169,kampanye
+00170,pidana
+00170,masa tenang
+00170,kampanye
+00171,pidana
+00171,masa tenang
+00171,kampanye
+00172,pidana
+00172,masa tenang
+00172,kampanye
+00173,pidana
+00173,panitia
+00174,pidana
+00174,money politic
+00175,pidana
+00175,masa tenang
+00175,kampanye
+00176,pidana
+00176,masa tenang
+00176,kampanye
+00177,pidana
+00177,masa tenang
+00177,kampanye
+00178,pidana
+00178,masa tenang
+00178,kampanye
+00179,pidana
+00179,masa tenang
+00179,kampanye
+00180,pidana
+00180,masa tenang
+00180,kampanye
+00181,pidana
+00181,masa tenang
+00181,kampanye
+00182,pidana
+00182,masa tenang
+00182,kampanye
+00183,pidana
+00183,masa tenang
+00183,kampanye
+00184,pidana
+00184,masa tenang
+00184,kampanye
+00185,pidana
+00185,masa tenang
+00185,kampanye
+00186,pidana
+00186,masa tenang
+00186,kampanye
+00187,pidana
+00187,masa tenang
+00187,kampanye
+00188,pidana
+00188,masa tenang
+00188,kampanye
+00189,pidana
+00189,masa tenang
+00189,kampanye
+00190,pidana
+00190,masa tenang
+00190,kampanye
+00191,pidana
+00191,masa tenang
+00191,kampanye
+00192,pidana
+00192,masa tenang
+00192,kampanye
+00193,pidana
+00193,masa tenang
+00193,kampanye
+00194,pidana
+00194,masa tenang
+00194,kampanye
+00195,pidana
+00195,masa tenang
+00195,kampanye
+00196,pidana
+00196,masa tenang
+00196,kampanye
+00197,pidana
+00197,masa tenang
+00197,kampanye
+00198,pidana
+00198,masa tenang
+00198,kampanye
+00199,pidana
+00199,masa tenang
+00199,kampanye
+00200,pidana
+00200,masa tenang
+00200,kampanye
+00201,pidana
+00201,masa tenang
+00201,kampanye
+00202,pidana
+00202,masa tenang
+00202,kampanye
+00203,pidana
+00203,money politic
