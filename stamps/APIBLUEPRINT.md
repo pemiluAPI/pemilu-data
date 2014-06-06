@@ -30,13 +30,16 @@ A list of Stamp objects with all details
                     "total": 60,
                     "stamps": [{
                         "id": "001",
-                        "text": "FPO",
-                        "url_preview": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png",
-                        "width_preview": 50,
-                        "height_preview": 50,
-                        "url_full": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png",
-                        "width_full": 135,
-                        "height_full": 135,
+                        "text": "Menuju Istana Negara",
+                        "url_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png",
+                        "width_small": 100,
+                        "height_small": 100,
+                        "url_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png",
+                        "width_medium": 400,
+                        "height_medium": 400,
+                        "url_large": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png",
+                        "width_large": 800,
+                        "height_large": 800,
                         "tags": ["fpo", "sample", "vote"]
                     }]
                 }
@@ -60,13 +63,16 @@ A single Stamp object with all its details
                     "total": 1,
                     "stamps": [{
                         "id": "001",
-                        "text": "FPO",
-                        "url_preview": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png",
-                        "width_preview": 50,
-                        "height_preview": 50,
-                        "url_full": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png",
-                        "width_full": 135,
-                        "height_full": 135,
+                        "text": "Menuju Istana Negara",
+                        "url_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-preview-50x50.png",
+                        "width_small": 100,
+                        "height_small": 100,
+                        "url_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png",
+                        "width_medium": 400,
+                        "height_medium": 400,
+                        "url_large": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/fpo-full-135x135.png",
+                        "width_large": 800,
+                        "height_large": 800,
                         "tags": ["fpo", "sample", "vote"]
                     }]
                 }
