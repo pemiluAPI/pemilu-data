@@ -4,7 +4,51 @@ HOST: http://api.pemiluapi.org/calonpresiden/api/
 # Presidential Candidate API
 The Presidential Candidate API is a service that provides information about candidates running for president and vice-president in the 2014 Indonesian elections. It's part of [API Pemilu](http://developer.pemiluapi.org/)
 
-Sample call: [http://api.pemiluapi.org/calonpresiden/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25](http://api.pemiluapi.org/calonpresiden/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25)
+Sample calls:
+
+[Candidates](#candidates)
+==========
+
+**List all candidates**
+
+[http://api.pemiluapi.org/calonpresiden/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/calonpresiden/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Get a single candidate's information**
+
+[http://api.pemiluapi.org/calonpresiden/api/caleg/jk?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/calonpresiden/api/caleg/jk?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+[Events](#events)
+======
+
+**Get a list of events candidates will attend, from today forward**
+
+[http://api.pemiluapi.org/calonpresiden/api/events?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/calonpresiden/api/events?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Get a list of events one candidate attended between two dates**
+
+[http://api.pemiluapi.org/calonpresiden/api/events?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=ps&after=2014-04-20&before=2014-04-29](http://api.pemiluapi.org/calonpresiden/api/events?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=ps&after=2014-04-20&before=2014-04-29)
+
+[Promises](#promises)
+========
+
+**Get a list of promises candidates have made**
+
+[http://api.pemiluapi.org/calonpresiden/api/promises?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/calonpresiden/api/promises?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Get a list of promises one candidate has made**
+
+[http://api.pemiluapi.org/calonpresiden/api/promises?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=jw](http://api.pemiluapi.org/calonpresiden/api/promises?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=jw)
+
+[Videos](#videos)
+======
+
+**Get a list of candidate videos**
+
+[http://api.pemiluapi.org/calonpresiden/api/videos?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/calonpresiden/api/videos?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Get all videos with a certain tag**
+
+[http://api.pemiluapi.org/calonpresiden/api/videos?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=debat](http://api.pemiluapi.org/calonpresiden/api/videos?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=debat)
 
 # Group Candidates
 Candidates related resources of the **Presidential Candidate API**
