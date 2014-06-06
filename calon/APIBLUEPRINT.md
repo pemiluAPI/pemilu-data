@@ -4,7 +4,44 @@ HOST: http://api.pemiluapi.org/candidate/api/
 # Candidate API
 The Candidate API is a service that provides information about candidates running for office in the 2014 Indonesian elections. It's part of [API Pemilu](http://developer.pemiluapi.org/)
 
-Sample call: [http://api.pemiluapi.org/candidate/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25](http://api.pemiluapi.org/candidate/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25)
+Sample calls:
+
+[Candidates](#candidates)
+==========
+
+**List candidates**
+
+[http://api.pemiluapi.org/candidate/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25](http://api.pemiluapi.org/candidate/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&limit=25)
+
+**Get a single candidate's information**
+
+[http://api.pemiluapi.org/candidate/api/caleg/8200-00-0000-0029?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/candidate/api/caleg/8200-00-0000-0029?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Get a list of woman candidates who were elected to the DPR**
+
+[http://api.pemiluapi.org/candidate/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&jenis_kelamin=p&acara_terpilih=true&lembaga=dpr](http://api.pemiluapi.org/candidate/api/caleg?apiKey=fea6f7d9ec0b31e256a673114792cb17&jenis_kelamin=p&acara_terpilih=true&lembaga=dpr)
+
+[Parties](#parties)
+=======
+
+**List parties**
+
+[http://api.pemiluapi.org/candidate/api/partai?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/candidate/api/partai?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+[Provinces](#provinces)
+=======
+
+**List provinces**
+
+[http://api.pemiluapi.org/candidate/api/provinsi?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/candidate/api/provinsi?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+[Electoral Districts](#electoraldistricts)
+=======
+
+**List electoral districts**
+
+[http://api.pemiluapi.org/candidate/api/dapil?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/candidate/api/dapil?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
 
 # Group Candidates
 Candidates related resources of the **Candidates API**
