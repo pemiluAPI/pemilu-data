@@ -2,9 +2,27 @@ FORMAT: 1A
 HOST: http://api.pemiluapi.org/stamps/api/
 
 # Stamps API
-The Stamps API is a service that provides links to election-related stamps and banners that can be overlaid on photographs.  It's part of [API Pemilu](http://developer.pemiluapi.org/)
+![animated gif of all the stamp designs](http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/stamps/stamps-animated.gif)
 
-Sample call: [http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+The Stamps API is a service that provides links to election-related stamps and banners that can be overlaid on photographs and shared on social media.  It's part of [API Pemilu](http://developer.pemiluapi.org/)
+
+Sample calls:
+
+**List all stamps**
+
+[http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Search stamp text**
+
+[http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17&text=pilih](http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17&text=pilih)
+
+**Get stamps with tags**
+
+[http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=nonpartisan](http://api.pemiluapi.org/stamps/api/stamps?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=nonpartisan)
+
+**List stamps' tags**
+
+[http://api.pemiluapi.org/stamps/api/tags?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/stamps/api/tags?apiKey=fea6f7d9ec0b31e256a673114792cb17)
 
 
 # Group Stamps
