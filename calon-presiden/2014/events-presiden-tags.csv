@@ -37,24 +37,50 @@ id_schedule,tag
 0011,jokowi
 0011,pdip
 0011,megawati
-0012,kunjungan
-0012,capres
-0012,prabowo
-0013,kunjungan
-0013,capres
-0013,prabowo
-0013,arb
-0013,gerindra
-0013,golkar
+0012,Jokowi
+0012,JK
+0012,Deklarasi
+0012,Capres
+0012,Cawapres
+0013,Jokowi
+0013,Kampanye
+0013,Janji-Janji
+0014,kunjungan
 0014,capres
 0014,prabowo
-0014,kunjungan
+0015,kunjungan
 0015,capres
 0015,prabowo
-0015,kunjungan
-0016,cawapres
-0016,hatta
+0015,arb
+0015,gerindra
+0015,golkar
+0016,capres
+0016,prabowo
 0016,kunjungan
 0017,capres
-0017,deklarasi
 0017,prabowo
+0017,kunjungan
+0018,cawapres
+0018,hatta
+0018,kunjungan
+0019,capres
+0019,deklarasi
+0019,prabowo
+0020,hadir
+0020,halaqoh
+0020,Nadhadatul
+0020,Ulama
+0021,Hatta Rajasa
+0021,Kalimantan
+0022,Hatta Rajasa
+0022,pasar
+0023,Hatta Rajasa
+0023,rakyat
+0023,pesantren
+0023,akhlak
+0023,komitmen
+0024,Prabowo
+0024,ajak anak muda
+0025,Hatta Rajasa
+0025,kampanye
+0025,Banten
