@@ -545,3 +545,453 @@ id_laporan,tag
 00202,kampanye
 00203,pidana
 00203,money politic
+00204,pidana
+00204,partai
+00204,money politic
+00205,pidana
+00205,caleg
+00205,money politic
+00206,KPU
+00206,Panwaslu
+00207,penggemblungan
+00208,ppk
+00209,kpu
+00209,suara hilang
+00209,caleg
+00210,caleg
+00210,money politic
+00211,rekapitulasi
+00211,caleg
+00211,perubahan
+00212,perubahan
+00212,rekapitulasi
+00212,caleg
+00213,penggemblungan
+00213,tps
+00214,panwaslu
+00214,kpud
+00215,penggelembungan
+00215,caleg
+00216,pengurangan
+00216,rekapitulasi
+00217,pengurangan
+00217,rekapitulasi
+00218,penggelembungan
+00219,pps
+00220,rekapitulasi
+00220,perubahan
+00221,penggelembungan
+00222,rekapitulasi
+00222,manipulasi
+00223,bawaslu
+00223,panwaslu
+00224,rekapitulasi
+00224,perubahan
+00225,kpu daerah
+00226,pps
+00226,money politics
+00227,penggelembungan
+00227,kpud
+00228,rekapitulasi
+00228,kpud
+00229,kpud
+00229,rekapitulasi
+00230,rekapitulasi
+00230,perubahan
+00231,rekapitulasi
+00231,perubahan
+00232,penggelembungan
+00233,rekapitulasi
+00233,perubahan
+00234,rekapitulasi
+00234,panwaslu
+00235,bawaslu
+00235,panwaslu
+00236,penggelembungan
+00237,penggelembungan
+00237,rekapitulasi
+00238,penggelembungan
+00239,rekapitulasi
+00239,perubahan
+00240,penggelembungan
+00240,form c1
+00241,form c1
+00242,penggemebungan
+00242,money politic
+00243,kpu
+00243,panwaslu
+00244,penggelembungan
+00245,penggelembungan
+00246,manipulasi
+00246,rekapitulasi
+00247,perubahan
+00247,rekapitulasi
+00248,panitia
+00248,tps
+00249,panitia
+00249,tps
+00250,rekapitulasi
+00250,perubahan
+00251,penggelembungan
+00252,penggelembungan
+00253,rekapitulasi
+00253,perubahan
+00254,penggelembungan
+00254,form c1
+00255,penggelembungan
+00256,panita
+00256,tps
+00257,rekapitulasi
+00257,perubahan
+00258,rekapitulasi
+00258,perubahan
+00259,penggelembungan
+00260,masa tenang
+00260,kampanye
+00260,money politic
+00261,rekapitulasi
+00261,perubahan
+00262,penggelembungan
+00262,panwaslu
+00262,form d1
+00263,rekapitulasi
+00263,perubahan
+00264,bawaslu
+00264,penggelembungan
+00266,caleg
+00266,money politic
+00267,rekapitulasi
+00267,perubahan
+00268,caleg
+00268,penggelembungan
+00269,penggelembungan
+00269,rekapitulasi
+00270,penggelembungan
+00270,rekapitulasi
+00270,mobilisasi
+00271,penggelembungan
+00271,rekapitulasi
+00272,rekapitulasi
+00272,perubahan
+00273,kpud
+00274,panitia
+00274,tps
+00275,penggelembungan
+00275,rekapitulasi
+00276,rekapitulasi
+00276,perubahan
+00277,kpu
+00277,bawaslu
+00277,kpud
+00278,rekapitulasi
+00278,perubahan
+00278,kpps
+00279,rekapitulasi
+00279,perubahan
+00280,penggelembungan
+00280,rekapitulasi
+00281,penggelembungan
+00281,rekapitulasi
+00282,kpu
+00282,panwaslu
+00283,rekapitulasi
+00283,perubahan
+00284,penggelembungan
+00284,rekapitulasi
+00285,penggelembungan
+00285,rekapitulasi
+00286,rekapitulasi
+00286,manipulasi
+00287,rekapitulasi
+00287,penggelembungan
+00288,rekapitulasi
+00288,penggelembungan
+00289,caleg
+00289,money politic
+00290,rekapitulasi
+00290,penggelembungan
+00291,rekapitulasi
+00291,penggelembungan
+00292,rekapitulasi
+00292,penggelembungan
+00293,rekapitulasi
+00293,penggelembungan
+00294,rekapitulasi
+00294,form c1
+00295,caleg
+00295,money politic
+00295,penggelembungan
+00296,kpud
+00296,panwaslu
+00297,rekapitulasi
+00297,penggelembungan
+00298,caleg
+00298,kpud
+00299,rekapitulasi
+00299,penggelembungan
+00300,rekapitulasi
+00300,penggelembungan
+00301,rekapitulasi
+00301,penggelembungan
+00302,rekapitulasi
+00302,penggelembungan
+00303,rekapitulasi
+00303,perubahan
+00304,pemilih
+00305,rekapitulasi
+00305,penggelembungan
+00306,rekapitulasi
+00306,penggelembungan
+00307,rekapitulasi
+00307,penggelembungan
+00308,caleg
+00308,money politic
+00309,rekapitulasi
+00309,penggelembungan
+00310,rekapitulasi
+00310,penggelembungan
+00311,rekapitulasi
+00311,penggelembungan
+00312,rekapitulasi
+00312,penggelembungan
+00313,rekapitulasi
+00313,penggelembungan
+00314,rekapitulasi
+00314,manipulasi
+00315,money politic
+00316,rekapitulasi
+00316,penggelembungan
+00317,rekapitulasi
+00317,penggelembungan
+00318,rekapitulasi
+00318,penggelembungan
+00319,rekapitulasi
+00319,penggelembungan
+00320,rekapitulasi
+00320,penggelembungan
+00321,rekapitulasi
+00321,penggelembungan
+00322,rekapitulasi
+00322,penggelembungan
+00323,rekapitulasi
+00323,perubahan
+00324,kode etik
+00324,panwaslu
+00324,pps
+00325,rekapitulasi
+00325,penggelembungan
+00325,money politic
+00326,rekapitulasi
+00326,perubahan
+00327,rekapitulasi
+00327,perubahan
+00328,rekapitulasi
+00328,penggelembungan
+00329,perempuan
+00330,rekapitulasi
+00330,penggelembungan
+00331,panwaslu
+00332,rekapitulasi
+00332,perubahan
+00333,rekapitulasi
+00333,penggelembungan
+00334,rekapitulasi
+00334,penggelembungan
+00335,rekapitulasi
+00335,manipulasi
+00336,rekapitulasi
+00336,penggelembungan
+00337,pidana
+00338,rekapitulasi
+00338,penggelembungan
+00339,rekapitulasi
+00339,penggelembungan
+00340,rekapitulasi
+00340,penggelembungan
+00341,pidana
+00341,kpps
+00342,noken
+00343,rekapitulasi
+00343,penggelembungan
+00344,rekomendasi
+00344,bawaslu
+00345,rekapitulasi
+00345,penggelembungan
+00346,kpud
+00346,rekapitulasi
+00347,kpud
+00347,kode etik
+00348,rekapitulasi
+00348,penggelembungan
+00349,mobilisasi massa
+00350,rekapitulasi
+00350,form c1
+00351,panitia
+00351,kpud
+00352,rekapitulasi
+00352,perubahan
+00353,rekapitulasi
+00353,penggelembungan
+00354,rekapitulasi
+00354,penggelembungan
+00355,rekapitulasi
+00355,penggelembungan
+00356,rekapitulasi
+00356,penggelembungan
+00357,rekapitulasi
+00357,penggelembungan
+00358,rekapitulasi
+00358,penggelembungan
+00359,rekapitulasi
+00359,penggelembungan
+00360,rekapitulasi
+00360,perubahan
+00361,caleg
+00361,money politic
+00362,money politic
+00363,rekapitulasi
+00363,penggelembungan
+00364,rekomendasi
+00364,panwaslu
+00365,rekomendasi
+00365,panwaslu
+00365,penggelembungan
+00366,rekapitulasi
+00366,perubahan
+00367,rekapitulasi
+00367,rekomendasi
+00367,panwaslu
+00368,pleno
+00368,kpud
+00369,kode etik
+00369,kpps
+00369,caleg
+00370,rekomendasi
+00370,bawaslu provinsi
+00370,penggelembungan
+00371,rekapitulasi
+00371,perubahan
+00372,rekapitulasi
+00372,perubahan
+00373,rekapitulasi
+00373,penggelembungan
+00374,kpps
+00374,panwaslu
+00376,rekapitulasi
+00376,manipulasi
+00377,rekapitulasi
+00377,perubahan
+00378,rekapitulasi
+00378,penggelembungan
+00379,rekapitulasi
+00379,penggelembungan
+00380,rekapitulasi
+00380,perubahan
+00381,kode etik
+00381,kpps
+00381,kpud
+00382,rekapitulasi
+00382,manipulasi
+00383,money politic
+00383,kpps
+00384,rekapitulasi
+00384,perubahan
+00385,rekapitulasi
+00385,penggelembungan
+00386,pemalsuan
+00387,tps
+00387,panitia
+00388,money politic
+00388,panwaslu
+00389,rekapitulasi
+00389,penggelembungan
+00390,kode etik
+00390,kpud
+00391,rekapitulasi
+00391,manipulasi
+00392,money politic
+00392,caleg
+00393,rekapitulasi
+00393,perubahan
+00394,rekapitulasi
+00394,form c1
+00395,rekapitulasi
+00395,penggelembungan
+00396,rekapitulasi
+00396,penggelembungan
+00397,rekapitulasi
+00397,penggelembungan
+00398,rekapitulasi
+00398,perubahan
+00399,rekomendasi
+00399,panwaslu
+00400,rekapitulasi
+00400,manipulasi
+00401,rekapitulasi
+00401,manipulasi
+00402,rekomendasi
+00402,panwaslu
+00403,rekapitulasi
+00403,perubahan
+00404,rekapitulasi
+00404,manipulasi
+00405,rekomendasi
+00405,bawaslu
+00406,panitia
+00406,tps
+00407,rekomendasi
+00407,panwaslu
+00408,rekapitulasi
+00408,perubahan
+00409,money politic
+00410,rekapitulasi
+00410,perubahan
+00411,rekapitulasi
+00411,perubahan
+00412,rekapitulasi
+00412,perbedaan
+00413,rekapitulasi
+00413,perubahan
+00414,rekapitulasi
+00414,penggelembungan
+00415,rekapitulasi
+00415,penggelembungan
+00416,rekapitulasi
+00416,perubahan
+00417,rekapitulasi
+00417,perubahan
+00418,rekomendasi
+00418,bawaslu
+00419,caleg
+00419,money politic
+00420,money politic
+00420,caleg
+00421,DCT
+00422,rekapitulasi
+00422,perubahan
+00423,bawaslu
+00424,rekapitulasi
+00424,penggelembungan
+00425,rekapitulasi
+00425,perubahan
+00426,kode etik
+00426,panwaslu
+00427,kode etik
+00427,kpps
+00427,kpud
+00428,kode etik
+00428,kpud
+00429,rekapitulasi
+00429,penggelembungan
+00430,kode etik
+00430,kpud
+00431,kode etik
+00431,kpud
+00432,rekapitulasi
+00432,penggelembungan
+00433,rekapitulasi
+00433,perubahan
+00434,kpud
+00434,pleno
+00435,kode etik
+00435,kpud
