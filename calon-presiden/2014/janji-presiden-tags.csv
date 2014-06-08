@@ -40,105 +40,204 @@ id_janji,tag
 0013,jokowi
 0013,janji
 0013,ekonomi
-0014,jani
-0014,jk
-0014,pilpres
+0014,jokowi
+0014,janji
+0014,ketahanan negara
 0015,janji
-0015,jk
-0015,pilpres
-0016,jusuf kalla
+0015,jokowi
 0016,janji
-0016,universitas
-0016,pattimura
-0017,prabowo
-0017,janji
-0017,tidak
-0017,prioritas
-0017,kader
-0018,prabowo
-0018,janji
-0018,ambil
-0018,kebijakan
-0018,tidak populer
-0019,prabowo
-0019,bukan
-0019,popularitas
-0019,cari
-0019,subsidi
-0019,bbm
-0019,apbn
-0020,prabowo
+0016,jokowi
+0016,logistik
+0017,Janji
+0017,Jokowi
+0017,pembangunan Infrastruktur
+0018,Janji
+0018,jokowi
+0018,Hukuman Untuk Koruptor
+0019,janji
+0019,jokowi
+0019,energi murah
 0020,janji
-0020,anggaran
-0020,kpk
-0021,prabowo
-0021,janji
-0021,partai
-0021,infrastruktur
-0021,indonesia
-0021,porsi
-0022,partai
-0022,gerindra
-0022,pendapatan
-0022,indonesia
-0022,naik
-0023,prabowo
-0023,janji
-0023,bangun
-0023,jalan
-0023,tol
-0024,prabowo
-0024,janji
-0024,partai
-0024,pangan
-0024,petani
-0024,miskin
-0024,lahan
-0024,tradisional
-0025,prabowo
-0025,janji
-0025,infrastruktur
-0025,perbaikan
-0025,pertanian
-0026,prabowo
-0026,membangun
-0026,industri
-0026,transportasi
-0026,penerbangan
-0026,indonesia
-0027,prabowo
+0020,jokowi
+0020,pembangunan infrastruktur
+0021,Janji
+0021,Jokowi
+0021,Pembangunan Infrastruktur
+0022,Janji
+0022,Jokowi
+0022,Kampanye Bersih
+0023,Janji
+0023,Jokowi Subsidi BBM
+0024,Janji
+0024,Jokowi
+0024,Pembangunan Infrastruktur
+0025,Janji
+0025,Jokowi
+0025,Pendidikan
+0025,Hapuskan UN
+0026,Janji
+0026,JK
+0026,Pembangunan Infrastruktur
 0027,janji
-0027,alokasi
-0027,anggaran
-0027,desa
-0027,indonesia
-0028,prabowo
+0027,jk
+0027,kampanye bersih
 0028,janji
-0028,buruh
-0029,prabowo
+0028,jk
+0028,pelayanan masyarakat
 0029,janji
-0029,menteri
-0029,wanita
-0030,prabowo
+0029,jk
+0029,pendidikan
 0030,janji
-0030,menuntut
-0030,tanggung jawab
-0031,hatta rajasa
+0030,jk
+0030,pembangunan
 0031,janji
-0031,bangun
-0031,banten
-0031,selatan
-0032,hatta rajasa
+0031,jk
+0031,pelunasan hutang
 0032,janji
-0032,bangun
-0032,indonesia
-0032,timur
-0033,hatta rajasa
+0032,jk
+0032,logistik
 0033,janji
-0033,kalimantan
-0033,sulawesi
-0033,maluku
-0033,papua
-0034,hatta rajasa
+0033,jk
+0033,Pembangunan Infrastruktur
 0034,janji
-0034,pasar
+0034,jk
+0034,Hukuman kepada koruptor
+0035,Janji
+0035,Jk
+0035,UUPA
+0036,janji
+0036,jk
+0036,energi murah
+0037,janji
+0037,jk
+0037,pembangunan infrastruktur
+0038,janji
+0038,jk
+0038,pembangunan infrastruktur
+0039,Janji
+0039,JK
+0039,Kampanye Bersih
+0040,Janji
+0040,JK
+0040,Subsidi BBM
+0041,Janji
+0041,JK
+0041,Pembangunan Infrastruktur
+0042,Janji
+0042,JK
+0042,Pendidikan
+0042,Hapuskan UN
+0043,Janji
+0043,JK
+0043,Pembangunan Infrastruktur
+0044,prabowo
+0044,janji
+0044,tidak
+0044,prioritas
+0044,kader
+0045,prabowo
+0045,janji
+0045,ambil
+0045,kebijakan
+0045,tidak populer
+0046,prabowo
+0046,bukan
+0046,popularitas
+0046,cari
+0046,subsidi
+0046,bbm
+0046,apbn
+0047,prabowo
+0047,janji
+0047,anggaran
+0047,kpk
+0048,prabowo
+0048,janji
+0048,partai
+0048,infrastruktur
+0048,indonesia
+0048,porsi
+0049,partai
+0049,gerindra
+0049,pendapatan
+0049,indonesia
+0049,naik
+0050,prabowo
+0050,janji
+0050,bangun
+0050,jalan
+0050,tol
+0051,prabowo
+0051,janji
+0051,partai
+0051,pangan
+0051,petani
+0051,miskin
+0051,lahan
+0051,tradisional
+0052,prabowo
+0052,janji
+0052,infrastruktur
+0052,perbaikan
+0052,pertanian
+0053,prabowo
+0053,membangun
+0053,industri
+0053,transportasi
+0053,penerbangan
+0053,indonesia
+0054,prabowo
+0054,janji
+0054,alokasi
+0054,anggaran
+0054,desa
+0054,indonesia
+0055,prabowo
+0055,janji
+0055,buruh
+0056,prabowo
+0056,janji
+0056,menteri
+0056,wanita
+0057,prabowo
+0057,janji
+0057,menuntut
+0057,tanggung jawab
+0058,Hatta Rajasa
+0058,janji
+0058,bangun
+0058,banten
+0058,selatan
+0059,Hatta Rajasa
+0059,janji
+0059,bangun
+0059,indonesia
+0059,timur
+0060,Hatta Rajasa
+0060,janji
+0060,kalimantan
+0060,sulawesi
+0060,maluku
+0060,papua
+0061,Hatta Rajasa
+0061,janji
+0061,pasar
+0062,Hatta Rajasa
+0062,janji
+0062,bangun
+0062,masyarakat
+0062,ahlak
+0062,Pesantren
+0063,Hatta Rajasa
+0063,janji
+0063,Banten
+0064,Hatta Rajasa
+0064,janji
+0064,Sumatera
+0064,Barat
+0065,Hatta Rajasa
+0065,janji
+0065,Bali Utara
+0066,Hatta Rajasa
+0066,Janji
+0066,Pembangunan infrastruktur
