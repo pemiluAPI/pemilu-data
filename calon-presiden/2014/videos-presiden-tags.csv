@@ -210,111 +210,169 @@ id_video,tag
 0080,rajasa
 0080,berantas
 0080,korupsi
-0081,jokowi
-0081,news segment
-0081,al jazeera
-0082,orasi
+0081,hatta rajasa
+0081,news
+0082,hatta rajasa
 0082,pidato
-0082,jokowi
-0083,interview
-0083,jokowi
-0084,interview
-0084,jokowi
-0085,interview
-0085,jokowi
+0083,hatta rajasa
+0083,deklarasi
+0083,pidato
+0084,hatta rajasa
+0084,news
+0084,deklarasi
+0085,hatta rajasa
+0085,wawancara
+0086,hatta rajasa
 0086,pidato
-0086,jokowi
-0087,pidato
-0087,jokowi
-0088,pidato
-0088,jokowi
-0089,pidato
-0089,jokowi
-0090,debat
-0090,tim sukse
-0091,visi misi
-0091,jokowi
-0092,visi misi
-0092,jokowi
-0093,visi misi
+0087,hatta rajasa
+0087,orasi
+0088,hatta rajasa
+0088,kampanye
+0089,hatta rajasa
+0089,news
+0089,wawancara
+0090,hatta rajasa
+0090,pidato
+0090,keynote speak seminar
+0091,hatta rajasa
+0091,seminar
+0092,hatta rajasa
+0092,pidato
 0093,jokowi
-0094,news
+0093,news segment
+0093,al jazeera
+0094,orasi
+0094,pidato
 0094,jokowi
-0096,wawancara
+0095,interview
+0095,jokowi
+0096,interview
 0096,jokowi
-0097,talkshow
+0097,interview
 0097,jokowi
-0098,news
+0098,pidato
 0098,jokowi
-0099,news
+0099,pidato
 0099,jokowi
+0100,pidato
+0100,jokowi
 0101,pidato
 0101,jokowi
-0102,news
-0102,wawancara
-0102,jokowi
-0103,wawancara
+0102,debat
+0102,tim sukse
+0103,visi misi
 0103,jokowi
-0105,pidato
+0104,visi misi
+0104,jokowi
+0105,visi misi
 0105,jokowi
-0106,wawancara
-0106,eksklusif
+0106,news
 0106,jokowi
-0107,blusukan
-0107,jokowi
-0108,raker
+0108,wawancara
 0108,jokowi
-0108,jk
-0109,wawancara
+0109,talkshow
 0109,jokowi
-0110,liputan
-0110,jokowi-jk
-0111,wawancara
-0111,jusuf kalla
+0110,news
+0110,jokowi
+0111,news
 0111,jokowi
-0111,capres
-0112,wawancara
-0112,jusuf kalla
-0112,calon
-0112,wakil
-0112,presiden
-0113,wawancara
-0113,jusuf kalla
-0114,diplomasi
-0114,damai
-0114,jusuf kalla
-0115,jusuf kalla
-0115,kampanye
-0115,aceh
-0116,jusuf kalla
-0116,live
-0116,dialog
-0116,setelah
-0116,deklarasi
-0116,jokowi
-0117,jusuf kalla
-0117,ruhut
-0117,debat
-0118,jusuf kalla
-0118,bersaksi
-0118,century
-0119,tanggapan
-0119,jk
-0119,video
-0119,heboh
+0113,pidato
+0113,jokowi
+0114,news
+0114,wawancara
+0114,jokowi
+0115,wawancara
+0115,jokowi
+0117,pidato
+0117,jokowi
+0118,wawancara
+0118,eksklusif
+0118,jokowi
+0119,blusukan
 0119,jokowi
-0119,indonesia
-0119,hancur
-0120,tanggapan
+0120,raker
+0120,jokowi
 0120,jk
-0120,video
-0120,heboh
-0120,komentar
-0120,2 tahun
-0121,jusuf kalla
-0121,ibu
-0121,buku
-0122,jusuf kalla
-0122,kampanye
-0122,perdana
-0122,aceh
+0121,wawancara
+0121,jokowi
+0122,liputan
+0122,jokowi-jk
+0123,wawancara
+0123,jusuf kalla
+0123,jokowi
+0123,capres
+0124,wawancara
+0124,jusuf kalla
+0124,calon
+0124,wakil
+0124,presiden
+0125,wawancara
+0125,jusuf kalla
+0126,diplomasi
+0126,damai
+0126,jusuf kalla
+0127,jusuf kalla
+0127,kampanye
+0127,aceh
+0128,jusuf kalla
+0128,live
+0128,dialog
+0128,setelah
+0128,deklarasi
+0128,jokowi
+0129,jusuf kalla
+0129,ruhut
+0129,debat
+0130,jusuf kalla
+0130,bersaksi
+0130,century
+0131,tanggapan
+0131,jk
+0131,video
+0131,heboh
+0131,jokowi
+0131,indonesia
+0131,hancur
+0132,tanggapan
+0132,jk
+0132,video
+0132,heboh
+0132,komentar
+0132,2 tahun
+0133,jusuf kalla
+0133,ibu
+0133,buku
+0134,jusuf kalla
+0134,kampanye
+0134,perdana
+0134,aceh
+0135,jusuf kalla
+0135,pidato
+0135,kampanye perdana
+0136,jusuf kalla
+0136,news
+0136,kampanye
+0137,jusuf kalla
+0137,wawancara
+0137,eksklusif
+0138,jusuf kalla
+0138,news
+0138,wawancara
+0139,jusuf kalla
+0139,news
+0140,jusuf kalla
+0140,pidato
+0141,jusuf kalla
+0141,wawancara
+0142,jusuf kalla
+0142,wawancara
+0143,jusuf kalla
+0143,wawancara
+0144,jusuf kalla
+0144,video
+0145,jusuf kalla
+0145,pidato
+0145,kampanye
+0146,jusuf kalla
+0146,news
+0146,wawancara
