@@ -308,14 +308,16 @@ A list of Province objects with abbreviated details (no contained dapil)
                     "nama_lengkap": "Aceh",
                     "nama_inggris": "Special Region of Aceh",
                     "jumlah_kursi": 13,
-                    "jumlah_penduduk": 5015234
+                    "jumlah_penduduk": 5015234,
+                    "pro_id": 1
                 }, {
                     "id": "12",
                     "nama": "Sumut",
                     "nama_lengkap": "Sumatera Utara",
                     "nama_inggris": "North Sumatra",
                     "jumlah_kursi": 30,
-                    "jumlah_penduduk": 15227719
+                    "jumlah_penduduk": 15227719,
+                    "pro_id": 6728
                 }]
             }
         }
@@ -342,6 +344,7 @@ A single Provinces object with all its details
                         "nama_inggris": "Special Region of Aceh",
                         "jumlah_kursi": 13,
                         "jumlah_penduduk": 5015234,
+                        "pro_id": 1,
                         "dapil": [{
                             "id": "1101-00-0000",
                             "nama": "Aceh I"
