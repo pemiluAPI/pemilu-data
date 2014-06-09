@@ -16,6 +16,10 @@
     {
       "name": "Daftar Calon Legislatif Anggota DPR RI Pemilu 2014",
       "web": "http://caleg.kpu.go.id/index.php"
+    },
+    {
+      "name": "Daftar Kode Propinsi",
+      "web": "http://tps.kpu.go.id/browse.php"
     }
   ],
   "keywords": ["Indonesia", "Pemilu", "Provinsi"],
@@ -48,6 +52,10 @@
           },
           {
             "id": "jumlah_penduduk",
+            "type": "number"
+          },
+          {
+            "id": "pro_id",
             "type": "number"
           }
         ]
