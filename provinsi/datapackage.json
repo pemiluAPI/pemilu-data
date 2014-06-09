@@ -35,20 +35,20 @@
             "type": "string"
           },
           {
-            "id": "singkatan",
+            "id": "nama_lengkap",
             "type": "string"
-          },
-          {
-            "id": "kursi",
-            "type": "number"
-          },
-          {
-            "id": "penduduk",
-            "type": "number"
           },
           {
             "id": "nama_inggris",
             "type": "string"
+          },
+          {
+            "id": "jumlah_kursi",
+            "type": "number"
+          },
+          {
+            "id": "jumlah_penduduk",
+            "type": "number"
           }
         ]
       }
