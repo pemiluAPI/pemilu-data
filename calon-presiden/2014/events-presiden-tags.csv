@@ -37,50 +37,57 @@ id_schedule,tag
 0011,jokowi
 0011,pdip
 0011,megawati
-0012,Jokowi
-0012,JK
-0012,Deklarasi
-0012,Capres
-0012,Cawapres
-0013,Jokowi
-0013,Kampanye
-0013,Janji-Janji
-0014,kunjungan
-0014,capres
-0014,prabowo
+0012,jokowi
+0012,jk
+0012,deklarasi
+0012,capres
+0012,cawapres
+0013,jokowi
+0013,kampanye
+0013,janji-janji
+0014,jusuf kalla
+0014,hadir 1tahun taufiq kiemas
 0015,kunjungan
 0015,capres
 0015,prabowo
-0015,arb
-0015,gerindra
-0015,golkar
+0016,kunjungan
 0016,capres
 0016,prabowo
-0016,kunjungan
+0016,arb
+0016,gerindra
+0016,golkar
 0017,capres
 0017,prabowo
 0017,kunjungan
-0018,cawapres
-0018,hatta
+0018,capres
+0018,prabowo
 0018,kunjungan
-0019,capres
-0019,deklarasi
-0019,prabowo
-0020,hadir
-0020,halaqoh
-0020,Nadhadatul
-0020,Ulama
-0021,Hatta Rajasa
-0021,Kalimantan
-0022,Hatta Rajasa
-0022,pasar
-0023,Hatta Rajasa
-0023,rakyat
-0023,pesantren
-0023,akhlak
-0023,komitmen
-0024,Prabowo
-0024,ajak anak muda
-0025,Hatta Rajasa
-0025,kampanye
-0025,Banten
+0019,cawapres
+0019,hatta
+0019,kunjungan
+0020,capres
+0020,deklarasi
+0020,prabowo
+0021,hadir
+0021,halaqoh
+0021,nadhadatul
+0021,ulama
+0022,hatta rajasa
+0022,kalimantan
+0023,hatta rajasa
+0023,pasar
+0024,hatta rajasa
+0024,rakyat
+0024,pesantren
+0024,akhlak
+0024,komitmen
+0025,prabowo
+0025,ajak anak muda
+0026,prabowo-hatta
+0026,jokowi-jk fokus debat capres dan cawapres
+0027,hatta rajasa
+0027,kampanye
+0027,banten
+0028,hatta rajasa
+0028,datangi pesantren
+0028,bekasi
