@@ -434,7 +434,7 @@ A list of Promise objects
                 "count": 3,
                 "promises": [{
                     "id": "0001",
-                    "id_calon": "jw",
+                    "id_calon": ["jw"],
                     "context_janji": "Tetap akan mengawal pembangunan di Jakarta",
                     "janji": "Ya tentu saja akan mengawal, karena apa? Ini Jakarta menyangkut Jabodetabek, untuk transportasi Ini justru bisa mempercepat penyelesaian masalah-masalah yang ada",
                     "tanggal": "2014-03-24",
@@ -443,7 +443,7 @@ A list of Promise objects
                     "tags": ["janji","jokowi","pembangunan jakarta"]
                 }, {
                     "id": "0002",
-                    "id_calon": "jw",
+                    "id_calon": ["jw"],
                     "context_janji": "Selamatkan lahan pertanian",
                     "janji": "Jokowi mengatakan jika terpilih menjadi presiden maka ia akan fokus pada penanganan lahan untuk masyarakat. Terutama lahan yang digunakan sebagai lahan pertanian",
                     "tanggal": "2014-05-01",
@@ -452,7 +452,7 @@ A list of Promise objects
                     "tags": ["janji","jokowi","lahan pertanian"]
                 }, {
                     "id": "0003",
-                    "id_calon": "jw",
+                    "id_calon": ["jw"],
                     "context_janji": "Memperbaiki capaian kinerja pemerintahan SBY",
                     "janji": "Calon presiden dari partai PDIP, Joko Widodo menyatakan siap memperbaiki capaian kinerja Pemerintahan pimpinan Susilo Bambang Yudhoyono (SBY)",
                     "tanggal": "2014-04-30",
@@ -478,7 +478,7 @@ A single Promises object with all its details
                 "count": 1,
                 "promises": [{
                     "id": "0003",
-                    "id_calon": "jw",
+                    "id_calon": ["jw"],
                     "context_janji": "Memperbaiki capaian kinerja pemerintahan SBY",
                     "janji": "Calon presiden dari partai PDIP, Joko Widodo menyatakan siap memperbaiki capaian kinerja Pemerintahan pimpinan Susilo Bambang Yudhoyono (SBY)",
                     "tanggal": "2014-04-30",
