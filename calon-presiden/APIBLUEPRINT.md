@@ -50,6 +50,17 @@ Sample calls:
 
 [http://api.pemiluapi.org/calonpresiden/api/videos?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=debat](http://api.pemiluapi.org/calonpresiden/api/videos?apiKey=fea6f7d9ec0b31e256a673114792cb17&tags=debat)
 
+[Quotes](#quotes)
+========
+
+**Get a list of quotes candidates have made**
+
+[http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17](http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17)
+
+**Get a list of quotes one candidate has made**
+
+[http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=jw](http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=jw)
+
 # Group Candidates
 Candidates related resources of the **Presidential Candidate API**
 
@@ -434,7 +445,7 @@ A list of Promise objects
                 "count": 3,
                 "promises": [{
                     "id": "0001",
-                    "id_calon": ["jw"],
+                    "id_calon": "jw",
                     "context_janji": "Tetap akan mengawal pembangunan di Jakarta",
                     "janji": "Ya tentu saja akan mengawal, karena apa? Ini Jakarta menyangkut Jabodetabek, untuk transportasi Ini justru bisa mempercepat penyelesaian masalah-masalah yang ada",
                     "tanggal": "2014-03-24",
@@ -443,7 +454,7 @@ A list of Promise objects
                     "tags": ["janji","jokowi","pembangunan jakarta"]
                 }, {
                     "id": "0002",
-                    "id_calon": ["jw"],
+                    "id_calon": "jw",
                     "context_janji": "Selamatkan lahan pertanian",
                     "janji": "Jokowi mengatakan jika terpilih menjadi presiden maka ia akan fokus pada penanganan lahan untuk masyarakat. Terutama lahan yang digunakan sebagai lahan pertanian",
                     "tanggal": "2014-05-01",
@@ -452,7 +463,7 @@ A list of Promise objects
                     "tags": ["janji","jokowi","lahan pertanian"]
                 }, {
                     "id": "0003",
-                    "id_calon": ["jw"],
+                    "id_calon": "jw",
                     "context_janji": "Memperbaiki capaian kinerja pemerintahan SBY",
                     "janji": "Calon presiden dari partai PDIP, Joko Widodo menyatakan siap memperbaiki capaian kinerja Pemerintahan pimpinan Susilo Bambang Yudhoyono (SBY)",
                     "tanggal": "2014-04-30",
@@ -561,3 +572,93 @@ A single Videos object with all its details
                 }]
             }
         }
+
+
+# Group Quotes
+Quotes related resources of the **Presidential Candidate API**
+
+## Quotes Collection [/quotes?apiKey={apiKey}&id_calon={id_calon}&tags={tags}&limit={limit}&offset={offset}]
+A list of Promise objects
+
++ Parameters
+    + offset (optional, number, `300`) ... Number the offset from the beginning of the list of records to return (use in combination with `limit` to support pagination)
+    + limit (optional, number, `25`) ... Number the number of records to return (use in combination with `offset` to support pagination)
+    + tags (optional, string, `women,participation`) ... String list of `tags` by which to filter the quotes.
+    + id_calon (optional, string, `ps`) ... String list of candidate IDs for the candidate or candidates related to the quotes
+    + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
+
+### List all Quotes [GET]
++ Response 200 (application/json)
+
+        {
+            "results": {
+                "count": 3,
+                "quotes": [{
+                    "id": "0001",
+                    "id_calon": "jw",
+                    "kutipan": "Buat saya yang sudah 4 kali Pilkada, ditekan seperti ini, diserang dan dicemooh sudah setiap hari. Aku rapopo",
+                    "context_kutipan": "Saling sindir antar politisi menjelang pemungutan suara",
+                    "tanggal": "2014-03-25",
+                    "nama_sumber": "kaskus.co.id",
+                    "judul_sumber": "kutipan-kutipan pak Jokowi",
+                    "excerpt_sumber": "Senin (24/3) lalu kepada wartawan calon presiden dari Partai Demokrasi Indonesia Perjuangan Joko Widodo dikonfirmasi mengenai sejumlah serangan yang diarahkan ke dia. Namun pria yang akrab disapa Jokowi itu hanya menjawab, \"Aku rapopo\".",
+                    "url_sumber": "http://news.detik.com/pemilu2014/read/2014/03/26/104354/2536960/1562/jokowi-aku-rapopo-prabowo-saya-juga-rapopo",
+                    "format": ""
+                    "tags": ["jokowi","kutipan","kampanye hitam"]
+                }, {
+                    "id": "0002",
+                    "id_calon": "jk",
+                    "kutipan": "Ah, tidak mungkin dapat sanksi. Saya kan bukan pengurus Partai Golkar",
+                    "context_kutipan": "JK memberikan tannggapannya ketika ditanya soal pemberian sanksi jika mengikuti konvensi Partai Demokrat",
+                    "tanggal": "2014-04-29",
+                    "nama_sumber": "rmol.com",
+                    "judul_sumber": "Jusuf Kalla: Tidak Mungkin Dapat Sanksi, Saya Bukan Pengurus Golkar",
+                    "excerpt_sumber": "\"Ah, tidak mungkin dapat sanksi. Saya kan bukan pengurus Partai Golkar,\" kata bekas Wapres itu kepada Rakyat Merdeka, kemarin.",
+                    "url_sumber": "http://www.rmol.co/read/2013/04/29/108320/Jusuf-Kalla:-Tidak-Mungkin-Dapat-Sanksi,-Saya-Bukan-Pengurus-Golkar-",
+                    "format": "artikel"
+                    "tags": ["konvensi","wapres","cawapres"]
+                }, {
+                    "id": "0003",
+                    "id_calon": "ps",
+                    "kutipan": "Saya juga rapopo. Becik ketitik ala ketara",
+                    "context_kutipan": "Prabowo memberi tanggapan tentang black campaign",
+                    "tanggal": "2014-03-24",
+                    "nama_sumber": "detik.com",
+                    "judul_sumber": "Jokowi: Aku Rapopo, Prabowo: Saya JugaRapopo",
+                    "excerpt_sumber": "Kata 'Rapopo' kemudian juga dipakai oleh Ketua Dewan Pembina Partai Gerakan Indonesia Prabowo Subianto. Melalui akun twitternya @prabowo08, dia mengaku akhir-akhir ini banyak mendapat serangan dan kampanye hitam.",
+                    "url_sumber": "http://news.detik.com/pemilu2014/read/2014/03/26/104354/2536960/1562/jokowi-aku-rapopo-prabowo-saya-juga-rapopo",
+                    "format": ""
+                    "tags": ["prabowo","kutipan","sindiran","jokowi"]
+                }]
+            }
+        }
+
+## Quotes [/quotes/{id}?apiKey={apiKey}]
+A single Quotes object with all its details
+
++ Parameters
+    + apiKey (required, string, `06ec082d057daa3d310b27483cc3962e`) ... String `apiKey` of the application.
+    + id (required, string, `0003`) ... String `id` of the promise to perform action with.
+
+### Retrieve a Promise [GET]
++ Response 200 (application/json)
+
+        {
+            "results": {
+                "count": 1,
+                "quotes": [{
+                    "id": "0001",
+                    "id_calon": "jw",
+                    "kutipan": "Buat saya yang sudah 4 kali Pilkada, ditekan seperti ini, diserang dan dicemooh sudah setiap hari. Aku rapopo",
+                    "context_kutipan": "Saling sindir antar politisi menjelang pemungutan suara",
+                    "tanggal": "2014-03-25",
+                    "nama_sumber": "kaskus.co.id",
+                    "judul_sumber": "kutipan-kutipan pak Jokowi",
+                    "excerpt_sumber": "Senin (24/3) lalu kepada wartawan calon presiden dari Partai Demokrasi Indonesia Perjuangan Joko Widodo dikonfirmasi mengenai sejumlah serangan yang diarahkan ke dia. Namun pria yang akrab disapa Jokowi itu hanya menjawab, \"Aku rapopo\".",
+                    "url_sumber": "http://news.detik.com/pemilu2014/read/2014/03/26/104354/2536960/1562/jokowi-aku-rapopo-prabowo-saya-juga-rapopo",
+                    "format": ""
+                    "tags": ["jokowi","kutipan","kampanye hitam"]
+                }]
+            }
+        }
+
