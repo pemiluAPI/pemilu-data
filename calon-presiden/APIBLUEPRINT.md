@@ -59,7 +59,7 @@ Sample calls:
 
 **Get a list of quotes one candidate has made**
 
-[http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=jw](http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=jw)
+[http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=ps](http://api.pemiluapi.org/calonpresiden/api/quotes?apiKey=fea6f7d9ec0b31e256a673114792cb17&id_calon=ps)
 
 # Group Candidates
 Candidates related resources of the **Presidential Candidate API**
