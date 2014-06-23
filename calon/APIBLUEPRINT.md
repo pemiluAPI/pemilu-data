@@ -237,6 +237,7 @@ A list of Parties objects
                     "url_situs": "http://www.partainasdem.org/",
                     "url_facebook": "https://www.facebook.com/pages/Partai-Nasdem/135724689838285",
                     "url_twitter": "https://twitter.com/NasDem",
+                    "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/01-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/01-100.jpg",
                     "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/01-200.jpg"
                 }, {
@@ -246,6 +247,7 @@ A list of Parties objects
                     "url_situs": "http://www.dpp.pkb.or.id/",
                     "url_facebook": "https://www.facebook.com/pages/DPP-PKB/167600963307010",
                     "url_twitter": "https://twitter.com/PKB_News_Online",
+                    "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/02-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/02-100.jpg",
                     "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/02-200.jpg"
                 }, {
@@ -255,6 +257,7 @@ A list of Parties objects
                     "url_situs": "http://www.pks.or.id/",
                     "url_facebook": "https://www.facebook.com/HumasPartaiKeadilanSejahtera",
                     "url_twitter": "https://twitter.com/PKSejahtera",
+                    "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-100.jpg",
                     "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-200.jpg"
                 }]
@@ -281,6 +284,7 @@ A single Parties object with all its details
                     "url_situs": "http://www.pks.or.id/",
                     "url_facebook": "https://www.facebook.com/HumasPartaiKeadilanSejahtera",
                     "url_twitter": "https://twitter.com/PKSejahtera",
+                    "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-100.jpg",
                     "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-200.jpg"
                 }]
