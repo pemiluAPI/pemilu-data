@@ -239,7 +239,8 @@ A list of Parties objects
                     "url_twitter": "https://twitter.com/NasDem",
                     "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/01-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/01-100.jpg",
-                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/01-200.jpg"
+                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/01-200.jpg",
+                    "colors": ["#011c53","#f4ae01"]
                 }, {
                     "id": "2",
                     "nama": "PKB",
@@ -249,7 +250,8 @@ A list of Parties objects
                     "url_twitter": "https://twitter.com/PKB_News_Online",
                     "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/02-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/02-100.jpg",
-                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/02-200.jpg"
+                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/02-200.jpg",
+                    "colors": ["#028b3b","#fae42c"]
                 }, {
                     "id": "3",
                     "nama": "PKS",
@@ -259,7 +261,8 @@ A list of Parties objects
                     "url_twitter": "https://twitter.com/PKSejahtera",
                     "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-100.jpg",
-                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-200.jpg"
+                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-200.jpg",
+                    "colors": ["#f2b938", "#000000"]
                 }]
             }
         }
@@ -286,7 +289,8 @@ A single Parties object with all its details
                     "url_twitter": "https://twitter.com/PKSejahtera",
                     "url_logo_mini": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-17.jpg",
                     "url_logo_small": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-100.jpg",
-                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-200.jpg"
+                    "url_logo_medium": "http://apipemilu-caleg.s3-website-ap-southeast-1.amazonaws.com/partai/logos/03-200.jpg",
+                    "colors": ["#f2b938", "#000000"]
                 }]
             }
         }
