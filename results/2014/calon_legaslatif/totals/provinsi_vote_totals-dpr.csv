@@ -1,0 +1,397 @@
+lembaga,id_provinsi,nama_provinsi,id_partai,nama_partai,suara_calon_terpilih,peringkat_suara_calon_terpilih,suara_calon_semua,peringkat_suara_calon_semua,suara_partai,peringkat_suara_partai,jumlah_suara,peringkat_jumlah_suara
+DPR,91,Papua,7,Partai Demokrat,345416,1,685318,1,14832,4,700150,1
+DPR,91,Papua,4,Partai Demokrasi Indonesia Perjuangan,257366,2,471421,2,20170,2,491591,2
+DPR,91,Papua,6,Partai Gerakan Indonesia Raya,128598,3,280869,4,22527,1,303396,3
+DPR,91,Papua,1,Partai NasDem,80623,8,285726,3,12450,5,298176,4
+DPR,91,Papua,5,Partai Golongan Karya,85374,7,240219,6,17548,3,257767,5
+DPR,91,Papua,2,Partai Kebangkitan Bangsa,106371,4,240994,5,10778,6,251772,6
+DPR,91,Papua,8,Partai Amanat Nasional,91179,6,186076,7,7069,9,193145,7
+DPR,91,Papua,3,Partai Keadilan Sejahtera,102536,5,150623,8,9030,8,159653,8
+DPR,91,Papua,10,Partai Hati Nurani Rakyat,0,9,124828,9,10429,7,135257,9
+DPR,91,Papua,9,Partai Persatuan Pembangunan,0,12,100549,10,5217,10,105766,10
+DPR,91,Papua,15,Partai Keadilan dan Persatuan Indonesia,0,10,46754,11,3588,12,50342,11
+DPR,91,Papua,14,Partai Bulan Bintang,0,11,12617,12,3648,11,16265,12
+DPR,21,Kepulauan Riau,4,Partai Demokrasi Indonesia Perjuangan,48579,3,84181,2,48231,1,132412,1
+DPR,21,Kepulauan Riau,8,Partai Amanat Nasional,97327,1,106105,1,12939,6,119044,2
+DPR,21,Kepulauan Riau,1,Partai NasDem,55384,2,82937,3,12911,7,95848,3
+DPR,21,Kepulauan Riau,5,Partai Golongan Karya,0,9,68713,5,26641,2,95354,4
+DPR,21,Kepulauan Riau,6,Partai Gerakan Indonesia Raya,0,11,71630,4,20312,4,91942,5
+DPR,21,Kepulauan Riau,7,Partai Demokrat,0,10,60746,6,20404,3,81150,6
+DPR,21,Kepulauan Riau,3,Partai Keadilan Sejahtera,0,7,53849,7,12246,8,66095,7
+DPR,21,Kepulauan Riau,10,Partai Hati Nurani Rakyat,0,4,35523,8,15213,5,50736,8
+DPR,21,Kepulauan Riau,9,Partai Persatuan Pembangunan,0,12,28896,9,8864,10,37760,9
+DPR,21,Kepulauan Riau,2,Partai Kebangkitan Bangsa,0,8,18967,10,10009,9,28976,10
+DPR,21,Kepulauan Riau,14,Partai Bulan Bintang,0,6,8934,11,2979,11,11913,11
+DPR,21,Kepulauan Riau,15,Partai Keadilan dan Persatuan Indonesia,0,5,8633,12,2473,12,11106,12
+DPR,15,Jambi,5,Partai Golongan Karya,87911,1,236215,1,52509,4,288724,1
+DPR,15,Jambi,4,Partai Demokrasi Indonesia Perjuangan,61648,3,195379,2,78764,1,274143,2
+DPR,15,Jambi,7,Partai Demokrat,53556,5,176452,3,59019,2,235471,3
+DPR,15,Jambi,6,Partai Gerakan Indonesia Raya,59261,4,135539,5,58431,3,193970,4
+DPR,15,Jambi,8,Partai Amanat Nasional,79605,2,146584,4,32854,5,179438,5
+DPR,15,Jambi,2,Partai Kebangkitan Bangsa,47479,6,77693,7,27858,6,105551,6
+DPR,15,Jambi,9,Partai Persatuan Pembangunan,42535,7,86838,6,17790,10,104628,7
+DPR,15,Jambi,1,Partai NasDem,0,11,74779,8,23557,8,98336,8
+DPR,15,Jambi,10,Partai Hati Nurani Rakyat,0,8,61294,9,24145,7,85439,9
+DPR,15,Jambi,3,Partai Keadilan Sejahtera,0,12,48494,10,21809,9,70303,10
+DPR,15,Jambi,14,Partai Bulan Bintang,0,10,28431,11,10772,11,39203,11
+DPR,15,Jambi,15,Partai Keadilan dan Persatuan Indonesia,0,9,12505,12,4247,12,16752,12
+DPR,51,Bali,4,Partai Demokrasi Indonesia Perjuangan,572614,1,686684,1,186201,1,872885,1
+DPR,51,Bali,5,Partai Golongan Karya,213132,2,273293,2,56327,2,329620,2
+DPR,51,Bali,7,Partai Demokrat,178030,3,269507,3,41739,4,311246,3
+DPR,51,Bali,6,Partai Gerakan Indonesia Raya,54655,4,168012,4,51509,3,219521,4
+DPR,51,Bali,10,Partai Hati Nurani Rakyat,0,5,60370,5,16877,7,77247,5
+DPR,51,Bali,1,Partai NasDem,0,8,39713,6,21256,5,60969,6
+DPR,51,Bali,2,Partai Kebangkitan Bangsa,0,10,21232,9,18049,6,39281,7
+DPR,51,Bali,3,Partai Keadilan Sejahtera,0,9,24154,8,12936,8,37090,8
+DPR,51,Bali,15,Partai Keadilan dan Persatuan Indonesia,0,6,28246,7,5739,11,33985,9
+DPR,51,Bali,8,Partai Amanat Nasional,0,12,17054,10,6574,10,23628,10
+DPR,51,Bali,9,Partai Persatuan Pembangunan,0,11,8295,11,6752,9,15047,11
+DPR,51,Bali,14,Partai Bulan Bintang,0,7,1746,12,1985,12,3731,12
+DPR,53,Nusa Tenggara Timur,5,Partai Golongan Karya,212822,1,410087,1,42109,2,452196,1
+DPR,53,Nusa Tenggara Timur,4,Partai Demokrasi Indonesia Perjuangan,158693,3,358867,2,44954,1,403821,2
+DPR,53,Nusa Tenggara Timur,7,Partai Demokrat,159625,2,286421,3,29589,4,316010,3
+DPR,53,Nusa Tenggara Timur,1,Partai NasDem,111259,4,242538,4,28426,5,270964,4
+DPR,53,Nusa Tenggara Timur,6,Partai Gerakan Indonesia Raya,103783,5,202938,5,30991,3,233929,5
+DPR,53,Nusa Tenggara Timur,8,Partai Amanat Nasional,79603,6,186560,6,19345,8,205905,6
+DPR,53,Nusa Tenggara Timur,10,Partai Hati Nurani Rakyat,51780,7,127741,7,20514,7,148255,7
+DPR,53,Nusa Tenggara Timur,2,Partai Kebangkitan Bangsa,0,11,106585,8,24340,6,130925,8
+DPR,53,Nusa Tenggara Timur,3,Partai Keadilan Sejahtera,0,10,47246,10,14753,9,61999,9
+DPR,53,Nusa Tenggara Timur,15,Partai Keadilan dan Persatuan Indonesia,0,8,51800,9,8173,10,59973,10
+DPR,53,Nusa Tenggara Timur,14,Partai Bulan Bintang,0,9,33865,11,7044,11,40909,11
+DPR,53,Nusa Tenggara Timur,9,Partai Persatuan Pembangunan,0,12,23481,12,6794,12,30275,12
+DPR,52,Nusa Tenggara Barat,5,Partai Golongan Karya,59074,7,256989,2,76293,1,333282,1
+DPR,52,Nusa Tenggara Barat,7,Partai Demokrat,83638,2,258509,1,60204,3,318713,2
+DPR,52,Nusa Tenggara Barat,3,Partai Keadilan Sejahtera,125083,1,219176,3,34694,7,253870,3
+DPR,52,Nusa Tenggara Barat,10,Partai Hati Nurani Rakyat,71211,3,181190,4,41220,6,222410,4
+DPR,52,Nusa Tenggara Barat,6,Partai Gerakan Indonesia Raya,55192,8,149183,6,69055,2,218238,5
+DPR,52,Nusa Tenggara Barat,8,Partai Amanat Nasional,62292,6,168529,5,27545,10,196074,6
+DPR,52,Nusa Tenggara Barat,4,Partai Demokrasi Indonesia Perjuangan,62987,5,137569,9,52000,4,189569,7
+DPR,52,Nusa Tenggara Barat,2,Partai Kebangkitan Bangsa,69542,4,138321,8,43999,5,182320,8
+DPR,52,Nusa Tenggara Barat,9,Partai Persatuan Pembangunan,49314,9,140423,7,31998,9,172421,9
+DPR,52,Nusa Tenggara Barat,1,Partai NasDem,37889,10,122981,10,32000,8,154981,10
+DPR,52,Nusa Tenggara Barat,14,Partai Bulan Bintang,0,12,60047,11,23721,11,83768,11
+DPR,52,Nusa Tenggara Barat,15,Partai Keadilan dan Persatuan Indonesia,0,11,30691,12,10769,12,41460,12
+DPR,61,Kalimantan Barat,4,Partai Demokrasi Indonesia Perjuangan,625756,1,709915,1,107855,1,817770,1
+DPR,61,Kalimantan Barat,5,Partai Golongan Karya,100583,2,288976,2,60010,2,348986,2
+DPR,61,Kalimantan Barat,6,Partai Gerakan Indonesia Raya,38455,6,177886,3,58395,3,236281,3
+DPR,61,Kalimantan Barat,7,Partai Demokrat,34420,7,155287,5,41603,4,196890,4
+DPR,61,Kalimantan Barat,8,Partai Amanat Nasional,83037,3,168652,4,27560,9,196212,5
+DPR,61,Kalimantan Barat,1,Partai NasDem,73774,5,132670,6,36071,5,168741,6
+DPR,61,Kalimantan Barat,9,Partai Persatuan Pembangunan,81113,4,107274,7,29290,8,136564,7
+DPR,61,Kalimantan Barat,2,Partai Kebangkitan Bangsa,28608,8,84470,8,33467,6,117937,8
+DPR,61,Kalimantan Barat,3,Partai Keadilan Sejahtera,0,12,77386,9,24760,10,102146,9
+DPR,61,Kalimantan Barat,10,Partai Hati Nurani Rakyat,0,9,53421,10,33320,7,86741,10
+DPR,61,Kalimantan Barat,15,Partai Keadilan dan Persatuan Indonesia,0,10,28307,11,10874,11,39181,11
+DPR,61,Kalimantan Barat,14,Partai Bulan Bintang,0,11,22178,12,8635,12,30813,12
+DPR,82,Maluku Utara,4,Partai Demokrasi Indonesia Perjuangan,52677,1,112038,1,10466,2,122504,1
+DPR,82,Maluku Utara,5,Partai Golongan Karya,37486,2,73783,2,11630,1,85413,2
+DPR,82,Maluku Utara,8,Partai Amanat Nasional,28171,3,73378,3,3721,8,77099,3
+DPR,82,Maluku Utara,3,Partai Keadilan Sejahtera,0,8,65279,4,6478,3,71757,4
+DPR,82,Maluku Utara,1,Partai NasDem,0,7,59219,5,6138,5,65357,5
+DPR,82,Maluku Utara,7,Partai Demokrat,0,10,44845,6,5742,6,50587,6
+DPR,82,Maluku Utara,6,Partai Gerakan Indonesia Raya,0,11,39451,7,6143,4,45594,7
+DPR,82,Maluku Utara,14,Partai Bulan Bintang,0,6,27718,8,2462,11,30180,8
+DPR,82,Maluku Utara,10,Partai Hati Nurani Rakyat,0,4,19650,9,3695,9,23345,9
+DPR,82,Maluku Utara,2,Partai Kebangkitan Bangsa,0,9,18742,10,3913,7,22655,10
+DPR,82,Maluku Utara,9,Partai Persatuan Pembangunan,0,12,17131,11,2869,10,20000,11
+DPR,82,Maluku Utara,15,Partai Keadilan dan Persatuan Indonesia,0,5,11630,12,1524,12,13154,12
+DPR,81,Maluku,4,Partai Demokrasi Indonesia Perjuangan,65166,3,181419,1,11312,1,192731,1
+DPR,81,Maluku,5,Partai Golongan Karya,58765,4,152944,2,9605,2,162549,2
+DPR,81,Maluku,6,Partai Gerakan Indonesia Raya,95690,1,122222,3,8572,3,130794,3
+DPR,81,Maluku,2,Partai Kebangkitan Bangsa,93800,2,107639,4,5655,6,113294,4
+DPR,81,Maluku,1,Partai NasDem,0,8,101473,5,5970,5,107443,5
+DPR,81,Maluku,7,Partai Demokrat,0,10,60404,6,6113,4,66517,6
+DPR,81,Maluku,3,Partai Keadilan Sejahtera,0,9,44098,7,5430,7,49528,7
+DPR,81,Maluku,9,Partai Persatuan Pembangunan,0,11,24210,8,3492,9,27702,8
+DPR,81,Maluku,10,Partai Hati Nurani Rakyat,0,5,22142,10,4978,8,27120,9
+DPR,81,Maluku,8,Partai Amanat Nasional,0,12,23340,9,3133,10,26473,10
+DPR,81,Maluku,15,Partai Keadilan dan Persatuan Indonesia,0,6,12857,11,1684,12,14541,11
+DPR,81,Maluku,14,Partai Bulan Bintang,0,7,6549,12,2097,11,8646,12
+DPR,76,Sulawesi Barat,5,Partai Golongan Karya,58518,1,107198,1,15850,1,123048,1
+DPR,76,Sulawesi Barat,7,Partai Demokrat,51168,3,106656,2,13145,2,119801,2
+DPR,76,Sulawesi Barat,6,Partai Gerakan Indonesia Raya,55014,2,88925,3,9536,3,98461,3
+DPR,76,Sulawesi Barat,8,Partai Amanat Nasional,0,12,86219,4,7758,5,93977,4
+DPR,76,Sulawesi Barat,2,Partai Kebangkitan Bangsa,0,9,43263,5,6903,6,50166,5
+DPR,76,Sulawesi Barat,4,Partai Demokrasi Indonesia Perjuangan,0,10,32786,6,8892,4,41678,6
+DPR,76,Sulawesi Barat,9,Partai Persatuan Pembangunan,0,11,31541,7,4078,10,35619,7
+DPR,76,Sulawesi Barat,1,Partai NasDem,0,7,27938,8,5649,7,33587,8
+DPR,76,Sulawesi Barat,10,Partai Hati Nurani Rakyat,0,4,17038,9,5215,8,22253,9
+DPR,76,Sulawesi Barat,3,Partai Keadilan Sejahtera,0,8,16655,10,4606,9,21261,10
+DPR,76,Sulawesi Barat,15,Partai Keadilan dan Persatuan Indonesia,0,5,12116,11,1707,12,13823,11
+DPR,76,Sulawesi Barat,14,Partai Bulan Bintang,0,6,4426,12,1866,11,6292,12
+DPR,33,Jawa Tengah,4,Partai Demokrasi Indonesia Perjuangan,1667955,1,2672979,1,1622626,1,4295605,1
+DPR,33,Jawa Tengah,5,Partai Golongan Karya,819634,3,1834645,2,662637,4,2497282,2
+DPR,33,Jawa Tengah,2,Partai Kebangkitan Bangsa,821219,2,1635007,3,670435,3,2305442,3
+DPR,33,Jawa Tengah,6,Partai Gerakan Indonesia Raya,539904,4,1337160,4,685920,2,2023080,4
+DPR,33,Jawa Tengah,8,Partai Amanat Nasional,382357,5,895609,5,312593,9,1208202,5
+DPR,33,Jawa Tengah,9,Partai Persatuan Pembangunan,321551,6,782928,6,368845,6,1151773,6
+DPR,33,Jawa Tengah,7,Partai Demokrat,192886,8,738852,7,381867,5,1120719,7
+DPR,33,Jawa Tengah,3,Partai Keadilan Sejahtera,136535,9,727314,8,349194,7,1076508,8
+DPR,33,Jawa Tengah,1,Partai NasDem,249845,7,719336,9,315790,8,1035126,9
+DPR,33,Jawa Tengah,10,Partai Hati Nurani Rakyat,0,10,495821,10,234931,10,730752,10
+DPR,33,Jawa Tengah,14,Partai Bulan Bintang,0,12,48724,11,50408,11,99132,11
+DPR,33,Jawa Tengah,15,Partai Keadilan dan Persatuan Indonesia,0,11,32440,12,27398,12,59838,12
+DPR,32,Jawa Barat,4,Partai Demokrasi Indonesia Perjuangan,1295158,1,2371132,1,1788279,1,4159411,1
+DPR,32,Jawa Barat,5,Partai Golongan Karya,1200769,2,2198809,2,1341820,2,3540629,2
+DPR,32,Jawa Barat,6,Partai Gerakan Indonesia Raya,422411,4,1335852,3,1042910,3,2378762,3
+DPR,32,Jawa Barat,7,Partai Demokrat,387045,5,1208132,4,722882,5,1931014,4
+DPR,32,Jawa Barat,3,Partai Keadilan Sejahtera,469726,3,1160113,5,743435,4,1903548,5
+DPR,32,Jawa Barat,9,Partai Persatuan Pembangunan,355114,6,1013992,6,617812,7,1631804,6
+DPR,32,Jawa Barat,2,Partai Kebangkitan Bangsa,278221,8,940769,8,631965,6,1572734,7
+DPR,32,Jawa Barat,8,Partai Amanat Nasional,352196,7,985325,7,406155,10,1391480,8
+DPR,32,Jawa Barat,10,Partai Hati Nurani Rakyat,107211,9,658089,9,499197,8,1157286,9
+DPR,32,Jawa Barat,1,Partai NasDem,14099,10,615685,10,418342,9,1034027,10
+DPR,32,Jawa Barat,14,Partai Bulan Bintang,0,12,196372,11,172111,11,368483,11
+DPR,32,Jawa Barat,15,Partai Keadilan dan Persatuan Indonesia,0,11,65152,12,54596,12,119748,12
+DPR,31,Daerah Khusus Ibukota Jakarta,4,Partai Demokrasi Indonesia Perjuangan,351401,1,650203,1,647826,1,1298029,1
+DPR,31,Daerah Khusus Ibukota Jakarta,6,Partai Gerakan Indonesia Raya,125789,4,288213,4,289864,2,578077,2
+DPR,31,Daerah Khusus Ibukota Jakarta,9,Partai Persatuan Pembangunan,152740,3,301403,3,184426,3,485829,3
+DPR,31,Daerah Khusus Ibukota Jakarta,3,Partai Keadilan Sejahtera,182219,2,314826,2,161336,4,476162,4
+DPR,31,Daerah Khusus Ibukota Jakarta,5,Partai Golongan Karya,112726,5,230789,5,129103,6,359892,5
+DPR,31,Daerah Khusus Ibukota Jakarta,7,Partai Demokrat,37658,7,179376,6,128952,7,308328,6
+DPR,31,Daerah Khusus Ibukota Jakarta,10,Partai Hati Nurani Rakyat,0,8,127182,9,141634,5,268816,7
+DPR,31,Daerah Khusus Ibukota Jakarta,2,Partai Kebangkitan Bangsa,0,11,104235,10,107532,8,211767,8
+DPR,31,Daerah Khusus Ibukota Jakarta,1,Partai NasDem,60683,6,136052,8,74527,9,210579,9
+DPR,31,Daerah Khusus Ibukota Jakarta,8,Partai Amanat Nasional,0,12,138623,7,60638,10,199261,10
+DPR,31,Daerah Khusus Ibukota Jakarta,14,Partai Bulan Bintang,0,10,24703,11,23268,11,47971,11
+DPR,31,Daerah Khusus Ibukota Jakarta,15,Partai Keadilan dan Persatuan Indonesia,0,9,13184,12,11622,12,24806,12
+DPR,36,Banten,4,Partai Demokrasi Indonesia Perjuangan,158764,4,436895,1,378622,1,815517,1
+DPR,36,Banten,5,Partai Golongan Karya,175922,2,406251,2,244241,2,650492,2
+DPR,36,Banten,6,Partai Gerakan Indonesia Raya,144439,5,399671,3,241839,3,641510,3
+DPR,36,Banten,7,Partai Demokrat,158850,3,333520,4,169434,4,502954,4
+DPR,36,Banten,9,Partai Persatuan Pembangunan,197394,1,285464,5,125496,6,410960,5
+DPR,36,Banten,3,Partai Keadilan Sejahtera,120257,7,271320,6,120527,7,391847,6
+DPR,36,Banten,2,Partai Kebangkitan Bangsa,32308,9,203838,8,146308,5,350146,7
+DPR,36,Banten,8,Partai Amanat Nasional,140243,6,260404,7,88224,10,348628,8
+DPR,36,Banten,1,Partai NasDem,36571,8,198032,9,118833,8,316865,9
+DPR,36,Banten,10,Partai Hati Nurani Rakyat,27097,10,174554,10,99738,9,274292,10
+DPR,36,Banten,14,Partai Bulan Bintang,0,12,48161,11,41049,11,89210,11
+DPR,36,Banten,15,Partai Keadilan dan Persatuan Indonesia,0,11,31796,12,17642,12,49438,12
+DPR,35,Jawa Timur,4,Partai Demokrasi Indonesia Perjuangan,1185781,2,2277685,2,1303260,1,3580945,1
+DPR,35,Jawa Timur,2,Partai Kebangkitan Bangsa,1200779,1,2657250,1,876652,2,3533902,2
+DPR,35,Jawa Timur,6,Partai Gerakan Indonesia Raya,659857,3,1608167,3,748403,3,2356570,3
+DPR,35,Jawa Timur,7,Partai Demokrat,655803,4,1575829,4,572224,5,2148053,4
+DPR,35,Jawa Timur,5,Partai Golongan Karya,622882,5,1518572,5,623649,4,2142221,5
+DPR,35,Jawa Timur,1,Partai NasDem,524814,6,1098098,6,397373,6,1495471,6
+DPR,35,Jawa Timur,9,Partai Persatuan Pembangunan,338031,8,1041339,7,263996,9,1305335,7
+DPR,35,Jawa Timur,8,Partai Amanat Nasional,408129,7,968344,8,290561,8,1258905,8
+DPR,35,Jawa Timur,10,Partai Hati Nurani Rakyat,159059,9,780360,9,254863,10,1035223,9
+DPR,35,Jawa Timur,3,Partai Keadilan Sejahtera,81599,10,578330,10,308781,7,887111,10
+DPR,35,Jawa Timur,14,Partai Bulan Bintang,0,12,99296,11,67388,11,166684,11
+DPR,35,Jawa Timur,15,Partai Keadilan dan Persatuan Indonesia,0,11,49181,12,32719,12,81900,12
+DPR,34,Daerah Isimewa Yogyakarta,4,Partai Demokrasi Indonesia Perjuangan,220236,1,393052,1,177479,1,570531,1
+DPR,34,Daerah Isimewa Yogyakarta,8,Partai Amanat Nasional,197915,2,298615,2,57172,3,355787,2
+DPR,34,Daerah Isimewa Yogyakarta,6,Partai Gerakan Indonesia Raya,72290,3,165801,3,78343,2,244144,3
+DPR,34,Daerah Isimewa Yogyakarta,5,Partai Golongan Karya,61655,4,147234,4,53240,4,200474,4
+DPR,34,Daerah Isimewa Yogyakarta,3,Partai Keadilan Sejahtera,49771,6,98444,6,49431,6,147875,5
+DPR,34,Daerah Isimewa Yogyakarta,7,Partai Demokrat,38152,7,109969,5,36719,7,146688,6
+DPR,34,Daerah Isimewa Yogyakarta,2,Partai Kebangkitan Bangsa,51045,5,76730,7,53213,5,129943,7
+DPR,34,Daerah Isimewa Yogyakarta,1,Partai NasDem,0,11,74668,8,32765,8,107433,8
+DPR,34,Daerah Isimewa Yogyakarta,9,Partai Persatuan Pembangunan,0,12,66883,9,27552,9,94435,9
+DPR,34,Daerah Isimewa Yogyakarta,10,Partai Hati Nurani Rakyat,0,8,25429,10,17353,10,42782,10
+DPR,34,Daerah Isimewa Yogyakarta,14,Partai Bulan Bintang,0,10,7139,11,7023,11,14162,11
+DPR,34,Daerah Isimewa Yogyakarta,15,Partai Keadilan dan Persatuan Indonesia,0,9,2683,12,2516,12,5199,12
+DPR,62,Kalimantan Tengah,4,Partai Demokrasi Indonesia Perjuangan,211735,1,272838,1,77863,1,350701,1
+DPR,62,Kalimantan Tengah,5,Partai Golongan Karya,32297,2,95806,2,45289,3,141095,2
+DPR,62,Kalimantan Tengah,6,Partai Gerakan Indonesia Raya,30358,3,74549,3,45470,2,120019,3
+DPR,62,Kalimantan Tengah,1,Partai NasDem,29633,4,62531,5,23429,6,85960,4
+DPR,62,Kalimantan Tengah,8,Partai Amanat Nasional,22561,5,65259,4,19000,8,84259,5
+DPR,62,Kalimantan Tengah,9,Partai Persatuan Pembangunan,0,12,59402,6,20354,7,79756,6
+DPR,62,Kalimantan Tengah,7,Partai Demokrat,0,11,48954,7,26513,5,75467,7
+DPR,62,Kalimantan Tengah,2,Partai Kebangkitan Bangsa,0,10,39570,8,28183,4,67753,8
+DPR,62,Kalimantan Tengah,10,Partai Hati Nurani Rakyat,0,6,32279,10,18662,9,50941,9
+DPR,62,Kalimantan Tengah,3,Partai Keadilan Sejahtera,0,9,34974,9,14548,10,49522,10
+DPR,62,Kalimantan Tengah,15,Partai Keadilan dan Persatuan Indonesia,0,7,13490,11,5150,12,18640,11
+DPR,62,Kalimantan Tengah,14,Partai Bulan Bintang,0,8,8726,12,6705,11,15431,12
+DPR,63,Kalimantan Selatan,5,Partai Golongan Karya,217569,1,387733,1,98581,1,486314,1
+DPR,63,Kalimantan Selatan,9,Partai Persatuan Pembangunan,123615,2,154799,2,60283,3,215082,2
+DPR,63,Kalimantan Selatan,2,Partai Kebangkitan Bangsa,113299,3,144529,3,58364,4,202893,3
+DPR,63,Kalimantan Selatan,4,Partai Demokrasi Indonesia Perjuangan,48611,6,111577,6,80787,2,192364,4
+DPR,63,Kalimantan Selatan,6,Partai Gerakan Indonesia Raya,56080,5,115279,4,57119,5,172398,5
+DPR,63,Kalimantan Selatan,3,Partai Keadilan Sejahtera,66864,4,113864,5,38244,6,152108,6
+DPR,63,Kalimantan Selatan,1,Partai NasDem,0,10,65178,8,37253,7,102431,7
+DPR,63,Kalimantan Selatan,10,Partai Hati Nurani Rakyat,0,7,63875,9,31235,8,95110,8
+DPR,63,Kalimantan Selatan,7,Partai Demokrat,0,11,65578,7,29182,9,94760,9
+DPR,63,Kalimantan Selatan,8,Partai Amanat Nasional,0,12,47678,10,25390,10,73068,10
+DPR,63,Kalimantan Selatan,14,Partai Bulan Bintang,0,9,17564,11,13170,11,30734,11
+DPR,63,Kalimantan Selatan,15,Partai Keadilan dan Persatuan Indonesia,0,8,8150,12,6208,12,14358,12
+DPR,64,Kalimantan Timur,5,Partai Golongan Karya,153028,1,263164,1,99074,2,362238,1
+DPR,64,Kalimantan Timur,4,Partai Demokrasi Indonesia Perjuangan,71177,3,197351,2,115223,1,312574,2
+DPR,64,Kalimantan Timur,6,Partai Gerakan Indonesia Raya,84001,2,159407,3,63065,3,222472,3
+DPR,64,Kalimantan Timur,7,Partai Demokrat,53283,4,111220,4,48757,4,159977,4
+DPR,64,Kalimantan Timur,3,Partai Keadilan Sejahtera,53143,5,109279,5,35426,5,144705,5
+DPR,64,Kalimantan Timur,9,Partai Persatuan Pembangunan,49839,6,103455,6,27926,8,131381,6
+DPR,64,Kalimantan Timur,1,Partai NasDem,35142,7,88857,7,28260,7,117117,7
+DPR,64,Kalimantan Timur,10,Partai Hati Nurani Rakyat,0,8,64683,9,33904,6,98587,8
+DPR,64,Kalimantan Timur,8,Partai Amanat Nasional,0,12,73832,8,23166,10,96998,9
+DPR,64,Kalimantan Timur,2,Partai Kebangkitan Bangsa,0,11,57073,10,27074,9,84147,10
+DPR,64,Kalimantan Timur,14,Partai Bulan Bintang,0,10,29713,11,10873,11,40586,11
+DPR,64,Kalimantan Timur,15,Partai Keadilan dan Persatuan Indonesia,0,9,23305,12,4352,12,27657,12
+DPR,92,Papua Barat,5,Partai Golongan Karya,65690,3,148830,1,11412,1,160242,1
+DPR,92,Papua Barat,7,Partai Demokrat,83744,1,136258,2,7611,4,143869,2
+DPR,92,Papua Barat,4,Partai Demokrasi Indonesia Perjuangan,69908,2,81320,3,8014,2,89334,3
+DPR,92,Papua Barat,8,Partai Amanat Nasional,0,12,41786,4,3456,8,45242,4
+DPR,92,Papua Barat,6,Partai Gerakan Indonesia Raya,0,10,22215,6,7960,3,30175,5
+DPR,92,Papua Barat,1,Partai NasDem,0,7,22289,5,5112,5,27401,6
+DPR,92,Papua Barat,2,Partai Kebangkitan Bangsa,0,9,14430,7,3744,6,18174,7
+DPR,92,Papua Barat,10,Partai Hati Nurani Rakyat,0,4,13864,8,3566,7,17430,8
+DPR,92,Papua Barat,3,Partai Keadilan Sejahtera,0,8,11038,9,2923,9,13961,9
+DPR,92,Papua Barat,9,Partai Persatuan Pembangunan,0,11,9196,11,2129,10,11325,10
+DPR,92,Papua Barat,15,Partai Keadilan dan Persatuan Indonesia,0,5,9499,10,1261,11,10760,11
+DPR,92,Papua Barat,14,Partai Bulan Bintang,0,6,4898,12,914,12,5812,12
+DPR,13,Sumatera Barat,5,Partai Golongan Karya,130845,1,325091,1,78158,1,403249,1
+DPR,13,Sumatera Barat,6,Partai Gerakan Indonesia Raya,106705,3,283984,2,64296,2,348280,2
+DPR,13,Sumatera Barat,7,Partai Demokrat,119258,2,246504,3,55727,3,302231,3
+DPR,13,Sumatera Barat,8,Partai Amanat Nasional,33917,8,189371,4,37277,7,226648,4
+DPR,13,Sumatera Barat,1,Partai NasDem,38249,7,178952,5,35541,8,214493,5
+DPR,13,Sumatera Barat,9,Partai Persatuan Pembangunan,81630,4,167866,6,38430,6,206296,6
+DPR,13,Sumatera Barat,3,Partai Keadilan Sejahtera,51324,6,158250,7,47510,4,205760,7
+DPR,13,Sumatera Barat,4,Partai Demokrasi Indonesia Perjuangan,62068,5,141934,8,42131,5,184065,8
+DPR,13,Sumatera Barat,10,Partai Hati Nurani Rakyat,0,9,103371,9,32777,9,136148,9
+DPR,13,Sumatera Barat,2,Partai Kebangkitan Bangsa,0,12,61148,10,27222,10,88370,10
+DPR,13,Sumatera Barat,14,Partai Bulan Bintang,0,11,48679,11,17014,11,65693,11
+DPR,13,Sumatera Barat,15,Partai Keadilan dan Persatuan Indonesia,0,10,18919,12,5187,12,24106,12
+DPR,12,Sumatera Utara,5,Partai Golongan Karya,299656,3,847890,1,156608,3,1004498,1
+DPR,12,Sumatera Utara,4,Partai Demokrasi Indonesia Perjuangan,337989,2,729234,2,227194,1,956428,2
+DPR,12,Sumatera Utara,6,Partai Gerakan Indonesia Raya,347064,1,658789,3,157853,2,816642,3
+DPR,12,Sumatera Utara,7,Partai Demokrat,138648,8,596549,4,132150,4,728699,4
+DPR,12,Sumatera Utara,8,Partai Amanat Nasional,199034,4,417846,5,82826,7,500672,5
+DPR,12,Sumatera Utara,10,Partai Hati Nurani Rakyat,145375,7,377571,6,87568,6,465139,6
+DPR,12,Sumatera Utara,3,Partai Keadilan Sejahtera,148564,6,347771,7,93794,5,441565,7
+DPR,12,Sumatera Utara,1,Partai NasDem,153736,5,340335,8,72113,9,412448,8
+DPR,12,Sumatera Utara,9,Partai Persatuan Pembangunan,103492,9,241156,9,73788,8,314944,9
+DPR,12,Sumatera Utara,2,Partai Kebangkitan Bangsa,29657,10,191387,10,63671,10,255058,10
+DPR,12,Sumatera Utara,14,Partai Bulan Bintang,0,12,96554,11,33146,11,129700,11
+DPR,12,Sumatera Utara,15,Partai Keadilan dan Persatuan Indonesia,0,11,78293,12,20273,12,98566,12
+DPR,14,Riau,5,Partai Golongan Karya,148795,1,404022,1,140964,1,544986,1
+DPR,14,Riau,4,Partai Demokrasi Indonesia Perjuangan,96075,2,268856,2,105631,2,374487,2
+DPR,14,Riau,8,Partai Amanat Nasional,91076,3,225295,3,41435,7,266730,3
+DPR,14,Riau,7,Partai Demokrat,80192,5,190915,4,70289,4,261204,4
+DPR,14,Riau,6,Partai Gerakan Indonesia Raya,83183,4,185590,5,74484,3,260074,5
+DPR,14,Riau,2,Partai Kebangkitan Bangsa,60420,6,169576,6,45170,5,214746,6
+DPR,14,Riau,3,Partai Keadilan Sejahtera,51700,7,146365,8,43638,6,190003,7
+DPR,14,Riau,9,Partai Persatuan Pembangunan,0,12,150056,7,37145,10,187201,8
+DPR,14,Riau,1,Partai NasDem,0,11,127866,9,37988,8,165854,9
+DPR,14,Riau,10,Partai Hati Nurani Rakyat,0,8,74787,10,37919,9,112706,10
+DPR,14,Riau,14,Partai Bulan Bintang,0,10,42799,11,19470,11,62269,11
+DPR,14,Riau,15,Partai Keadilan dan Persatuan Indonesia,0,9,20747,12,6581,12,27328,12
+DPR,17,Bengkulu,1,Partai NasDem,86405,1,105910,1,24849,4,130759,1
+DPR,17,Bengkulu,4,Partai Demokrasi Indonesia Perjuangan,30298,4,72863,3,46433,1,119296,2
+DPR,17,Bengkulu,6,Partai Gerakan Indonesia Raya,33304,3,72117,4,36390,2,108507,3
+DPR,17,Bengkulu,8,Partai Amanat Nasional,42490,2,77541,2,15139,8,92680,4
+DPR,17,Bengkulu,5,Partai Golongan Karya,0,10,60531,6,32081,3,92612,5
+DPR,17,Bengkulu,2,Partai Kebangkitan Bangsa,0,9,62758,5,18764,7,81522,6
+DPR,17,Bengkulu,3,Partai Keadilan Sejahtera,0,8,57003,7,18823,6,75826,7
+DPR,17,Bengkulu,7,Partai Demokrat,0,11,54281,8,20162,5,74443,8
+DPR,17,Bengkulu,9,Partai Persatuan Pembangunan,0,12,50214,9,11642,10,61856,9
+DPR,17,Bengkulu,10,Partai Hati Nurani Rakyat,0,5,35619,10,14049,9,49668,10
+DPR,17,Bengkulu,15,Partai Keadilan dan Persatuan Indonesia,0,6,13075,11,5848,11,18923,11
+DPR,17,Bengkulu,14,Partai Bulan Bintang,0,7,12086,12,5577,12,17663,12
+DPR,16,Sumatera Selatan,4,Partai Demokrasi Indonesia Perjuangan,185766,2,414003,2,278844,1,692847,1
+DPR,16,Sumatera Selatan,5,Partai Golongan Karya,319727,1,510346,1,150586,3,660932,2
+DPR,16,Sumatera Selatan,6,Partai Gerakan Indonesia Raya,121430,4,300679,3,204707,2,505386,3
+DPR,16,Sumatera Selatan,7,Partai Demokrat,96302,5,296233,4,100132,4,396365,4
+DPR,16,Sumatera Selatan,8,Partai Amanat Nasional,155047,3,248318,5,85132,5,333450,5
+DPR,16,Sumatera Selatan,2,Partai Kebangkitan Bangsa,76965,6,198422,7,80866,6,279288,6
+DPR,16,Sumatera Selatan,1,Partai NasDem,68128,8,201421,6,75983,7,277404,7
+DPR,16,Sumatera Selatan,3,Partai Keadilan Sejahtera,74509,7,176439,8,66077,9,242516,8
+DPR,16,Sumatera Selatan,10,Partai Hati Nurani Rakyat,26438,9,147746,9,68807,8,216553,9
+DPR,16,Sumatera Selatan,9,Partai Persatuan Pembangunan,0,12,124086,10,44676,10,168762,10
+DPR,16,Sumatera Selatan,14,Partai Bulan Bintang,0,11,92125,11,32011,11,124136,11
+DPR,16,Sumatera Selatan,15,Partai Keadilan dan Persatuan Indonesia,0,10,32439,12,12781,12,45220,12
+DPR,19,Kepulauan Bangka Belitung,4,Partai Demokrasi Indonesia Perjuangan,72400,1,88960,1,48125,1,137085,1
+DPR,19,Kepulauan Bangka Belitung,5,Partai Golongan Karya,33693,3,45040,3,26023,2,71063,2
+DPR,19,Kepulauan Bangka Belitung,7,Partai Demokrat,35570,2,49242,2,13476,5,62718,3
+DPR,19,Kepulauan Bangka Belitung,9,Partai Persatuan Pembangunan,0,11,40668,4,11702,8,52370,4
+DPR,19,Kepulauan Bangka Belitung,1,Partai NasDem,0,7,33017,6,14746,4,47763,5
+DPR,19,Kepulauan Bangka Belitung,8,Partai Amanat Nasional,0,12,36828,5,9478,10,46306,6
+DPR,19,Kepulauan Bangka Belitung,3,Partai Keadilan Sejahtera,0,8,29386,7,12511,6,41897,7
+DPR,19,Kepulauan Bangka Belitung,6,Partai Gerakan Indonesia Raya,0,10,20266,8,16984,3,37250,8
+DPR,19,Kepulauan Bangka Belitung,10,Partai Hati Nurani Rakyat,0,4,19670,9,12078,7,31748,9
+DPR,19,Kepulauan Bangka Belitung,14,Partai Bulan Bintang,0,6,15073,10,9446,11,24519,10
+DPR,19,Kepulauan Bangka Belitung,2,Partai Kebangkitan Bangsa,0,9,11588,11,11074,9,22662,11
+DPR,19,Kepulauan Bangka Belitung,15,Partai Keadilan dan Persatuan Indonesia,0,5,6127,12,1939,12,8066,12
+DPR,18,Lampung,4,Partai Demokrasi Indonesia Perjuangan,223964,1,417356,1,293990,1,711346,1
+DPR,18,Lampung,6,Partai Gerakan Indonesia Raya,119770,3,330484,2,208159,2,538643,2
+DPR,18,Lampung,7,Partai Demokrat,87862,7,328081,4,142711,4,470792,3
+DPR,18,Lampung,5,Partai Golongan Karya,103427,5,313416,5,150902,3,464318,4
+DPR,18,Lampung,8,Partai Amanat Nasional,212228,2,330446,3,91018,8,421464,5
+DPR,18,Lampung,3,Partai Keadilan Sejahtera,116212,4,244133,6,108838,6,352971,6
+DPR,18,Lampung,2,Partai Kebangkitan Bangsa,100536,6,205864,8,127903,5,333767,7
+DPR,18,Lampung,1,Partai NasDem,76081,9,207564,7,96858,7,304422,8
+DPR,18,Lampung,10,Partai Hati Nurani Rakyat,81058,8,172929,9,59267,9,232196,9
+DPR,18,Lampung,9,Partai Persatuan Pembangunan,0,12,95652,10,52453,10,148105,10
+DPR,18,Lampung,14,Partai Bulan Bintang,0,11,27218,11,18264,11,45482,11
+DPR,18,Lampung,15,Partai Keadilan dan Persatuan Indonesia,0,10,20957,12,15037,12,35994,12
+DPR,11,Aceh,6,Partai Gerakan Indonesia Raya,105996,2,306149,1,60236,3,366385,1
+DPR,11,Aceh,7,Partai Demokrat,107070,1,259466,2,92543,2,352009,2
+DPR,11,Aceh,1,Partai NasDem,62568,5,168213,5,103361,1,271574,3
+DPR,11,Aceh,8,Partai Amanat Nasional,47035,8,193129,3,48067,4,241196,4
+DPR,11,Aceh,5,Partai Golongan Karya,67418,3,188477,4,44023,6,232500,5
+DPR,11,Aceh,9,Partai Persatuan Pembangunan,52459,7,153108,6,47623,5,200731,6
+DPR,11,Aceh,3,Partai Keadilan Sejahtera,62400,6,135871,7,43937,7,179808,7
+DPR,11,Aceh,4,Partai Demokrasi Indonesia Perjuangan,64159,4,119287,8,26413,10,145700,8
+DPR,11,Aceh,2,Partai Kebangkitan Bangsa,40191,9,96855,9,40616,8,137471,9
+DPR,11,Aceh,10,Partai Hati Nurani Rakyat,0,10,54477,10,33705,9,88182,10
+DPR,11,Aceh,14,Partai Bulan Bintang,0,12,41448,11,26058,11,67506,11
+DPR,11,Aceh,15,Partai Keadilan dan Persatuan Indonesia,0,11,22647,12,10332,12,32979,12
+DPR,75,Gorontalo,5,Partai Golongan Karya,280885,1,285884,1,24906,1,310790,1
+DPR,75,Gorontalo,6,Partai Gerakan Indonesia Raya,37512,2,42943,2,6399,6,49342,2
+DPR,75,Gorontalo,7,Partai Demokrat,0,10,41051,3,6611,5,47662,3
+DPR,75,Gorontalo,8,Partai Amanat Nasional,0,12,27040,6,14182,2,41222,4
+DPR,75,Gorontalo,4,Partai Demokrasi Indonesia Perjuangan,0,9,31273,4,9333,3,40606,5
+DPR,75,Gorontalo,10,Partai Hati Nurani Rakyat,0,3,27900,5,8740,4,36640,6
+DPR,75,Gorontalo,9,Partai Persatuan Pembangunan,0,11,26344,7,4770,10,31114,7
+DPR,75,Gorontalo,3,Partai Keadilan Sejahtera,0,7,20613,8,5886,7,26499,8
+DPR,75,Gorontalo,1,Partai NasDem,0,6,15841,9,5089,9,20930,9
+DPR,75,Gorontalo,14,Partai Bulan Bintang,0,5,13705,10,2467,11,16172,10
+DPR,75,Gorontalo,2,Partai Kebangkitan Bangsa,0,8,7977,11,5308,8,13285,11
+DPR,75,Gorontalo,15,Partai Keadilan dan Persatuan Indonesia,0,4,1520,12,872,12,2392,12
+DPR,74,Sulawesi Tenggara,8,Partai Amanat Nasional,131520,1,250146,1,21085,2,271231,1
+DPR,74,Sulawesi Tenggara,5,Partai Golongan Karya,91747,2,155199,2,23095,1,178294,2
+DPR,74,Sulawesi Tenggara,7,Partai Demokrat,52650,3,111238,3,15526,5,126764,3
+DPR,74,Sulawesi Tenggara,6,Partai Gerakan Indonesia Raya,30820,5,103417,4,20540,3,123957,4
+DPR,74,Sulawesi Tenggara,9,Partai Persatuan Pembangunan,48477,4,91975,5,7165,10,99140,5
+DPR,74,Sulawesi Tenggara,4,Partai Demokrasi Indonesia Perjuangan,0,12,79545,6,17511,4,97056,6
+DPR,74,Sulawesi Tenggara,1,Partai NasDem,0,9,78852,7,11511,6,90363,7
+DPR,74,Sulawesi Tenggara,3,Partai Keadilan Sejahtera,0,10,49082,8,11095,8,60177,8
+DPR,74,Sulawesi Tenggara,2,Partai Kebangkitan Bangsa,0,11,47415,9,11357,7,58772,9
+DPR,74,Sulawesi Tenggara,10,Partai Hati Nurani Rakyat,0,6,29277,10,11038,9,40315,10
+DPR,74,Sulawesi Tenggara,14,Partai Bulan Bintang,0,8,20524,11,6175,11,26699,11
+DPR,74,Sulawesi Tenggara,15,Partai Keadilan dan Persatuan Indonesia,0,7,5783,12,2182,12,7965,12
+DPR,73,Sulawesi Selatan,5,Partai Golongan Karya,363136,1,777768,1,107073,1,884841,1
+DPR,73,Sulawesi Selatan,6,Partai Gerakan Indonesia Raya,194288,4,587144,2,73118,2,660262,2
+DPR,73,Sulawesi Selatan,7,Partai Demokrat,152578,5,438395,3,51510,3,489905,3
+DPR,73,Sulawesi Selatan,8,Partai Amanat Nasional,197379,2,371729,4,35151,8,406880,4
+DPR,73,Sulawesi Selatan,9,Partai Persatuan Pembangunan,194696,3,354034,5,33750,10,387784,5
+DPR,73,Sulawesi Selatan,3,Partai Keadilan Sejahtera,97473,6,300051,6,38915,6,338966,6
+DPR,73,Sulawesi Selatan,1,Partai NasDem,87768,7,275329,7,41092,5,316421,7
+DPR,73,Sulawesi Selatan,4,Partai Demokrasi Indonesia Perjuangan,80478,8,269351,8,44164,4,313515,8
+DPR,73,Sulawesi Selatan,10,Partai Hati Nurani Rakyat,39514,9,251118,9,35606,7,286724,9
+DPR,73,Sulawesi Selatan,2,Partai Kebangkitan Bangsa,0,12,134984,10,33846,9,168830,10
+DPR,73,Sulawesi Selatan,15,Partai Keadilan dan Persatuan Indonesia,0,10,83826,11,8551,12,92377,11
+DPR,73,Sulawesi Selatan,14,Partai Bulan Bintang,0,11,44890,12,12770,11,57660,12
+DPR,72,Sulawesi Tengah,5,Partai Golongan Karya,131508,1,221258,1,53352,1,274610,1
+DPR,72,Sulawesi Tengah,6,Partai Gerakan Indonesia Raya,61500,4,142815,3,39402,3,182217,2
+DPR,72,Sulawesi Tengah,7,Partai Demokrat,74983,3,121707,4,52299,2,174006,3
+DPR,72,Sulawesi Tengah,1,Partai NasDem,109021,2,145700,2,25589,5,171289,4
+DPR,72,Sulawesi Tengah,4,Partai Demokrasi Indonesia Perjuangan,47709,5,111695,5,31411,4,143106,5
+DPR,72,Sulawesi Tengah,10,Partai Hati Nurani Rakyat,42660,6,99132,6,24514,6,123646,6
+DPR,72,Sulawesi Tengah,8,Partai Amanat Nasional,0,12,82027,7,15022,9,97049,7
+DPR,72,Sulawesi Tengah,3,Partai Keadilan Sejahtera,0,9,66797,8,17193,8,83990,8
+DPR,72,Sulawesi Tengah,2,Partai Kebangkitan Bangsa,0,10,51404,9,20379,7,71783,9
+DPR,72,Sulawesi Tengah,9,Partai Persatuan Pembangunan,0,11,40251,10,11848,10,52099,10
+DPR,72,Sulawesi Tengah,14,Partai Bulan Bintang,0,8,18497,11,7590,11,26087,11
+DPR,72,Sulawesi Tengah,15,Partai Keadilan dan Persatuan Indonesia,0,7,18359,12,6507,12,24866,12
+DPR,71,Sulawesi Utara,4,Partai Demokrasi Indonesia Perjuangan,363817,1,413809,1,35866,1,449675,1
+DPR,71,Sulawesi Utara,5,Partai Golongan Karya,77264,4,194918,2,22347,2,217265,2
+DPR,71,Sulawesi Utara,7,Partai Demokrat,81152,3,148953,3,14822,5,163775,3
+DPR,71,Sulawesi Utara,8,Partai Amanat Nasional,103801,2,141503,4,9486,6,150989,4
+DPR,71,Sulawesi Utara,6,Partai Gerakan Indonesia Raya,35660,5,128302,5,17705,3,146007,5
+DPR,71,Sulawesi Utara,10,Partai Hati Nurani Rakyat,0,6,75581,6,16294,4,91875,6
+DPR,71,Sulawesi Utara,1,Partai NasDem,0,9,61834,7,7794,7,69628,7
+DPR,71,Sulawesi Utara,3,Partai Keadilan Sejahtera,0,10,35659,8,5775,9,41434,8
+DPR,71,Sulawesi Utara,9,Partai Persatuan Pembangunan,0,12,26452,9,5149,10,31601,9
+DPR,71,Sulawesi Utara,2,Partai Kebangkitan Bangsa,0,11,18004,10,5926,8,23930,10
+DPR,71,Sulawesi Utara,15,Partai Keadilan dan Persatuan Indonesia,0,7,12206,11,2909,11,15115,11
+DPR,71,Sulawesi Utara,14,Partai Bulan Bintang,0,8,7349,12,1303,12,8652,12
