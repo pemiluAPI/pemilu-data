@@ -75,36 +75,16 @@ id_kutipan,tag
 0028,kutipan
 0029,jokowi
 0029,kutipan
-0036,konvensi
-0036,wapres
-0036,cawapres
-0037,kampanye
-0037,negatif
-0037,fitnah
-0038,jk
-0038,kutipan
-0039,jk
+0039,jokowi
 0039,kutipan
-0040,jk
+0040,jokowi
 0040,kutipan
-0041,jk
-0041,kutipan
-0042,jk
-0042,kutipan
-0043,jk
-0043,kutipan
-0044,jk
-0044,kutipan
-0045,jk
-0045,kutipan
-0046,jk
-0046,kutipan
-0047,jk
-0047,kutipan
-0048,jk
-0048,kutipan
-0049,jk
-0049,kutipan
+0048,konvensi
+0048,wapres
+0048,cawapres
+0049,kampanye
+0049,negatif
+0049,fitnah
 0050,jk
 0050,kutipan
 0051,jk
@@ -115,47 +95,71 @@ id_kutipan,tag
 0053,kutipan
 0054,jk
 0054,kutipan
-0054,kampanye
-0054,dialog
-0055,jk kutipan
+0055,jk
+0055,kutipan
 0056,jk
 0056,kutipan
-0056,jokowi
-0056,capres
 0057,jk
 0057,kutipan
-0057,suara rakyat
 0058,jk
 0058,kutipan
-0058,nomor pemilihan
 0059,jk
 0059,kutipan
-0059,peran rumah ibadah
 0060,jk
 0060,kutipan
-0060,manufaktur
 0061,jk
 0061,kutipan
-0061,baca al-quran
 0062,jk
 0062,kutipan
-0062,pelaksanaan
 0063,jk
-0063,kuitipan
-0069,prabowo
+0063,kutipan
+0064,jk
+0064,kutipan
+0065,jk
+0065,kutipan
+0066,jk
+0066,kutipan
+0066,kampanye
+0066,dialog
+0067,jk kutipan
+0068,jk
+0068,kutipan
+0068,jokowi
+0068,capres
+0069,jk
 0069,kutipan
-0069,sindiran
-0069,jokowi
-0070,prabowo
+0069,suara rakyat
+0070,jk
 0070,kutipan
-0070,sindiran
-0070,jokowi
-0103,prabowo
-0103,kutipan
-0116,hatta
-0116,umat
-0116,beragama
-0117,hatta rajasa
-0117,harry tanoe
-0117,tim
-0117,sukses
+0070,nomor pemilihan
+0071,jk
+0071,kutipan
+0071,peran rumah ibadah
+0072,jk
+0072,kutipan
+0072,manufaktur
+0073,jk
+0073,kutipan
+0073,baca al-quran
+0074,jk
+0074,kutipan
+0074,pelaksanaan
+0075,jk
+0075,kuitipan
+0081,prabowo
+0081,kutipan
+0081,sindiran
+0081,jokowi
+0082,prabowo
+0082,kutipan
+0082,sindiran
+0082,jokowi
+0115,prabowo
+0115,kutipan
+0133,hatta
+0133,umat
+0133,beragama
+0134,hatta rajasa
+0134,harry tanoe
+0134,tim
+0134,sukses

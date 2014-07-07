@@ -45,295 +45,304 @@ id_schedule,tag
 0013,jokowi
 0013,kampanye
 0013,janji-janji
-0014,jusuf kalla
-0014,hadir 1tahun taufiq kiemas
-0015,kunjungan
-0015,capres
-0015,prabowo
-0016,kunjungan
-0016,capres
-0016,prabowo
-0016,arb
-0016,gerindra
-0016,golkar
+0014,jokowi
+0014,umroh
+0015,jokowi
+0015,kampanye
+0016,jusuf kalla
+0016,hadir 1tahun taufiq kiemas
+0017,kunjungan
 0017,capres
 0017,prabowo
-0017,kunjungan
+0018,kunjungan
 0018,capres
 0018,prabowo
-0018,kunjungan
-0019,cawapres
-0019,hatta
+0018,arb
+0018,gerindra
+0018,golkar
+0019,capres
+0019,prabowo
 0019,kunjungan
 0020,capres
-0020,deklarasi
 0020,prabowo
-0021,hadir
-0021,halaqoh
-0021,nadhadatul
-0021,ulama
-0022,hatta rajasa
-0022,kalimantan
-0023,hatta rajasa
-0023,pasar
+0020,kunjungan
+0021,cawapres
+0021,hatta
+0021,kunjungan
+0022,capres
+0022,deklarasi
+0022,prabowo
+0023,hadir
+0023,halaqoh
+0023,nadhadatul
+0023,ulama
 0024,hatta rajasa
-0024,rakyat
-0024,pesantren
-0024,akhlak
-0024,komitmen
-0025,prabowo
-0025,ajak anak muda
-0026,prabowo-hatta
-0026,jokowi-jk fokus debat capres dan cawapres
-0027,hatta rajasa
-0027,kampanye
-0027,banten
-0028,hatta rajasa
-0028,datangi pesantren
-0028,bekasi
-0029,jusuf kalla
+0024,kalimantan
+0025,hatta rajasa
+0025,pasar
+0026,hatta rajasa
+0026,rakyat
+0026,pesantren
+0026,akhlak
+0026,komitmen
+0027,prabowo
+0027,ajak anak muda
+0028,prabowo-hatta
+0028,jokowi-jk fokus debat capres dan cawapres
+0029,hatta rajasa
 0029,kampanye
-0029,riau
-0030,kampanye
-0030,terbuka banten
-0030,nusa tenggara timur
-0030,kalimantan selatan
-0030,kalimantan timur
-0030,maluku
-0030,papua barat
-0030,ntt
-0030,kalsel
-0030,kaltim
+0029,banten
+0030,hatta rajasa
+0030,datangi pesantren
+0030,bekasi
+0031,jusuf kalla
 0031,kampanye
-0031,terbuka
-0031,sumatera utara
-0031,sumut
+0031,riau
 0032,kampanye
-0032,terbuka
+0032,terbuka banten
+0032,nusa tenggara timur
+0032,kalimantan selatan
+0032,kalimantan timur
 0032,maluku
-0032,maluku utara papua barat
-0032,malut
+0032,papua barat
+0032,ntt
+0032,kalsel
+0032,kaltim
 0033,kampanye
 0033,terbuka
-0033,sumatera selatan
-0033,kepulauan riau
-0033,sumsel
-0033,kepri
+0033,sumatera utara
+0033,sumut
 0034,kampanye
 0034,terbuka
-0034,lampung
+0034,maluku
+0034,maluku utara papua barat
+0034,malut
 0035,kampanye
 0035,terbuka
-0035,sulawesi tengah
-0035,sulteng
+0035,sumatera selatan
+0035,kepulauan riau
+0035,sumsel
+0035,kepri
 0036,kampanye
 0036,terbuka
-0036,banten
+0036,lampung
 0037,kampanye
 0037,terbuka
-0037,jawa barat
-0037,jabar
+0037,sulawesi tengah
+0037,sulteng
 0038,kampanye
 0038,terbuka
-0038,sumatera selatan
-0038,sumsel
+0038,banten
 0039,kampanye
 0039,terbuka
-0039,jawa timur
-0039,jatim
+0039,jawa barat
+0039,jabar
 0040,kampanye
 0040,terbuka
-0040,jawa tengah
-0040,nusa tenggara timur
-0040,jateng
-0040,ntt
+0040,sumatera selatan
+0040,sumsel
 0041,kampanye
 0041,terbuka
-0041,kalimantan selatan
-0041,kalsel
+0041,jawa timur
+0041,jatim
 0042,kampanye
 0042,terbuka
-0042,banten
+0042,jawa tengah
+0042,nusa tenggara timur
+0042,jateng
+0042,ntt
 0043,kampanye
 0043,terbuka
-0043,jawa barat
-0043,jabar
+0043,kalimantan selatan
+0043,kalsel
 0044,kampanye
 0044,terbuka
-0044,nusa tenggara timur
-0044,ntt
+0044,banten
 0045,kampanye
 0045,terbuka
-0045,sulawesi tenggara
-0045,sulteng
+0045,jawa barat
+0045,jabar
 0046,kampanye
 0046,terbuka
-0046,jawa timur
-0046,jatim
+0046,nusa tenggara timur
+0046,ntt
 0047,kampanye
 0047,terbuka
-0047,sulawesi barat
-0047,sulbar
+0047,sulawesi tenggara
+0047,sulteng
 0048,kampanye
 0048,terbuka
-0048,jawa barat
-0048,banten
-0048,jabar
+0048,jawa timur
+0048,jatim
 0049,kampanye
 0049,terbuka
-0049,jawa tengah
-0049,jateng
+0049,sulawesi barat
+0049,sulbar
 0050,kampanye
 0050,terbuka
-0050,aceh
-0050,sumatera barat
-0050,sumatera selatan
-0050,maluku utara
-0050,papua
-0050,sumbar
-0050,sulsel
-0050,malut
+0050,jawa barat
+0050,banten
+0050,jabar
 0051,kampanye
 0051,terbuka
-0051,lampung
 0051,jawa tengah
 0051,jateng
-0051,bali
-0051,ntt
-0051,nusa tenggara timur
-0051,kalimantan timur
-0051,kalimantan utara
-0051,kaltim
-0051,kalut
 0052,kampanye
 0052,terbuka
-0052,jakarta
-0052,kalimantan tengah
-0052,sulawesi utara
-0052,papua barat
-0052,jkt
-0052,kalteng
-0052,sulut
+0052,aceh
+0052,sumatera barat
+0052,sumatera selatan
+0052,maluku utara
+0052,papua
+0052,sumbar
+0052,sulsel
+0052,malut
 0053,kampanye
 0053,terbuka
-0053,jawa barat
-0053,jabar
-0053,banten
-0054,kampanye terbuka
-0054,sumatera utara
-0054,sulawesi selatan
-0054,gorontalo
-0054,maluku
-0054,sumut
-0054,sulsel
-0055,kampanye terbuka
-0055,bengkulu
-0055,bangka belitung
-0055,kepulauan riau
+0053,lampung
+0053,jawa tengah
+0053,jateng
+0053,bali
+0053,ntt
+0053,nusa tenggara timur
+0053,kalimantan timur
+0053,kalimantan utara
+0053,kaltim
+0053,kalut
+0054,kampanye
+0054,terbuka
+0054,jakarta
+0054,kalimantan tengah
+0054,sulawesi utara
+0054,papua barat
+0054,jkt
+0054,kalteng
+0054,sulut
+0055,kampanye
+0055,terbuka
 0055,jawa barat
-0055,jawa timur
-0055,banten
-0055,nusa tenggara barat
-0055,ntb
-0055,kalimantan barat
-0055,kalimantan selatan
-0055,papua
 0055,jabar
-0055,kalbar
-0055,kalsel
-0056,kampanye
-0056,terbuka
-0056,riau
-0056,lampung
-0056,kalimantan utara
-0056,sulawesi tengah
-0056,sulawesi tenggara
-0056,maluku utara
-0056,kalut
-0056,sulteng
-0056,malut
-0057,kampanye
-0057,terbuka
-0057,aceh
-0057,sumatera barat
-0057,sumatera selatan
-0057,jawa tengah
-0057,bali
-0057,ntt
-0057,kalimantan timur
-0057,nusa tenggara timur
-0057,kaltim
-0057,jateng
-0057,sumsel
-0057,sumbar
+0055,banten
+0056,kampanye terbuka
+0056,sumatera utara
+0056,sulawesi selatan
+0056,gorontalo
+0056,maluku
+0056,sumut
+0056,sulsel
+0057,kampanye terbuka
+0057,bengkulu
+0057,bangka belitung
+0057,kepulauan riau
+0057,jawa barat
+0057,jawa timur
+0057,banten
+0057,nusa tenggara barat
+0057,ntb
+0057,kalimantan barat
+0057,kalimantan selatan
+0057,papua
+0057,jabar
+0057,kalbar
+0057,kalsel
 0058,kampanye
 0058,terbuka
-0058,sulawesi utara
-0058,sulawesi barat
-0058,sulut
-0058,sulbar
+0058,riau
+0058,lampung
+0058,kalimantan utara
+0058,sulawesi tengah
+0058,sulawesi tenggara
+0058,maluku utara
+0058,kalut
+0058,sulteng
+0058,malut
 0059,kampanye
-0059,jakarta
-0060,haul
-0060,surakarta
-0061,debat
-0061,capres
-0062,kampanye
-0062,sumatera
+0059,terbuka
+0059,aceh
+0059,sumatera barat
+0059,sumatera selatan
+0059,jawa tengah
+0059,bali
+0059,ntt
+0059,kalimantan timur
+0059,nusa tenggara timur
+0059,kaltim
+0059,jateng
+0059,sumsel
+0059,sumbar
+0060,kampanye
+0060,terbuka
+0060,sulawesi utara
+0060,sulawesi barat
+0060,sulut
+0060,sulbar
+0061,ziarah ke makam bung karno
+0062,blusukan ke pasar pondok labu
 0063,kampanye
-0063,kalimantan
-0064,kampanye
-0064,jakarta
-0065,kampanye
-0065,jawa barat
+0063,jakarta
+0064,haul
+0064,surakarta
+0065,debat
+0065,capres
 0066,kampanye
-0066,jakata
-0066,jawa timur
-0067,debat
-0067,capres
+0066,sumatera
+0067,kampanye
+0067,kalimantan
 0068,kampanye
-0068,dialog
-0068,sulawesi
+0068,jakarta
 0069,kampanye
-0069,dialog
-0069,sulawesi
+0069,jawa barat
 0070,kampanye
-0070,jakarta
-0071,kunjungan
-0071,pesantren
-0071,jawa timur
-0072,kunjungan
-0072,pesantren
-0072,jawa barat
-0073,event
-0073,jakarta
-0074,debat
-0074,capres
-0075,kampanye
-0075,jawa tengah
-0076,kampanye
-0076,bali
-0077,kampanye
-0077,ntt
-0077,jogja
-0078,kampanye
-0078,jakarta
+0070,jakata
+0070,jawa timur
+0071,debat
+0071,capres
+0072,kampanye
+0072,dialog
+0072,sulawesi
+0073,kampanye
+0073,dialog
+0073,sulawesi
+0074,kampanye
+0074,jakarta
+0075,kunjungan
+0075,pesantren
+0075,jawa timur
+0076,kunjungan
+0076,pesantren
+0076,jawa barat
+0077,event
+0077,jakarta
+0078,debat
+0078,capres
 0079,kampanye
-0079,kalimantan
+0079,jawa tengah
 0080,kampanye
-0080,kalimantan
-0081,debat
-0081,cawapres
+0080,bali
+0081,kampanye
+0081,ntt
+0081,jogja
 0082,kampanye
 0082,jakarta
 0083,kampanye
-0083,jawa barat
+0083,kalimantan
 0084,kampanye
-0084,jawa tengah
-0085,kampanye
-0085,jawa timur
+0084,kalimantan
+0085,debat
+0085,cawapres
 0086,kampanye
 0086,jakarta
-0087,debat
-0087,capres
-0087,cawapres
+0087,kampanye
+0087,jawa barat
+0088,kampanye
+0088,jawa tengah
+0089,kampanye
+0089,jawa timur
+0090,kampanye
+0090,jakarta
+0091,debat
+0091,capres
+0091,cawapres
+0092,kampanye
+0092,capres
+0092,cawapres
