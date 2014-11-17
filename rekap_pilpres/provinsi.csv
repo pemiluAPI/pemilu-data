@@ -1,0 +1,36 @@
+id,nama,nama_lengkap,nama_inggris,jumlah_kursi,jumlah_penduduk,pro_id
+11,Aceh,Aceh,Special Region of Aceh,13,5015234,1
+12,Sumut,Sumatera Utara,North Sumatra,30,15227719,6728
+13,Sumbar,Sumatera Barat,West Sumatra,14,5617977,12920
+14,Riau,Riau,Riau,11,6456322,14086
+15,Jambi,Jambi,Jambi,7,3532126,15885
+16,Sumsel,Sumatera Selatan,South Sumatra,17,8528719,17404
+17,Bengkulu,Bengkulu,Bengkulu,4,1996538,20802
+18,Lampung,Lampung,Lampung,18,9586492,22328
+19,Babel,Kepulauan Bangka Belitung,Bangka-Belitung Islands,3,1349199,24993
+21,Kepri,Kepulauan Riau,Riau Islands,3,1895590,25405
+31,DKI Jakarta,Daerah Khusus Ibukota Jakarta,Jakarta,21,9603417,25823
+32,Jabar,Jawa Barat,West Java,91,39910274,26141
+33,Jateng,Jawa Tengah,Central Java,77,32578357,32676
+34,DIY,Daerah Isimewa Yogyakarta,Special Region of Yogyakarta,8,3458029,41863
+35,Jatim,Jawa Timur,East Java,87,37269885,42385
+36,Banten,Banten,Banten,22,9938820,51578
+51,Bali,Bali,Bali,9,4227705,53241
+52,NTB,Nusa Tenggara Barat,West Nusa Tenggara,10,5398573,54020
+53,NTT,Nusa Tenggara Timur,East Nusa Tenggara,13,5343902,55065
+61,Kalbar,Kalimantan Barat,West Kalimantan,10,5193272,58285
+62,Kalteng,Kalimantan Tengah,Central Kalimantan,6,2640070,60371
+63,Kalsel,Kalimantan Selatan,South Kalimantan,11,4145843,61965
+64,Kaltim,Kalimantan Timur,East Kalimantan,8,4154954,64111
+65,Kaltara,Kalimantan Utara,North Kalimantan,,,
+71,Sulut,Sulawesi Utara,North Sulawesi,6,2617155,65702
+72,Sulteng,Sulawesi Tengah,Central Sulawesi,6,2935343,67393
+73,Sulsel,Sulawesi Selatan,South Sulawesi,24,9368107,69268
+74,Sultra,Sulawesi Tenggara,Southeast Sulawesi,5,2691623,72551
+75,Gorontalo,Gorontalo,Gorontalo,3,1147528,74716
+76,Sulbar,Sulawesi Barat,West Sulawesi,3,1589162,75425
+81,Maluku,Maluku,Maluku,4,1866248,76096
+82,Malut,Maluku Utara,North Maluku,3,1258354,77085
+91,Papua,Papua,Papua,10,4224232,78203
+92,Pabar,Papua Barat,West Papua,3,1091171,81877
+100,LN,Luar Negeri,overseas,,,
