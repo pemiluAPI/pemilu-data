@@ -1,0 +1,243 @@
+id,id_partai,partai,id_dapil,nama_dapil,nama
+1,1,PDIP,1102-00-0000,Aceh II,Tagore Abubakar
+2,1,PDIP,1201-00-0000,Sumut I,Irmadi Lubis
+3,1,PDIP,1201-00-0000,Sumut I,Sofyan Tan
+4,1,PDIP,1203-00-0000,Sumut III,Junimart Girsang
+5,1,PDIP,1302-00-0000,Sumbar II,Agus Susanto
+6,1,PDIP,1601-00-0000,Sumsel I,Nazarudin Kiemas
+7,1,PDIP,1602-00-0000,Sumsel II,Erwin M. Singajuru
+8,1,PDIP,1801-00-0000,Lampung I,Isma Yatun
+9,1,PDIP,1802-00-0000,Lampung II,Itet Tridjajati Sumarijanto
+10,1,PDIP,1901-00-0000,Babel,Rudianto Tjen
+11,1,PDIP,2101-00-0000,Kepri,Dwi Ria Latifa
+12,1,PDIP,3103-00-0000,DKI III,Effendi MS Simbolon
+13,1,PDIP,3103-00-0000,DKI III,Charles Honoris
+14,1,PDIP,3204-00-0000,Jabar IV,Ribka Tjiptaning
+15,1,PDIP,3205-00-0000,Jabar V,Indra P. Simatupang
+16,1,PDIP,3205-00-0000,Jabar V,Sukur Nababan
+17,1,PDIP,3207-00-0000,Jabar VII,Rieke Diah Pitaloka
+18,1,PDIP,3207-00-0000,Jabar VII,Tono Bahtiar
+19,1,PDIP,3208-00-0000,Jabar VIII,Yoseph Umarhadi
+20,1,PDIP,3209-00-0000,Jabar IX,TB Hasanudin
+21,1,PDIP,3302-00-0000,Jateng II,Daryatmo Mardiyanto
+22,1,PDIP,3303-00-0000,Jateng III,Evita Nursanty
+23,1,PDIP,3304-00-0000,Jateng IV,Agustina Wilujeng Pramestuti
+24,1,PDIP,3305-00-0000,Jateng V,Puan Maharani
+25,1,PDIP,3305-00-0000,Jateng V,Aria Bima
+26,1,PDIP,3306-00-0000,Jateng VI,Nursyiwan Soedjono
+27,1,PDIP,3306-00-0000,Jateng VI,Sudjadi
+28,1,PDIP,3307-00-0000,Jateng VII,Utut Udianto
+29,1,PDIP,3309-00-0000,Jateng IX,Muhammad Prakosa
+30,1,PDIP,3401-00-0000,DIY,Mohammad Idham Samawai
+31,1,PDIP,3401-00-0000,DIY,Esti Wijayanti
+32,1,PDIP,3501-00-0000,Jatim I,Guruh Irianto Soekarno Putra
+33,1,PDIP,3501-00-0000,Jatim I,Indah Kurnia
+34,1,PDIP,3503-00-0000,Jatim III,Nursuhud
+35,1,PDIP,3504-00-0000,Jatim IV,Arif Wibowo
+36,1,PDIP,3506-00-0000,Jatim VI,Pramono Anung Wibowo
+37,1,PDIP,3508-00-0000,Jatim VIII,Mindo Sianipar
+38,1,PDIP,3508-00-0000,Jatim VIII,Sadarestuwati
+39,1,PDIP,3511-00-0000,Jatim XI,Said Abdullah
+40,1,PDIP,6101-00-0000,Kalbar,Karolin Margret Natasa
+41,1,PDIP,6101-00-0000,Kalbar,Lasarus
+42,1,PDIP,6201-00-0000,Kalteng,Asdy Narang
+43,1,PDIP,6201-00-0000,Kalteng,Willy M Yoseph 
+44,1,PDIP,6302-00-0000,Kalsel II,Adriyansyah
+45,1,PDIP,6401-00-0000,Kaltim,Marten Apuy
+46,1,PDIP,7101-00-0000,Sulut,Olly Dondokambe
+47,1,PDIP,7101-00-0000,Sulut,Vanda Sarundajang
+48,1,PDIP,7401-00-0000,Sultra,Rendy M Affandy Lamadjido
+49,1,PDIP,7302-00-0000,Sulsel II,Samsul Niang
+50,1,PDIP,3603-00-0000,Banten III,Herdian Koosnadi 
+51,1,PDIP,5101-00-0000,Bali,I Made Urip
+52,1,PDIP,5101-00-0000,Bali,Wayan Koster 
+53,1,PDIP,5101-00-0000,Bali,I Gusti Agung Rai Wirajaya
+54,1,PDIP,5101-00-0000,Bali,Nyoman Dhamantra
+55,1,PDIP,5201-00-0000,NTB,Rachmat Hidayat
+56,1,PDIP,5302-00-0000,NTT II,Herman Hery
+57,1,PDIP,9201-00-0000,Papua Barat,Jimmy Demianus Ijie
+58,2,GOLKAR,1102-00-0000,Aceh II,Salim Fakhry
+59,2,GOLKAR,1302-00-0000,Sumbar II,John Kenedy Azis
+60,2,GOLKAR,1402-00-0000,Riau II,Idris Laena
+61,2,GOLKAR,1802-00-0000,Lampung II,Azis Syamsuddin
+62,2,GOLKAR,3101-00-0000,DKI I,Bambang Wiyogo
+63,2,GOLKAR,3102-00-0000,DKI II,Fayakhun Andriadi 
+64,2,GOLKAR,3103-00-0000,DKI III,Tantowi Yahya
+65,2,GOLKAR,3202-00-0000,Jabar II,Lili Asjudiredja
+66,2,GOLKAR,3203-00-0000,Jabar III,Deding Ishak
+67,2,GOLKAR,3207-00-0000,Jabar VII,Ade Komarudin 
+68,2,GOLKAR,3207-00-0000,Jabar VII,Dadang S. Muchtar
+69,2,GOLKAR,3208-00-0000,Jabar VIII,Dave Akbarshah Fikarno
+70,2,GOLKAR,3209-00-0000,Jabar IX,Eldie Suwandie
+71,2,GOLKAR,3210-00-0000,Jabar X,Agun Gunandjar Sudarsa
+72,2,GOLKAR,3211-00-0000,Jabar XI,Ferdiansyah
+73,2,GOLKAR,3305-00-0000,Jateng V,Endang Srikarti Handayani 
+74,2,GOLKAR,3306-00-0000,Jateng VI,Iqbal Wibisono
+75,2,GOLKAR,3307-00-0000,Jateng VII,Bambang Soesatyo
+76,2,GOLKAR,3309-00-0000,Jateng IX,Agung Widyantoro
+77,2,GOLKAR,3501-00-0000,Jatim I,Adies Kadir
+78,2,GOLKAR,3502-00-0000,Jatim II ,Mukhamad Misbakhun
+79,2,GOLKAR,3505-00-0000,Jatim V,Ridwan Hisjam
+80,2,GOLKAR,3507-00-0000,Jatim VII ,Gatot Sudjito
+81,2,GOLKAR,3510-00-0000,Jatim X ,Eni Maulani 
+82,2,GOLKAR,3511-00-0000,Jatim XI,Zainuddin Amali
+83,2,GOLKAR,6101-00-0000,Kalbar,Zulfadhli
+84,2,GOLKAR,6301-00-0000,Kalsel I ,Ahmad Noor Supit
+85,2,GOLKAR,6401-00-0000,Kaltim,Mahyudin
+86,2,GOLKAR,7301-00-0000,Sulsel I ,Hamka B Kady
+87,2,GOLKAR,7302-00-0000,Sulsel II,Syamsul Bachri
+88,2,GOLKAR,7303-00-0000,Sulsel III,Markus Nari
+89,2,GOLKAR,7501-00-0000,Gorontalo,Fadel Muhammad 
+90,2,GOLKAR,7501-00-0001,Gorontalo,Enny Anggraeni Anwar 
+91,2,GOLKAR,3601-00-0000,Banten I ,Andika Hazrumy
+92,2,GOLKAR,3603-00-0000,Banten III,Andi Achmad Dara
+93,2,GOLKAR,5101-00-0000,Bali,Gde Sumarjaya Linggih
+94,2,GOLKAR,5301-00-0000,NTT I ,Melchias Markus Mekeng
+95,2,GOLKAR,5302-00-0000,NTT II,Setya Novanto
+96,2,GOLKAR,5302-00-0000,NTT II,Charles J Mesang
+97,2,GOLKAR,8101-00-0000,Maluku,Edison Betaubun
+98,2,GOLKAR,8201-00-0000,Maluku Utara,Saiful Bahri Ruray
+99,2,GOLKAR,9201-00-0000,Papua Barat,Robert Joppy Kardinal
+100,2,GOLKAR,1401-00-0000,Riau I ,Kahar Muzakir
+101,2,GOLKAR,7201-00-0000,Sulteng,Ridwan Bae
+102,3,GERINDRA,1202-00-0000,Sumut II ,Gus Irawan Pasaribu
+103,3,GERINDRA,1202-00-0000,Sumut II,Suasana Dachi 
+104,3,GERINDRA,1203-00-0000,Sumut III,Martin Hutabarat
+105,3,GERINDRA,1301-00-0000,Sumbar I ,Suir Syam
+106,3,GERINDRA,1801-00-0000,Lampung I,Ahmad Muzani 
+107,3,GERINDRA,3103-00-0000,DKI III,Aryo Djojohadikusumo
+108,3,GERINDRA,3204-00-0000,Jabar IV,Heri Gunawan
+109,3,GERINDRA,3205-00-0000,Jabar V,Fadli Zon
+110,3,GERINDRA,3206-00-0000,Jabar VI,Nuroji
+111,3,GERINDRA,3207-00-0000,Jabar VII,Putih Sari
+112,3,GERINDRA,3208-00-0000,Jabar VIII,Kardaya Warnika
+113,3,GERINDRA,3305-00-0000,Jateng V,Bambang Riyanto
+114,3,GERINDRA,3307-00-0000,Jateng VII,Darori Wonodipuro
+115,3,GERINDRA,3308-00-0000,Jateng VIII,Novita Wijayanti
+116,3,GERINDRA,3505-00-0000,Jatim V,Moreno Suprapto
+117,3,GERINDRA,3508-00-0000,Jatim VIII,Sareh Wiyono
+118,3,GERINDRA,6201-00-0000,Kalteng,Iwan Kurniawan
+119,3,GERINDRA,6301-00-0000,Kalsel I,Saiful Rasyid
+120,3,GERINDRA,7301-00-0000,Sulsel I,Azikin Solthan
+121,3,GERINDRA,7302-00-0000,Sulsel II,Andi Iwan Darmawan Aras
+122,3,GERINDRA,7303-00-0001,Sulsel III,Andi Nawir
+123,3,GERINDRA,3602-00-0000,Banten II ,Desmond Junaidi Mahesa
+124,3,GERINDRA,5301-00-0000,NTT I,Pius Lustrilanang
+125,4,GERINDRA,8101-00-0000,Maluku,Amrullah Amri Tuasikal
+126,4,DEMOKRAT,1201-00-0000,Sumut I,"Ruhut ""Poltak"" Sitompul"
+127,4,DEMOKRAT,1203-00-0000,Sumut III,Rudi Hartono Bangun
+128,4,DEMOKRAT,1301-00-0000,Sumbar I,Darizal Basir
+129,4,DEMOKRAT,1302-00-0000,Sumbar II,Mulyadi
+130,4,DEMOKRAT,1401-00-0000,Riau I,Sutan Sukarnotomo
+131,4,DEMOKRAT,1402-00-0000,Riau II,Muhammad Nasir
+132,4,DEMOKRAT,1501-00-0000,Jambi,Zulfikar
+133,4,DEMOKRAT,1601-00-0000,Sumsel I,Syofwatillah Muzaib
+134,4,DEMOKRAT,1602-00-0000,Sumsel II,Wahyu Sanjaya
+135,4,DEMOKRAT,1801-00-0000,Lampung I,Zulkifli Anwar
+136,4,DEMOKRAT,3102-00-0000,DKI II,Melani Leimana Suharli
+137,4,DEMOKRAT,3202-00-0000,Jabar II,Dede Yusuf Macan Effendi
+138,4,DEMOKRAT,3203-00-0000,Jabar III,Syarifuddin Hasan
+139,4,DEMOKRAT,3207-00-0000,Jabar VII,Saan Mustopa
+140,4,DEMOKRAT,3208-00-0000,Jabar VIII,Herman Khaeron
+141,4,DEMOKRAT,3209-00-0000,Jabar IX,Linda Megawati
+142,4,DEMOKRAT,3303-00-0000,Jateng III,Djoko Udjianto
+143,4,DEMOKRAT,3304-00-0000,Jateng IV,Rinto Subekti
+144,4,DEMOKRAT,3401-00-0000,DIY,Ambar Tjahyono
+145,4,DEMOKRAT,3503-00-0000,Jatim III,Azam Azman Natawijana
+146,4,DEMOKRAT,3504-00-0000,Jatim IV,Ayub Khan
+147,4,DEMOKRAT,3507-00-0000,Jatim VII,Edhie Baskoro Yudhoyono
+148,4,DEMOKRAT,3507-00-0000,Jatim VII,Sartono
+149,4,DEMOKRAT,3508-00-0000,Jatim VIII,Guntur Sasono
+150,4,DEMOKRAT,3509-00-0000,Jatim IX,Didik Mukrianto
+151,4,DEMOKRAT,3511-00-0000,Jatim XI,Mat Nasir
+152,4,DEMOKRAT,6401-00-0000,Kaltim,Norbaeti Isran Noor 
+153,4,DEMOKRAT,7101-00-0000,Sulut,EE Mangindaan
+154,4,DEMOKRAT,7301-00-0000,Sulsel I,Aliyah Mustika Ilham
+155,4,DEMOKRAT,7601-00-0000,Sulbar,Sali Mengga
+156,4,DEMOKRAT,3603-00-0000,Banten III,Wahidin Halim
+157,4,DEMOKRAT,5101-00-0000,Bali,Jero Wacik
+158,4,DEMOKRAT,5101-00-0000,Bali,I Putu Sudiartana
+159,4,DEMOKRAT,5301-00-0000,NTT I,Benny Kabur Harman
+160,4,DEMOKRAT,5302-00-0000,NTT II,Jefirstson R Riwu Kore
+161,4,DEMOKRAT,9201-00-0000,Papua Barat,Michael Watimena
+162,4,DEMOKRAT,7201-00-0001,Sulteng,Umar Arsal
+163,5,PAN,1401-00-0000,Riau I,Jon Erizal 
+164,5,PAN,1801-00-0000,Lampung I,Zulkifli Hasan
+165,5,PAN,1802-00-0000,Lampung II,Alimin Abdullah
+166,5,PAN,3205-00-0000,Jabar V,Primus Yustisio
+167,5,PAN,3306-00-0000,Jateng VI,Tjatur Sapto Edy
+168,5,PAN,3307-00-0000,Jateng VII,Taufik Kurniawan
+169,5,PAN,3501-00-0000,Jatim I,Sungkono
+170,5,PAN,3510-00-0000,Jatim X,Viva Yoga Mauladi
+171,5,PAN,6101-00-0000,Kalbar,Sukiman
+172,5,PAN,7302-00-0000,Sulsel II,Andi Taufan Tiro
+173,5,PAN,3504-00-0000,Jatim IV,Anang Hermansyah
+174,5,PAN,3508-00-0000,Jatim VIII,Eko Hendro Purnomo
+175,5,PAN,7101-00-0000,Sulut,Yasti Soepredjo Mokoagow
+176,5,PAN,3602-00-0000,Banten II,Yandri Susanto
+177,5,PAN,3603-00-0000,Banten III,Ali Taher
+178,5,PAN,5201-00-0000,NTB,Muhammad Syafrudin
+179,6,PKB,1202-00-0000,Sumut II,Marwan Dasopang
+180,6,PKB,1801-00-0000,Lampung I,Musa Zainuddin
+181,6,PKB,1802-00-0000,Lampung II,Chusnunia Chalim
+182,6,PKB,3207-00-0000,Jabar VII,Krisna Mukti
+183,6,PKB,3303-00-0000,Jateng III,Marwan Jafar
+184,6,PKB,3306-00-0000,Jateng VI,Abdul Kadir Karding
+185,6,PKB,3309-00-0000,Jateng IX,Bachrudin Nasori
+186,6,PKB,3310-00-0000,Jateng X,Muhammad Hanif Dhakiri
+187,6,PKB,3301-00-0000,Jateng I,Alamudin Dimyati Rois
+188,6,PKB,3507-00-0000,Jatim VII,Ibnu Multazam
+189,6,PKB,3509-00-0001,Jatim IX,Anna Muawanah
+190,7,PKS,1102-00-0000,Aceh II,Nasir Djamil
+191,7,PKS,1201-00-0000,Sumut I,Tifatul Sembiring
+192,7,PKS,1401-00-0000,Riau I,Chairul Anwar
+193,7,PKS,3102-00-0000,DKI II,Hidayat Nur Wahid
+194,7,PKS,3103-00-0000,DKI III,Adang Daradjatun
+195,7,PKS,3202-00-0000,Jabar II,Mamur Hasanuddin
+196,7,PKS,3206-00-0000,Jabar VI,Mahfudz Abdurrahman
+197,7,PKS,3207-00-0000,Jabar VII,Sa’Duddin
+198,7,PKS,3208-00-0000,Jabar VIII,Mahfudz Siddiq
+199,7,PKS,3209-00-0000,Jabar IX,Nur Hasan Zaidi
+200,7,PKS,3507-00-0000,Jatim VII,Rofi Munawar
+201,7,PKS,6301-00-0000,Kalsel I,Habib Aboe Bakar Alhabsyi
+202,7,PKS,7301-00-0000,Sulsel I,Tamsil Linrung
+203,7,PKS,7302-00-0000,Sulsel II,Andi Akmal Pasludin
+204,7,PKS,3602-00-0000,Banten II,Zulkieflimansyah
+205,7,PKS,3603-00-0000,Banten III,Jazuli Juwaini
+206,7,PKS,5201-00-0000,NTB,Fahri Hamzah
+207,7,PKS,9101-00-0000,Papua,Peggi Patrisia Pattipi
+208,8,PPP,1201-00-0000,Sumut I,Hasrul Anwar
+209,8,PPP,1301-00-0000,Smbar I,Epyardi Asda
+210,8,PPP,1302-00-0000,Sumbar II,Muhammad Iqbal
+211,8,PPP,3103-00-0000,DKI III,Achmad Dimyati Natakusuma
+212,8,PPP,3203-00-0000,Jabar III,Joko Purwanto
+213,8,PPP,3204-00-0000,Jabar IV,Reni Marlinawati
+214,8,PPP,3205-00-0000,Jabar V,Achmad Farial
+215,8,PPP,3207-00-0000,Jabar VII,Wardatul Asriah
+216,8,PPP,3209-00-0000,Jabar IX,Dony Ahmad Munir
+217,8,PPP,3210-00-0000,Jabar X,Asep Maoshul Affandy
+218,8,PPP,3302-00-0000,Jateng II,Muchlisin
+219,8,PPP,3306-00-0000,Jateng VI,Lukman Hakim Syaifuddin
+220,8,PPP,3307-00-0000,Jateng VII,Muchammad Romahurmuziy
+221,8,PPP,6101-00-0000,Kalbar,Usman Jafar
+222,8,PPP,6301-00-0000,Kalsel I,Syaifullah Tamliha
+223,8,PPP,7401-00-0000,Sultra,Amirul Tamim
+224,8,PPP,3601-00-0000,Banten I,Irna Narulita
+225,8,PPP,3602-00-0000,Banten II,Kartika Yudhisti 
+226,8,PPP,3603-00-0000,Banten III,Irgan Chairul Mahfiz
+227,8,PPP,5201-00-0000,NTB,Ermalena
+228,9,NASDEM,1102-00-0000,Aceh II,Zulfan Lindan
+229,9,NASDEM,1301-00-0000,Sumbar I,Endre Saifoel
+230,9,NASDEM,1701-00-0000,Bengkulu,Patrice Rio Capella
+231,9,NASDEM,2101-00-0000,Kepri,Nyat Kadir
+232,9,NASDEM,3103-00-0000,DKI III,Ahmad Sahroni 
+233,9,NASDEM,3301-00-0000,Jateng I,Fadholi
+234,9,NASDEM,3502-00-0000,Jatim II,Hasan Aminuddin
+235,9,NASDEM,3505-00-0000,Jatim V,Kresna Dewananta Phrosakh
+236,9,NASDEM,7401-00-0000,Sultra,Ahmad Ali
+237,10,HANURA,1201-00-0000,Sumut I,Nurdin Tampubolon
+238,10,HANURA,1202-00-0000,Sumut II,Rufinus Hotmaulana Hutauruk
+239,10,HANURA,3511-00-0000,Jatim XI,M. Farid Alfauzi
+240,10,HANURA,5302-00-0000,NTT II,Saleh Husin
+241,10,HANURA,7201-00-0002,Sulteng,Sarifuddin Suding
+242,10,HANURA,7301-00-0000,Sulsel I,Dewie Yasin limpo

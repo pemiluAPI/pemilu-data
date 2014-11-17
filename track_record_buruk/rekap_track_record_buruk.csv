@@ -1,0 +1,11 @@
+id,nama_fraksi,jumlah,terdakwa,tersangka,terperiksa,pengacara,diduga,ham,pidana,pemilu,etik,absen
+1,PDIP,57,1,7,6,2,17,2,7,6,4,15
+2,GOLKAR,44,1,5,13,1,20,3,1,9,4,6
+3,GERINDRA,24,0,2,6,0,7,1,2,6,1,2
+4,DEMOKRAT,37,1,2,15,0,8,2,4,6,3,5
+5,PAN,16,0,0,6,0,4,0,1,0,0,6
+6,PKB,11,1,0,0,0,4,0,2,1,1,4
+7,PKS,18,0,0,5,0,6,1,1,2,1,8
+8,PPP,20,1,0,10,0,4,0,0,2,1,6
+9,NASDEM,9,0,0,1,0,4,0,0,4,0,0
+10,HANURA,6,0,0,1,1,2,0,1,2,1,0
