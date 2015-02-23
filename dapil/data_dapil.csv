@@ -1,0 +1,78 @@
+id,nama,jumlah_kursi,id_provinsi
+1,Nanggroe Aceh Darussalam I,7,11
+2,Nanggroe Aceh Darussalam II,6,11
+3,Sumatera Utara I,10,12
+4,Sumatera Utara II,10,12
+5,Sumatera Utara III,10,12
+6,Sumatera Barat I,8,13
+7,Sumatera Barat II,6,13
+8,Riau I,6,14
+9,Riau II,5,14
+10,Kepulauan Riau,3,21
+11,Jambi,7,15
+12,Sumatera Selatan I,8,16
+13,Sumatera Selatan II,9,16
+14,Kepulauan Bangka Belitung,3,19
+15,Bengkulu,4,17
+16,Lampung I,9,18
+17,Lampung II,9,18
+18,DKI Jakarta I,6,31
+19,DKI Jakarta II,7,31
+20,DKI Jakarta III,8,31
+21,Jawa Barat I,7,32
+22,Jawa Barat II,10,32
+23,Jawa Barat III,9,32
+24,Jawa Barat IV,6,32
+25,Jawa Barat V,9,32
+26,Jawa Barat VI,6,32
+27,Jawa Barat VII,10,32
+28,Jawa Barat VIII,9,32
+29,Jawa Barat IX,8,32
+30,Jawa Barat X,7,32
+31,Jawa Barat XI,10,32
+32,Banten I,6,36
+33,Banten II,6,36
+34,Banten III,10,36
+35,Jawa Tengah I,8,33
+36,Jawa Tengah II,7,33
+37,Jawa Tengah III,9,33
+38,Jawa Tengah IV,7,33
+39,Jawa Tengah V,8,33
+40,Jawa Tengah VI,8,33
+41,Jawa Tengah VII,7,33
+42,Jawa Tengah VIII,8,33
+43,Jawa Tengah IX,8,33
+44,Jawa Tengah X,7,33
+45,Daerah Istimewa Yogyakarta,8,34
+46,Jawa Timur I,10,35
+47,Jawa Timur II,7,35
+48,Jawa Timur III,7,35
+49,Jawa Timur IV,8,35
+50,Jawa Timur V,8,35
+51,Jawa Timur VI,9,35
+52,Jawa Timur VII,8,35
+53,Jawa Timur VIII,10,35
+54,Jawa Timur IX,6,35
+55,Jawa Timur X,6,35
+56,Jawa Timur XI,8,35
+57,Bali,9,51
+58,Nusa Tenggara Barat,10,52
+59,Nusa Tenggara Timur I,6,53
+60,Nusa Tenggara Timur II,7,53
+61,Kalimantan Barat,10,61
+62,Kalimantan Tengah,6,62
+63,Kalimantan Selatan I,6,63
+64,Kalimantan Selatan II,5,63
+65,Kalimantan Timur,8,64
+66,Sulawesi Utara,6,71
+67,Gorontalo,3,75
+68,Sulawesi Tengah,6,72
+69,Sulawesi Selatan I,8,73
+70,Sulawesi Selatan II,9,73
+71,Sulawesi Selatan III,7,73
+72,Sulawesi Tenggara,5,74
+73,Sulawesi Barat,3,76
+74,Maluku,4,81
+75,Maluku Utara,3,82
+76,Papua,10,91
+77,Papua Barat,3,92
