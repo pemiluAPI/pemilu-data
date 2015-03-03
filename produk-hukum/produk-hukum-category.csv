@@ -6,3 +6,14 @@ id,name,source,url
 5,Peraturan Komisi Pemilihan Umum,KPU,http://www.kpu.go.id/index.php/arsip/index/kat-92
 6,Surat / Edaran / Juknis / Lain-lain,KPU,http://www.kpu.go.id/index.php/arsip/index/kat-93
 7,Keputusan Menteri Dalam Negeri,KPU,http://www.kpu.go.id/index.php/arsip/index/kat-94
+8,Peraturan Komisi Pemilihan Umum (JDIH),JDIH KPU,http://jdih.kpu.go.id/search-tahun-peraturan-kpu
+9,Undang-Undang,Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=1
+10,Peraturan Presiden,Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=2
+11,Peraturan Pemerintah,Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=3
+12,Keputusan Presiden,Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=4
+13,Keputusan Menteri Dalam Negeri,Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=5
+14,Peraturan Bawaslu,Bawaslu,http://bawaslu.go.id/regulasi/peraturan-bawaslu
+15,Peraturan KPU,Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=7
+16,"Surat Edaran, Juknis, dll",Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=8
+17,Nota Kesepahaman,Bawaslu,http://bawaslu.go.id/regulasi/undang-undang?field_regulasi_kategori_tid=45
+18,Keputusan Sengketa,Bawaslu,http://bawaslu.go.id/keputusan-sengketa
