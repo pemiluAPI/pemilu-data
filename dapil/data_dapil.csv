@@ -1,78 +1,78 @@
-id,nama,jumlah_kursi,id_provinsi
-1,Nanggroe Aceh Darussalam I,7,11
-2,Nanggroe Aceh Darussalam II,6,11
-3,Sumatera Utara I,10,12
-4,Sumatera Utara II,10,12
-5,Sumatera Utara III,10,12
-6,Sumatera Barat I,8,13
-7,Sumatera Barat II,6,13
-8,Riau I,6,14
-9,Riau II,5,14
-10,Kepulauan Riau,3,21
-11,Jambi,7,15
-12,Sumatera Selatan I,8,16
-13,Sumatera Selatan II,9,16
-14,Kepulauan Bangka Belitung,3,19
-15,Bengkulu,4,17
-16,Lampung I,9,18
-17,Lampung II,9,18
-18,DKI Jakarta I,6,31
-19,DKI Jakarta II,7,31
-20,DKI Jakarta III,8,31
-21,Jawa Barat I,7,32
-22,Jawa Barat II,10,32
-23,Jawa Barat III,9,32
-24,Jawa Barat IV,6,32
-25,Jawa Barat V,9,32
-26,Jawa Barat VI,6,32
-27,Jawa Barat VII,10,32
-28,Jawa Barat VIII,9,32
-29,Jawa Barat IX,8,32
-30,Jawa Barat X,7,32
-31,Jawa Barat XI,10,32
-32,Banten I,6,36
-33,Banten II,6,36
-34,Banten III,10,36
-35,Jawa Tengah I,8,33
-36,Jawa Tengah II,7,33
-37,Jawa Tengah III,9,33
-38,Jawa Tengah IV,7,33
-39,Jawa Tengah V,8,33
-40,Jawa Tengah VI,8,33
-41,Jawa Tengah VII,7,33
-42,Jawa Tengah VIII,8,33
-43,Jawa Tengah IX,8,33
-44,Jawa Tengah X,7,33
-45,Daerah Istimewa Yogyakarta,8,34
-46,Jawa Timur I,10,35
-47,Jawa Timur II,7,35
-48,Jawa Timur III,7,35
-49,Jawa Timur IV,8,35
-50,Jawa Timur V,8,35
-51,Jawa Timur VI,9,35
-52,Jawa Timur VII,8,35
-53,Jawa Timur VIII,10,35
-54,Jawa Timur IX,6,35
-55,Jawa Timur X,6,35
-56,Jawa Timur XI,8,35
-57,Bali,9,51
-58,Nusa Tenggara Barat,10,52
-59,Nusa Tenggara Timur I,6,53
-60,Nusa Tenggara Timur II,7,53
-61,Kalimantan Barat,10,61
-62,Kalimantan Tengah,6,62
-63,Kalimantan Selatan I,6,63
-64,Kalimantan Selatan II,5,63
-65,Kalimantan Timur,8,64
-66,Sulawesi Utara,6,71
-67,Gorontalo,3,75
-68,Sulawesi Tengah,6,72
-69,Sulawesi Selatan I,8,73
-70,Sulawesi Selatan II,9,73
-71,Sulawesi Selatan III,7,73
-72,Sulawesi Tenggara,5,74
-73,Sulawesi Barat,3,76
-74,Maluku,4,81
-75,Maluku Utara,3,82
-76,Papua,10,91
-77,Papua Barat,3,92
+id,nama,jumlah_kursi,id_provinsi,id_dapil
+1,Aceh I,7,11,1101-00-0000
+2,Aceh II,6,11,1102-00-0000
+3,Sumatera Utara I,10,12,1201-00-0000
+4,Sumatera Utara II,10,12,1202-00-0000
+5,Sumatera Utara III,10,12,1203-00-0000
+6,Sumatera Barat I,8,13,1301-00-0000
+7,Sumatera Barat II,6,13,1302-00-0000
+8,Riau I,6,14,1401-00-0000
+9,Riau II,5,14,1402-00-0000
+10,Jambi,7,21,1501-00-0000
+11,Sumatera Selatan I,8,15,1601-00-0000
+12,Sumatera Selatan II,9,16,1602-00-0000
+13,Bengkulu,4,16,1701-00-0000
+14,Lampung I,9,19,1801-00-0000
+15,Lampung II,9,17,1802-00-0000
+16,Bangka Belitung,3,18,1901-00-0000
+17,Kepulauan Riau,3,18,2101-00-0000
+18,DKI Jakarta I,6,31,3101-00-0000
+19,DKI Jakarta II,7,31,3102-00-0000
+20,DKI Jakarta III,8,31,3103-00-0000
+21,Jawa Barat I,7,32,3201-00-0000
+22,Jawa Barat II,10,32,3202-00-0000
+23,Jawa Barat III,9,32,3203-00-0000
+24,Jawa Barat IV,6,32,3204-00-0000
+25,Jawa Barat V,9,32,3205-00-0000
+26,Jawa Barat VI,6,32,3206-00-0000
+27,Jawa Barat VII,10,32,3207-00-0000
+28,Jawa Barat VIII,9,32,3208-00-0000
+29,Jawa Barat IX,8,32,3209-00-0000
+30,Jawa Barat X,7,32,3210-00-0000
+31,Jawa Barat XI,10,32,3211-00-0000
+32,Jawa Tengah I,8,36,3301-00-0000
+33,Jawa Tengah II,7,36,3302-00-0000
+34,Jawa Tengah III,9,36,3303-00-0000
+35,Jawa Tengah IV,7,33,3304-00-0000
+36,Jawa Tengah V,8,33,3305-00-0000
+37,Jawa Tengah VI,8,33,3306-00-0000
+38,Jawa Tengah VII,7,33,3307-00-0000
+39,Jawa Tengah VIII,8,33,3308-00-0000
+40,Jawa Tengah IX,8,33,3309-00-0000
+41,Jawa Tengah X,7,33,3310-00-0000
+42,Daerah Istimewa Yogyakarta,8,33,3401-00-0000
+43,Jawa Timur I,10,33,3501-00-0000
+44,Jawa Timur II,7,33,3502-00-0000
+45,Jawa Timur III,7,34,3503-00-0000
+46,Jawa Timur IV,8,35,3504-00-0000
+47,Jawa Timur V,8,35,3505-00-0000
+48,Jawa Timur VI,9,35,3506-00-0000
+49,Jawa Timur VII,8,35,3507-00-0000
+50,Jawa Timur VIII,10,35,3508-00-0000
+51,Jawa Timur IX,6,35,3509-00-0000
+52,Jawa Timur X,6,35,3510-00-0000
+53,Jawa Timur XI,8,35,3511-00-0000
+54,Banten I,6,35,3601-00-0000
+55,Banten II,6,35,3602-00-0000
+56,Banten III,10,35,3603-00-0000
+57,Bali,9,51,5101-00-0000
+58,Nusa Tenggara Barat,10,52,5201-00-0000
+59,Nusa Tenggara Timur I,6,53,5301-00-0000
+60,Nusa Tenggara Timur II,7,53,5302-00-0000
+61,Kalimantan Barat,10,61,6101-00-0000
+62,Kalimantan Tengah,6,62,6201-00-0000
+63,Kalimantan Selatan I,6,63,6301-00-0000
+64,Kalimantan Selatan II,5,63,6302-00-0000
+65,Kalimantan Timur,8,64,6401-00-0000
+66,Sulawesi Utara,6,71,7101-00-0000
+67,Sulawesi Tengah,6,75,7201-00-0000
+68,Sulawesi Selatan I,8,72,7301-00-0000
+69,Sulawesi Selatan II,9,73,7302-00-0000
+70,Sulawesi Selatan III,7,73,7303-00-0000
+71,Sulawesi Tenggara,5,73,7401-00-0000
+72,Gorontalo,3,74,7501-00-0000
+73,Sulawesi Barat,3,76,7601-00-0000
+74,Maluku,4,81,8101-00-0000
+75,Maluku Utara,3,82,8201-00-0000
+76,Papua,10,91,9101-00-0000
+77,Papua Barat,3,92,9201-00-0000
