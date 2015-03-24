@@ -1,0 +1,15 @@
+id,anggaran_id,type,sub_type,code,description,nilai,priority
+1,1,PROGRAM,,|01|,Program Dukungan Manajemen dan Pelaksanaan Tugas Teknis Lainnya KPU,|5.702.085.606|,1010
+2,1,PROGRAM,,|02|,Program Peningkatan Sarana dan Prasarana Aparatur KPU,|15.000.000|,1020
+3,1,PROGRAM,,|06|,Program Penguatan Kelembagaan Demokrasi dan Perbaikan Proses Politik,|9.693.322.612|,1030
+4,1,SASARAN STRATEGIS,,|01|,Meningkatnya kesadaran dan partisipasi rakyat yang tinggi tentang Pemilihan Umum yang demokratis,,2010
+5,1,SASARAN STRATEGIS,,|02|,Terjaminnya pemilih dalam menggunakan hak pilihnya secara bebas dan tertib,,2020
+6,1,SASARAN STRATEGIS,,|03|,"Terjaminnya perlakuan yang adil dan setara bagi peserta Pemilihan Umum, calon Anggota Legislatif, calon Presiden dan calon Wakil Presiden serta pejabat-pejabat publik lain sesuai Undang-undang",,2030
+7,1,SASARAN STRATEGIS,,|04|,"Terwujudnya organisasi pelaksana Pemilihan Umum yang memiliki sistem administrasi yang efisien, efektif dan memenuhi standar kerja profesional di seluruh tingkatan yang didukung dengan system Komunikasi dan Teknologi Informasi yang menjangkau Komisi Pemilihan Umum, Komisi Pemilihan Umum Provinsi, dan Komisi Pemilihan Umum Kabupaten/Kota",,2040
+8,1,SASARAN STRATEGIS,,|05|,Tersedianya peta logistik Pemilu dan Pilkada yang memadai,,2050
+9,1,FUNGSI,,|01|,Pelayanan Umum,|15.410.408.218|,3010
+10,1,FUNGSI,SUB FUNGSI,|0101|,"LEMBAGA EKSEKUTIF DAN LEGISLATIF, MASALAH KEUANGAN DAN FISKAL, SERTA URUSAN LUAR NEGERI",|15.410.408.218|,3020
+11,1,PRIORITAS,,,,|15.410.408.218|,4010
+12,1,PRIORITAS,Non Prioritas,|0 0|,Non Prioritas,|14.458.158.543|,4020
+13,1,PRIORITAS,Bidang,|B 06|,Bidang Politik,|92.169.502|,4030
+14,1,PRIORITAS,Kementerian/L,|KL0|,Prioritas Kementrian/Lembaga,|860.080.173|,4040

@@ -1,0 +1,129 @@
+id,anggaran_id,code,description,anggaran_keterkaitan_id,volume,satuan,nilai
+1,1,|076.01.01|,"Program Dukungan Manajemen dan Pelaksanaan Tugas Teknis Lainnya KPU
+Meningkatnya Kualitas Dukungan Manajemen dan Pelaksanaan Tugas Teknis Lainnya
+""01 Persentase (0/0) Penyelenggaraan Dukungan Manajemen yang Profesional, Akuntabel (Sesuai Dengan Peraturan Perundangan),
+Efisien (Tepat Sasaran), dan Efektif (Tepat Guna)""",,,,|5.702.085.606|
+2,1,|3355|,"Pelaksanaan Akuntabilitas Pengelolaan Administrasi Keuangan di Lingkungan Setjen KPU
+- Ketepatan dan Kepatuhan Dalam Pelayanan Pelaksanaan Keuangan
+- Opini BPK Terhadap Laporan Keuangan KPU
+- Ketepatan Pembayaran Gaji/Honor/Tunjangan Pegawai",,,,|562.593.611|
+3,1,|3355.002|,Layanan pembinaan perbendaharaan,|KL0|,"|12,0000|",Kali,|1.178.173|
+4,1,|3355.003|,Laporan sistem akuntansi dan pelaporan keuangan.,|KL0|,"|532,0000|",Laporan,|37.538.978|
+5,1,|3355.004|,Pengelolaan Keuangan dan Pertanggungjawaban Tahapan Pemilu 2014,,"|1.593,0000|",Dokumen,|66.370.067|
+6,1,|3355.994|,Layanan Perkantoran,|KL0|,"|12,0000|",Bulan Layanan,|457.506.393|
+7,1,|3356|,"Pengelolaan Data, Dokumentasi, Pengadaan, Pendistribusian, dan Inventarisasi Sarana dan Pra Sarana Pemilu
+- Tingkat Ketepatan Pengelolaan Informasi Kebutuhan Pemilu
+- Tingkat Ketepatan Pengadaan dan Distribusi Logistik Pemilu
+- Tingkat Ketepatan Standar Mutu Barang/Jasa Administrasi Pengadaan dan Dokumentasi Pengadaan Kebutuhan Pemilu
+- Persentase (%) Kemajuan Penyusunan Peta Distribusi Logistik Pemilu
+- Tingkat Keberhasilan Pemeliharaan Sarana dan Pra Sarana Pemilu",,,,|3.708.630.317|
+8,1,|3356.001|,Dokumen perencanaan dan database logistik pemilu.,|B 06|,"|531,0000|",Dokumen,|3.876.843|
+9,1,|3356.002|,Laporan pelaksanaan kegiatan,|B 06|,"|1,0000|",Laporan,|461.149|
+10,1,|3356.003|,Peta distribusi logistik pemilu,|B 06|,"|1,0000|",Dokumen,|238.860|
+11,1,|3356.004|,"Standar mutu, administrasi, dan pengadaan logistik pemilu",|B 06|,"|1,0000|",Dokumen,|158.438|
+12,1,|3356.005|,Layanan informasi logistik pemilu,|B 06|,"|12,0000|",Bulan Layanan,|265.250|
+13,1,|3356.006|,Pedoman pengadaan barang dan jasa keperluan Pemilu 2014,,"|4.241,0000|",Dokumen,|136.505.160|
+14,1,|3356.007|,Sarana dan Prasarana Keperluan Pemilu 2014,,"|2.651,0000|",Unit,|3.567.124.617|
+15,1,|3357|,"Pelaksanaan Manajemen Perencanaan dan Data
+- Persentase (%) Kesesuaian Antara Renstra dan Renja K/L dan Rka KI
+- Persentase (%) Fasilitasi Kerjasama KPU Dengan Lembaga Lain
+- Persentase (%) Laporan Monitoring dan Evaluasi yang Akuntabel dan Tepat Waktu
+- Persentase (0/0) Kemajuan Penyusunan dan Pelaksanaan Model dan Pedoman Reformasi Birokrasi dan Tata Kelola KPU
+- Frekuensi Pemutakhiran Data Pemilih Di Tingkat Kelurahan Di Seluruh Wilayah Indonesia",,,,|840.461.127|
+16,1,|3357.001|,Dokumen perencanaan dan data kepemiluan,|B 06|,"|534,0000|",Dokumen,|23.461.904|
+17,1,|3357.002|,Rekomendasi hasil analisis dan kajian,|B 06|,"|1,0000|",Laporan,|459.357|
+18,1,|3357.003|,Layanan operasional dan pelayanan TI,|B 06|,"|12,0000|",Bulan,|2.500.000|
+19,1,|3357.004|,Laporan pelaksanaan kegiatan,|B 06|,"|533,0000|",Laporan,|4.502.999|
+20,1,|3357.008|,Dokumen Laporan Kerjasama Nasional dan Internasional,|B 06|,"|5,0000|",Naskah,|2.645.493|
+21,1,|3357.011|,Dokumen Bidang Penganggaran Pemilu 2014,,"|534,0000|",Dokumen,|102.145.507|
+22,1,|3357.012|,Laporan Kajian/Monitoring dan Evaluasi Pemilu 2014,,"|1.061,0000|",Dokumen,|36.289.857|
+23,1,|3357.013|,Dokumen Pemutakhiran Data Pemilih Pemilu 2014,,"|531,0000|",Dokumen,|191.668.193|
+24,1,|3357.014|,Layanan Teknologi Informasi Pemilu 2014,,"|5.312,0000|",Dokumen,|59.828.440|
+25,1,|3357.015|,Sistem Aplikasi Pemitu 2014,,"|1,0000|",Dokumen,|18.345.812|
+26,1,|3357.016|,Dokumen Kepemiluan di Luar Negeri,,"|10,0000|",Dokumen,|372.221.443|
+27,1,|3357.999|,Output Cadangan,|B 06|,"|1,0000|",Cadangan,|26.392.122|
+28,1,|3358|,"Pembinaan Sumber Daya Manusia, Pelayanan dan Administrasi Kepegawaian
+- Tingkat Ketepatan Perencanaan Kebutuhan, Pengadaan SDM, dan Kesejahteraan Pegawai
+- Tingkat Keakuratan Data dan Informasi SDM.
+- Tingkat Ketepatan Pelaksanaan Mutasi dan Disiplin Pegawai.
+- Persentase (0/0) Dukungan Pelaksanaan Pendidikan dan Pelatihan
+- Tingkat Ketepatan Penatalaksanaan Sdm
+- Tingkat Ketetapan Proses Pelaksanaan Pergantian Antar Waktu (PAW) Anggota KPU, KPU Provinsi, KPU Kabupaten/Kota, dan
+KPU Daerah Pemekaran",,,,|166.621.282|
+29,1,|3358.001|,"Penataan organisasi, pembinaan, dan pengelolaan sumber daya manusia.",|KL0|,"|672,0000|",Laporan,|5.447.646|
+30,1,|3358.003|,Layanan peningkatan kompetensi SDM,|KL0|,"|5.080,0000|",Orang,|12.601.104|
+31,1,|3358.004|,Layanan pengadaan pegawai baru,|KL0|,"|529,0000|",Orang,|6.153.353|
+32,1,|3358.005|,Penggantian antar waktu Anggota KPU Provinsi dan KPU Kabupaten/Kota.,|KL0|,"|170,0000|",Orang,|365.530|
+33,1,|3358.006|,Dokumen kepegawaian,|KL0|,"|299,0000|",Dokumen,|5.041.267|
+34,1,|3358.010|,Komisioner KPU Terseleksi Pemilu 2014,,"|380,0000|",Orang,|42.337.187|
+35,1,|3358.012|,Piagam Penghargaan Bagi Penyelenggara Pemilu 2014,,"|89.478,0000|",Orang,|6.830.647|
+36,1,|3358.013|,Bimbingan Teknis Penyelenggara Pemilu 2014,,"|5.855,0000|",Orang,|87.844.548|
+37,1,|3360|,"Penyelenggaraan Operasional dan Pemeliharaan Perkantoran (KPU)
+- Persentase (%) Dukungan Pelayanan Administrasi Kegiatan
+- Persentase (%) Dukungan Operasional dan Pemeliharaan Perkantoran",,,,|412.279.269|
+38,1,|3360.002|,Layanan dukungan administrasi perkantoran,|KL0|,"|12,0000|",Bulan,|22.713.505|
+39,1,|3360.003|,Dokumen Barang Milik Negara,|KL0|,"|531,0000|",Dokumen,|23.405.524|
+40,1,|3360.004|,Undang-Undang/Peraturan/Keputusan,,"|532,0000|",Dokumen,|34.165.269|
+41,1,|3360.005|,Dokumen Kerjasama dengan Instansi Terkait Dalam Rangka Pemilu 2014,,"|531,0000|",Dokumen,|53.170.060|
+42,1,|3360.006|,Dokumen Arsip Tahapan Pemilu 2014,,"|1,0000|",Dokumen,|1.073.241|
+43,1,|3360.007|,"Anggota DPR, DPD, dan DPRD Terpilih Pemilu 2014",,"|1,0000|",Laporan,|16.122.970|
+44,1,|3360.994|,Layanan Perkantoran,|KL0|,"|12,0000|",Bulan Layanan,|261.628.700|
+45,1,|3361|,"Pemeriksaan di Lingkungan Setjen KPU, Sekretariat KPU Provinsi, dan Sekretariat KPU Kabupaten/Kota
+- Tingkat Ketepatan Waktu dan Tertib Administrasi Pelaksanaan Pengawasan Regular
+- Tingkat Ketepatan dan Tertib Administrasi Pelaksanaan Pengawasan Khusus
+- Tingkat Ketepatan dan Tertib Administrasi Pelaksanaan Evaluasi Tindak Lanjut
+- Tingkat Ketepatan dan Tertib Administrasi Pelaksanaan Review Laporan Keuangan
+- Tingkat Ketepatan dan Tertib Administrasi Pelaksanaan Penyusunan Lakip
+- Tingkat Ketepatan dan Tertib Administrasi Pelaksanaan Tapkin
+- Tingkat Ketepatan dan Tertib Administrasi Pelaksanaan Evaluasi Lakip
+- Tingkat Ketepatan Pelaksanaan Pemeriksaan Terhadap Kepegawaian, Keuangan, Perlengkapan dan Kegiatan Operasional Pemilu
+- Tingkat Ketepatan Pelaksanaan Ujian, Penilaian, Pemeriksaan Atas Kebenaran Laporan",,,,|11.500.000|
+46,1,|3361.001|,Laporan Hasil Pemeriksaan.,|KL0|,"|375,0000|",Laporan,|11.500.000|
+47,1,|076.01.02|,"Program Peningkatan Sarana dan Prasarana Aparatur KPU
+Memadainya Sarana dan Prasarana Operasionalisasi KPU
+01 Tingkat/ Kesesuaian Kebutuhan Anggota dan Staf KPU Terhadap Ketersediaan Sarana dan Prasarana KPU/KPU Prov/Kab/Kota
+dan Sarana dan Prasarana Serta Kendaraan Operasional Untuk Daerah Pemekaran",|KL0|,,,|15.000.000|
+48,1,|3362|,"Penyelenggaraan Dukungan Sarana dan Prasarana
+- Persentase (%) Akumulasi Kemajuan Pembangunan, Pengadaan Meubelair dan Belanja Modal
+- Persentase (%) Akumulasi Kemajuan Pembangunan/Rehabilitasi Gedung KPU Prov/Kab/Kota, Pengadaan Meubelair dan Belanja Modal
+- Persentase (%) Akumulasi Kemajuan Sarana dan Prasarana, Kendaraan Operasional dan Belanja Modal Untuk Daerah Pemekaran",,,,|15.000.000|
+49,1,|3362.003|,Sarana dan prasarana perkantoran,|KL0|,"|2.017,0000|",Unit,|15.000.000|
+50,1,|076.01.06|,"Program Penguatan Kelembagaan Demokrasi dan Perbaikan Proses Politik
+Meningkatnya Kapasitas dan Kredibilitas Organisasi Penyelenggara Pemilu dan Pemilihan Kepala Daerah di KPU, KPU Provinsi, dan KPU Kabupaten/Kota
+01 Persentase (%) Penyiapan dan Penyelenggaraan Pemilu yang Tepat Waktu dan Akuntabel (Sesuai Dengan Peraturan
+Perundangan).",|KL0|,,,|9.693.322.612|
+51,1,|3363|,"Penyiapan Penyusunan Rancangan Peraturan Kpu, Advokasi, Penyelesaian Sengketa dan Penyuluhan Peraturan Perundang-Undangan yang Berkaitan Dengan Penyelenggaraan Pemilu
+- Tingkat Ketepatan Penyiapan Analisis di bidang administrasi Hukum dalam kepengurusan Parpol, Perseorangan Peserta Pemilu dan Dana Kampanye Peserta Pemilu.
+- Tingkat Ketepatan Penyiapan Penyusunan Peraturan KPU/Regulasi Penyelenggaraan Pemilu 2014
+- Tingkat Ketepatan Penyiapan Penyusunan Tata Cara dan Pelaksanaan Advokasi dan Penyelesaian Sengketa Hukum
+- Tingkat Ketepatan Penyiapan Penyusunan Dokumentasi dan Informasi Hukum Peraturan Perundangan dan Pelaksanaan Penyuluhan Hukum",,,,|199.439.132|
+52,1,|3363.001|,Penyelesaian dan bantuan hukum terkait sengketa pemilu.,|B 06|,"|712,0000|",Kasus,|2.677.311|
+53,1,|3363.002|,"Rancangan peraturan perundang-undangan, rumusan dan rancangan peraturan pelaksanaan pemitu.",|B 06|,"|63,0000|",Naskah,|2.472.013|
+54,1,|3363.003|,Dokumentasi dan identifikasi bidang hukum terkait pemilu.,|B 06|,"|537,0000|",Dokumen,|3.307.250|
+55,1,|3363.008|,Laporan Audit Dana Kampanye Pemilu 2014,,"|532,0000|",Laporan,|51.197.296|
+56,1,|3363.009|,Bantuan hukum penyelesaian kasus Pemilu 2014,,"|2.700,0000|",Kasus,|139.785.262|
+57,1,|3364|,"Pedoman, Petunjuk Teknis dan Bimbingan Teknis/Supervisi/Publikasi/Sosialisasi Penyelenggaraan Pemilu dan Pendidikan Pemilih
+- Persentase (%) Pedoman dan Petunjuk Teknis Bimbingan Teknis Penyelenggaraan Pemilu yang Diselesaikan Tepat Waktu dan Akuntabel
+- Persentase (0/0) Pedoman dan Petunjuk Teknis Dalam Rangka PAW Anggota DPR, DPD, DPRD dan KPU yang Diselesaikan Dengan Akuntabel dan Tepat Waktu
+- Persentase (%) Fasilitasi Bimbingan Teknis (Bimtek) Pemilu Kepala Daerah Untuk KPU Prov/Kab/Kota, PPK, dan PPS yang Tepat Waktu, Sesuai Rencana dan Efektif
+- Persentase (%) Fasilitasi Bimbingan Teknis (Bimtek) Pemilu Legislatif dan Presiden Untuk KPU Prov/Kab/Kota, PPK dan PPS yang Tepat Waktu Sesuai Rencana dan Efektif
+- Persentase (%) Kemajuan Pengembangan Pusat Pendidikan Pemilih
+- Jumlah Modul Pendidikan Pemilih Untuk Kelompok Perempuan,Miskin, Cacat, Pemilih Pemula, Lansia
+- Jurniah Kerja Sama dan Kegiatan Pendidikan Pemilih yang Dilaksanakan
+- Persentase (0/0) Kemajuan Pengembangan Media Center
+- Jumlah Kegiatan Pendidikan Pemilih Bagi Caleg Perempuan
+",,,,|9.493.883.480|
+58,1,|3364.001|,Rancangan pedoman dan petunjuk teknis penyelenggaraan pemilu.,|B 06|,"|100.000,0000|",Naskah,|542.222|
+59,1,|3364.002|,Dokumen Kerjasama dengan Organisasi Massa dan Media Massa.,|B 06|,"|200.012,0000|",Dokumen,|4.000.000|
+60,1,|3364.004|,"Penggantian Antar Waktu Anggota DPR, DPD, DPRD Provinsi, dan DPRD Kabupaten/Kota.",|B 06|,"|85,0000|",Orang,|1.867.813|
+61,1,|3364.005|,Publikasi informasi pemitu.,|B 06|,"|500.526,0000|",Jenis,|12.340.478|
+62,1,|3364.017|,Laporan Kampanye Pemilu 2014,,"|1.061,0000|",Laporan,|24.015.016|
+63,1,|3364.018|,Bimbingan Teknis Penyelenggaraan Pemilu di KPU Prov/Kab/Kota/PPLN.,,"|201.026,0000|",Kegiatan,|8.382.799.895|
+64,1,|3364.019|,"Peningkatan partisipasi masyarakat, pendidikan pemilih Pemitu Tahun 2014.",,"|312.209.900,0000|",Orang,|747.409.082|
+65,1,|3364.020|,"Laporan Pemungutan Suara Anggota DPR, DPD, dan DPRD Pemilu 2014",,"|531,0000|",Laporan,|39.168.348|
+66,1,|3364.021|,"Dokumen Rekapitulasi Hasil Penghitungan Suara Anggota DPR, DPD, dan DPRD Pemilu 2014",,"|531,0000|",Dokumen,|120.896.742|
+67,1,|3364.022|,"Anggota DPR, DPD, dan DPRD Terpilih Pemilu 2014",,"|692,0000|",Orang,|2.684.134|
+68,1,|3364.023|,Calon Presiden dan Wakil Presiden Terseleksi Pemilu 2014,,"|6,0000|",Orang,|3.294.589|
+69,1,|3364.024|,Laporan Kampanye Pemitu Presiden dan Wakil Presiden Pemilu 2014,,"|531,0000|",Laporan,|31.831.758|
+70,1,|3364.025|,Laporan Pemungutan Suara Presiden dan Wakil Presiden Pemilu 2014,,"|531,0000|",Laporan,|22.765.425|
+71,1,|3364.026|,Dokumen Rekapitulasi Hasil Penghitungan Suara Presiden dan Wakil Presiden Pemilu 2014,,"|531,0000|",Dokumen,|100.267.978|
