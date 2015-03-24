@@ -1,0 +1,78 @@
+id,dapil_id,nama,jumlah_kursi
+1,1101-00-0000,Aceh I,7
+2,1102-00-0000,Aceh II,6
+3,1201-00-0000,Sumatera Utara I,10
+4,1202-00-0000,Sumatera Utara II,10
+5,1203-00-0000,Sumatera Utara III,10
+6,1301-00-0000,Sumatera Barat I,8
+7,1302-00-0000,Sumatera Barat II,6
+8,1401-00-0000,Riau I,6
+9,1402-00-0000,Riau II,5
+10,1501-00-0000,Jambi,7
+11,1601-00-0000,Sumatera Selatan I,8
+12,1602-00-0000,Sumatera Selatan II,9
+13,1701-00-0000,Bengkulu,4
+14,1801-00-0000,Lampung I,9
+15,1802-00-0000,Lampung II,9
+16,1901-00-0000,Bangka Belitung,3
+17,2101-00-0000,Kepulauan Riau,3
+18,3101-00-0000,DKI Jakarta I,6
+19,3102-00-0000,DKI Jakarta II,7
+20,3103-00-0000,DKI Jakarta III,8
+21,3201-00-0000,Jawa Barat I,7
+22,3202-00-0000,Jawa Barat II,10
+23,3203-00-0000,Jawa Barat III,9
+24,3204-00-0000,Jawa Barat IV,6
+25,3205-00-0000,Jawa Barat V,9
+26,3206-00-0000,Jawa Barat VI,6
+27,3207-00-0000,Jawa Barat VII,10
+28,3208-00-0000,Jawa Barat VIII,9
+29,3209-00-0000,Jawa Barat IX,8
+30,3210-00-0000,Jawa Barat X,7
+31,3211-00-0000,Jawa Barat XI,10
+32,3301-00-0000,Jawa Tengah I,8
+33,3302-00-0000,Jawa Tengah II,7
+34,3303-00-0000,Jawa Tengah III,9
+35,3304-00-0000,Jawa Tengah IV,7
+36,3305-00-0000,Jawa Tengah V,8
+37,3306-00-0000,Jawa Tengah VI,8
+38,3307-00-0000,Jawa Tengah VII,7
+39,3308-00-0000,Jawa Tengah VIII,8
+40,3309-00-0000,Jawa Tengah IX,8
+41,3310-00-0000,Jawa Tengah X,7
+42,3401-00-0000,Daerah Istimewa Yogyakarta,8
+43,3501-00-0000,Jawa Timur I,10
+44,3502-00-0000,Jawa Timur II,7
+45,3503-00-0000,Jawa Timur III,7
+46,3504-00-0000,Jawa Timur IV,8
+47,3505-00-0000,Jawa Timur V,8
+48,3506-00-0000,Jawa Timur VI,9
+49,3507-00-0000,Jawa Timur VII,8
+50,3508-00-0000,Jawa Timur VIII,10
+51,3509-00-0000,Jawa Timur IX,6
+52,3510-00-0000,Jawa Timur X,6
+53,3511-00-0000,Jawa Timur XI,8
+54,3601-00-0000,Banten I,6
+55,3602-00-0000,Banten II,6
+56,3603-00-0000,Banten III,10
+57,5101-00-0000,Bali,9
+58,5201-00-0000,Nusa Tenggara Barat,10
+59,5301-00-0000,Nusa Tenggara Timur I,6
+60,5302-00-0000,Nusa Tenggara Timur II,7
+61,6101-00-0000,Kalimantan Barat,10
+62,6201-00-0000,Kalimantan Tengah,6
+63,6301-00-0000,Kalimantan Selatan I,6
+64,6302-00-0000,Kalimantan Selatan II,5
+65,6401-00-0000,Kalimantan Timur,8
+66,7101-00-0000,Sulawesi Utara,6
+67,7201-00-0000,Sulawesi Tengah,6
+68,7301-00-0000,Sulawesi Selatan I,8
+69,7302-00-0000,Sulawesi Selatan II,9
+70,7303-00-0000,Sulawesi Selatan III,7
+71,7401-00-0000,Sulawesi Tenggara,5
+72,7501-00-0000,Gorontalo,3
+73,7601-00-0000,Sulawesi Barat,3
+74,8101-00-0000,Maluku,4
+75,8201-00-0000,Maluku Utara,3
+76,9101-00-0000,Papua,10
+77,9201-00-0000,Papua Barat,3
