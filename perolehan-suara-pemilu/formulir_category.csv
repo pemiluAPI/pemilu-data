@@ -54,3 +54,55 @@ id,name,description,form_type_id,parent_id,master_id,has_value
 53,Rincian Jumlah Perolehan Suara Pasangan Calon Presiden dan Wakil Presiden,Rincian Jumlah Perolehan Suara Pasangan Calon Presiden dan Wakil Presiden,5,0,0,0
 54,H. Prabowo Subianto - Ir. M. H. Hatta Rajasa,H. Prabowo Subianto - Ir. M. H. Hatta Rajasa,5,53,53,1
 55,Ir. H. Joko Widodo - Drs. H. M. Jusuf Kalla,Ir. H. Joko Widodo - Drs. H. M. Jusuf Kalla,5,53,53,1
+56,Data Pemilih dan Pengguna Hak Pilih,Data Pemilih dan Pengguna Hak Pilih,6,0,0,0
+57,Data Pemilih,A. Data Pemilih,6,1,1,0
+58,Data DPT,1. Jumlah pemilih terdaftar dalam Daftar Pemilih Tetap (DPT),6,2,1,0
+59,Data DPT - LK,1. Jumlah pemilih terdaftar dalam Daftar Pemilih Tetap (DPT) - Laki-laki,6,3,1,1
+60,Data DPT - PR,1. Jumlah pemilih terdaftar dalam Daftar Pemilih Tetap (DPT) - Perempuan,6,3,1,1
+61,Data DPT - JML,1. Jumlah pemilih terdaftar dalam Daftar Pemilih Tetap (DPT) - Jumlah Laki-Laki dan Perempuan,6,3,1,1
+62,Data DPTb,2. Jumlah pemilih Terdaftar dalam Daftar Pemilih Tambahan (DPTb),6,2,1,0
+63,Data DPTb - LK,2. Jumlah pemilih Terdaftar dalam Daftar Pemilih Tambahan (DPTb) - Laki-laki,6,7,1,1
+64,Data DPTb - PR,2. Jumlah pemilih Terdaftar dalam Daftar Pemilih Tambahan (DPTb) - Perempuan,6,7,1,1
+65,Data DPTb - JML,2. Jumlah pemilih Terdaftar dalam Daftar Pemilih Tambahan (DPTb) - Jumlah Laki-Laki dan Perempuan,6,7,1,1
+66,Data DPK,3. Pemilih Terdaftar dalam daftar Pemilih Khusus (DPK),6,2,1,0
+67,Data DPK - LK,3. Pemilih Terdaftar dalam daftar Pemilih Khusus (DPK) - Laki-laki,6,11,1,1
+68,Data DPK - PR,3. Pemilih Terdaftar dalam daftar Pemilih Khusus (DPK) - Perempuan,6,11,1,1
+69,Data DPK - JML,3. Pemilih Terdaftar dalam daftar Pemilih Khusus (DPK) - Jumlah Laki-Laki dan Perempuan,6,11,1,1
+70,Data DPKTb,4. Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/nama sejenis lainnya,6,2,1,0
+71,Data DPKTb - LK,4. Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/nama sejenis lainnya - Laki-laki,6,15,1,1
+72,Data DPKTb - PR,4. Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/nama sejenis lainnya - Perempuan,6,15,1,1
+73,Data DPKTb - JML,4. Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/nama sejenis lainnya - Jumlah Laki-Laki dan Perempuan,6,15,1,1
+74,Data (1+2+3+4+5),5. Jumlah Pemilih (1+2+3+4+5),6,2,1,0
+75,Data (1+2+3+4+5) - LK,5. Jumlah Pemilih (1+2+3+4+5) - Laki-laki,6,19,1,1
+76,Data (1+2+3+4+5) - PR,5. Jumlah Pemilih (1+2+3+4+5) - Perempuan,6,19,1,1
+77,Data (1+2+3+4+5) - JML,5. Jumlah Pemilih (1+2+3+4+5) - Jumlah Laki-laki dan Perempuan,6,19,1,1
+78,Pengguna Hak Pilih,B. Pengguna Hak Pilih,6,1,1,0
+79,Pengguna DPT,1. Pengguna hak pilih dalam DPT,6,23,1,0
+80,Pengguna DPT - LK,1. Pengguna hak pilih dalam DPT - Laki-laki,6,24,1,1
+81,Pengguna DPT - PR,1. Pengguna hak pilih dalam DPT - Perempuan,6,24,1,1
+82,Pengguna DPT - JML,1. Pengguna hak pilih dalam DPT - Jumlah Laki-laki dan Perempuan,6,24,1,1
+83,Pengguna DPTb,2. Pengguna hak pilih dalam Daftar Pemilih Tambahan(DPTb)/Pemilih dari TPS lain,6,23,1,0
+84,Pengguna DPTb - LK,2. Pengguna hak pilih dalam Daftar Pemilih Tambahan(DPTb)/Pemilih dari TPS lain - Laki-laki,6,28,1,1
+85,Pengguna DPTb - PR,2. Pengguna hak pilih dalam Daftar Pemilih Tambahan(DPTb)/Pemilih dari TPS lain - Perempuan,6,28,1,1
+86,Pengguna DPTb - JML,2. Pengguna hak pilih dalam Daftar Pemilih Tambahan(DPTb)/Pemilih dari TPS lain - Jumlah Laki-laki dan Perempuan,6,28,1,1
+87,Pengguna DPK,3. Pengguna hak pilih dalam Daftar Pemilih Khusus (DPK),6,23,1,0
+88,Pengguna DPK - LK,3. Pengguna hak pilih dalam Daftar Pemilih Khusus (DPK) - Laki-laki,6,32,1,1
+89,Pengguna DPK - PR,3. Pengguna hak pilih dalam Daftar Pemilih Khusus (DPK) - Perempuan,6,32,1,1
+90,Pengguna DPK - JML,3. Pengguna hak pilih dalam Daftar Pemilih Khusus (DPK) - Jumlah Laki-laki dan Perempuan,6,32,1,1
+91,Pengguna DPKTb,4. Pengguna hak pilih dalam Daftar Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/Nama sejenis lainnya,6,23,1,0
+92,Pengguna DPKTb - LK,4. Pengguna hak pilih dalam Daftar Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/Nama sejenis lainnya - Laki-laki,6,36,1,1
+93,Pengguna DPKTb - PR,4. Pengguna hak pilih dalam Daftar Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/Nama sejenis lainnya - Perempuan,6,36,1,1
+94,Pengguna DPKTb - JML,4. Pengguna hak pilih dalam Daftar Pemilih Khusus Tambahan (DPKTb)/pengguna KTP dan KK/Nama sejenis lainnya - Jumlah Laki-laki dan Perempuan,6,36,1,1
+95,Pengguna (1+2+3+4+5),5. Jumlah seluruh pengguna Hak Pilih (1+2+3+4),6,23,1,0
+96,Pengguna (1+2+3+4+5) - LK,5. Jumlah seluruh pengguna Hak Pilih (1+2+3+4) - Laki-laki,6,41,1,1
+97,Pengguna (1+2+3+4+5) - PR,5. Jumlah seluruh pengguna Hak Pilih (1+2+3+4) - Perempuan,6,41,1,1
+98,Pengguna (1+2+3+4+5) - JML,5. Jumlah seluruh pengguna Hak Pilih (1+2+3+4) - Jumlah Laki-laki dan Perempuan,6,41,1,1
+99,Data Pengguna Surat Suara,Data Pengguna Surat Suara,6,0,0,0
+100,Jumlah surat suara yang diterima termasuk cadangan 2% (2+3+4),Jumlah surat suara yang diterima termasuk cadangan 2% (2+3+4),6,44,44,1
+101,Jumlah surat suara dikembalikan oleh pemilih karena rusak/keliru coblos,Jumlah surat suara dikembalikan oleh pemilih karena rusak/keliru coblos,6,44,44,1
+102,Jumlah surat suara yang tidak digunakan,Jumlah surat suara yang tidak digunakan,6,44,44,1
+103,Jumlah surat suara digunakan,Jumlah surat suara digunakan,6,44,44,1
+104,Data Suara Sah dan Tidak Sah,Data Suara Sah dan Tidak Sah,6,0,0,0
+105,Jumlah Suara Sah Seluruh Partai Politk,Jumlah Suara Sah Seluruh Partai Politk,6,49,49,1
+106,Jumlah Suara tidak sah,Jumlah Suara tidak sah,6,49,49,1
+107,Jumlah suara sah dan tidak sah,Jumlah suara sah dan tidak sah,6,49,49,1
