@@ -1,0 +1,17 @@
+id,name,description,parent_id
+1,Jumlah Daftar Pemilih,JUMLAH DAFTAR PEMILIH (DPT/DPTb/DPK/DPKTb),0
+2,Jumlah,Jumlah Daftar Pemilih – Jumlah,1
+3,Jumlah Suara Sah,JUMLAH SUARA SAH,0
+4,Jumlah,Jumlah Suara Sah – Jumlah,3
+5,Persen,Jumlah Suara Sah – Persen,3
+6,Jumlah Suara Tidak Sah,JUMLAH SUARA TIDAK SAH,0
+7,Jumlah,Jumlah Suara Tidak Sah – Jumlah,6
+8,Persen,Jumlah Suara Tidak Sah – Persen,6
+9,Total Pemilih Hadir,TOTAL PEMILIH HADIR,0
+10,Jumlah,Total Pemilih Hadir – Jumlah,9
+11,Persen,Total Pemilih Hadir – Persen,9
+12,Jumlah Tidak Memilih,JUMLAH TIDAK MEMILIH,0
+13,Jumlah,Jumlah Tidak Memilih – Jumlah,12
+14,Persen,Jumlah Tidak Memilih – Persen,12
+15,Jumlah Suara Sah dan Tidak Sah,JUMLAH SUARA SAH DAN TIDAK SAH,0
+16,Jumlah Pemilih Hadir dan Tidak Memilih,JUMLAH PEMILIH HADIR DAN TIDAK MEMILIH,0
