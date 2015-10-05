@@ -1,0 +1,264 @@
+id,question_text,relevant_laws_regulations,relevant_text,question_answer,tags,category
+1,Siapa  saja yang dapat menjadi peserta  / calon dalam pilkada,UU No 8 Tahun 2015 Pasal 1 Ayat 3 dan 4,"Calon Gubernur dan Calon Wakil Gubernur adalah peserta Pemilihan yang diusulkan oleh partai politik, gabungan partai politik, atau perseorangan yang didaftarkan atau mendaftar di Komisi Pemilihan Umum Provinsi ; Calon Bupati dan Calon Wakil Bupati, Calon Walikota dan Calon Wakil Walikota adalah peserta Pemilihan yang diusulkan oleh partai politik, gabungan partai politik, atau perseorangan yang didaftarkan atau mendaftar di Komisi Pemilihan Umum Kabupaten/Kota","Yang dapat mengikuti pencalonan tersebut adalah peserta yang diusulkan oleh partai politik, gabungan partai politik atau perseorangan yang didaftarkan atau mendaftar di Komisi pemilihan Umum berdasarkan tingkat admiinistrasi mencalonkan",CalonPilkada,
+2,Siapa saja yang dapat memilih dalam Pemilukada?,UU No 8 Tahun 2015 Pasal 1 Ayat 6,Pemilih adalah penduduk yang berusia paling rendah 17 (tujuh belas) tahun atau sudah/pernah kawin yang terdaftar dalam Pemilihan,Yang dapat memilih telah berusia  17  tahun atau sudah/pernah kawin yang terdaftar dalam pemilihan,PemilihPemilukada,
+3,Apa saja persyaratan untuk dicalonkan dalam Pemilukada ?,UU No 8 Tahun 2015 Pasal 7,"Warga negara Indonesia yang dapat menjadi Calon Gubernur dan Calon Wakil Gubernur, Calon Bupati dan Calon Wakil Bupati, serta Calon Walikota dan Calon Wakil Walikota adalah yang memenuhi persyaratan sebagai berikut:
+a. bertakwa kepada Tuhan Yang Maha Esa;
+b. setia kepada Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, cita-cita Proklamasi Kemerdekaan 17 Agustus 1945, dan Negara Kesatuan Republik Indonesia;
+c. berpendidikan paling rendah sekolah lanjutan tingkat atas atau sederajat;
+d. Dihapus.
+e. Berusia paling rendah 30 (tiga puluh) tahun untuk Calon Gubernur dan Calon Wakil Gubernur serta 25 (dua puluh lima) tahun untuk Calon Bupati dan Calon Wakil Bupati serta Calon Walikota dan Calon Wakil Walikota;
+f. mampu secara jasmani dan rohani berdasarkan hasil pemeriksaan kesehatan menyeluruh dari tim dokter;
+g. tidak pernah dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap karena melakukan tindak pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih;
+h. tidak sedang dicabut hak pilihnya berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap;
+i. tidak pernah melakukan perbuatan tercela yang dibuktikan dengan surat keterangan catatan kepolisian;
+j. menyerahkan daftar kekayaan pribadi;
+k. tidak sedang memiliki tanggungan utang secara perseorangan dan/atau secara badan hukum yang menjadi tanggung jawabnya yang merugikan keuangan negara;
+l. tidak sedang dinyatakan pailit berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap;
+m. memiliki Nomor Pokok Wajib Pajak dan memiliki laporan pajak pribadi; n. belum pernah menjabat sebagai Gubernur, Bupati, dan Walikota selama 2 (dua) kali masa jabatan dalam jabatan yang sama untuk Calon Gubernur, Calon Bupati, dan Calon Walikota;
+o. belum pernah menjabat sebagai Gubernur, Bupati, dan Walikota untuk Calon Wakil Gubernur, Calon Wakil Bupati, dan Calon Wakil Walikota;
+p. berhenti dari jabatannya bagi Gubernur, Wakil Gubernur, Bupati, Wakil Bupati, Walikota, dan Wakil Walikota yang mencalonkan diri di daerah lain sejak ditetapkan sebagai calon;
+q. tidak berstatus sebagai penjabat Gubernur, penjabat Bupati, dan penjabat Walikota;
+r. tidak memiliki konflik kepentingan dengan petahana;
+s. memberitahukan pencalonannya sebagai Gubernur, Wakil Gubernur, Bupati, Wakil Bupati, Walikota, dan Wakil Walikota kepada Pimpinan Dewan Perwakilan Rakyat bagi anggota Dewan Perwakilan Rakyat, kepada Pimpinan Dewan Perwakilan Daerah bagi anggota Dewan Perwakilan Daerah, atau kepada Pimpinan Dewan Perwakilan Rakyat Daerah bagi anggota Dewan Perwakilan Rakyat Daerah;
+t. mengundurkan diri sebagai anggota Tentara Nasional Indonesia, Kepolisian Negara Republik Indonesia, dan Pegawai Negeri Sipil sejak mendaftarkan diri sebagai calon; dan
+u. berhenti dari jabatan pada badan usaha milik negara atau badan usaha milik daerah sejak ditetapkan sebagai calon.","Persyaratan tersebut adalah Warga negara Indonesia yang dapat menjadi Calon Gubernur dan Calon Wakil Gubernur, Calon Bupati dan Calon Wakil Bupati, serta Calon Walikota dan Calon Wakil Walikota adalah yang memenuhi persyaratan sebagai berikut:
+a. bertakwa kepada Tuhan Yang Maha Esa;
+b. setia kepada Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, cita-cita Proklamasi Kemerdekaan 17 Agustus 1945, dan Negara Kesatuan Republik Indonesia;
+c. berpendidikan paling rendah sekolah lanjutan tingkat atas atau sederajat;
+d. Dihapus.
+e. Berusia paling rendah 30 (tiga puluh) tahun untuk Calon Gubernur dan Calon Wakil Gubernur serta 25 (dua puluh lima) tahun untuk Calon Bupati dan Calon Wakil Bupati serta Calon Walikota dan Calon Wakil Walikota;
+f. mampu secara jasmani dan rohani berdasarkan hasil pemeriksaan kesehatan menyeluruh dari tim dokter;
+g. tidak pernah dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap karena melakukan tindak pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih;
+h. tidak sedang dicabut hak pilihnya berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap;
+i. tidak pernah melakukan perbuatan tercela yang dibuktikan dengan surat keterangan catatan kepolisian;
+j. menyerahkan daftar kekayaan pribadi;
+k. tidak sedang memiliki tanggungan utang secara perseorangan dan/atau secara badan hukum yang menjadi tanggung jawabnya yang merugikan keuangan negara;
+l. tidak sedang dinyatakan pailit berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap;
+m. memiliki Nomor Pokok Wajib Pajak dan memiliki laporan pajak pribadi; n. belum pernah menjabat sebagai Gubernur, Bupati, dan Walikota selama 2 (dua) kali masa jabatan dalam jabatan yang sama untuk Calon Gubernur, Calon Bupati, dan Calon Walikota;
+o. belum pernah menjabat sebagai Gubernur, Bupati, dan Walikota untuk Calon Wakil Gubernur, Calon Wakil Bupati, dan Calon Wakil Walikota;
+p. berhenti dari jabatannya bagi Gubernur, Wakil Gubernur, Bupati, Wakil Bupati, Walikota, dan Wakil Walikota yang mencalonkan diri di daerah lain sejak ditetapkan sebagai calon;
+q. tidak berstatus sebagai penjabat Gubernur, penjabat Bupati, dan penjabat Walikota;
+r. tidak memiliki konflik kepentingan dengan petahana;
+s. memberitahukan pencalonannya sebagai Gubernur, Wakil Gubernur, Bupati, Wakil Bupati, Walikota, dan Wakil Walikota kepada Pimpinan Dewan Perwakilan Rakyat bagi anggota Dewan Perwakilan Rakyat, kepada Pimpinan Dewan Perwakilan Daerah bagi anggota Dewan Perwakilan Daerah, atau kepada Pimpinan Dewan Perwakilan Rakyat Daerah bagi anggota Dewan Perwakilan Rakyat Daerah;
+t. mengundurkan diri sebagai anggota Tentara Nasional Indonesia, Kepolisian Negara Republik Indonesia, dan Pegawai Negeri Sipil sejak mendaftarkan diri sebagai calon; dan
+u. berhenti dari jabatan pada badan usaha milik negara atau badan usaha milik daerah sejak ditetapkan sebagai calon.",SyaratCalon,
+4,Lembaga yang menjadi penyelenggara Pemilukada ?,UU No 8 Tahun 2015 Pasal 8,"(1) Penyelenggaraan Pemilihan menjadi tanggung jawab bersama KPU, KPU Provinsi, dan KPU Kabupaten/Kota.
+(2) Pemilihan Gubernur dan Wakil Gubernur dilaksanakan oleh KPU Provinsi.
+(3) Pemilihan Bupati dan Wakil Bupati serta Pemilihan Walikota dan Wakil Walikota dilaksanakan oleh KPU Kabupaten/Kota.","Lembaga yang menjadi penyelenggara pemilukada ada KPU, dalam penyelenggaran pemilukada sesuai dengan tingkatan administrasi KPU tersebut dan KPU RI menjadi penanggungjawab akhir dari kegiatan KPU Daerah.",PenyelenggaraPilkada,
+5,Siapa yang akan mengawasi penyelenggaran Pemilukada?,UU No 8 Tahun 2015 Pasal 1 Ayat 10 dan Pasal 22B,"Badan Pengawas Pemilihan Umum yang selanjutnya disebut Bawaslu adalah lembaga penyelenggara pemilihan umum yang bertugas mengawasi penyelenggaraan pemilihan umum di seluruh wilayah Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam undang-undang yang mengatur mengenai penyelenggara pemilihan umum yang diberikan tugas dan wewenang dalam pengawasan penyelenggaraan Pemilihan berdasarkan ketentuan yang diatur dalam Undang-Undang ini. Tugas dan wewenang Bawaslu dalam pengawasan penyelenggaraan Pemilihan meliputi:
+a. menyusun dan menetapkan pedoman teknis untuk setiap tahapan pengawasan penyelenggaraan Pemilihan setelah berkonsultasi dengan Dewan Perwakilan Rakyat dan Pemerintah;
+b. mengoordinasikan dan memantau tahapan pengawasan penyelenggaraan Pemilihan;
+c. melakukan evaluasi pengawasan penyelenggaraan Pemilihan;
+d. menerima laporan hasil pengawasan penyelenggaraan Pemilihan dari Bawaslu Provinsi dan Bawaslu Kabupaten/Kota;
+e. memfasilitasi pelaksanaan tugas Bawaslu Provinsi dan Panwas Kabupaten/Kota dalam melanjutkan tahapan pelaksanaan pengawasan penyelenggaraan Pemilihan jika Provinsi, Kabupaten, dan Kota tidak dapat melanjutkan tahapan pelaksanaan pengawasan penyelenggaraan Pemilihan secara berjenjang; dan
+f. melaksanakan tugas dan wewenang lain yang diberikan oleh peraturan perundang-undangan.",Lembaga yang mengawasi jalannya penyelenggaraan pemilu adalah Bawaslu,PengawasPemilu,
+6,Kapankah calon dapat mendaftar ke KPU?,UU No 8 Tahun 2015 Pasal 44,"Masa pendaftaran pasangan Calon Gubernur dan Calon Wakil Gubernur, pasangan Calon Bupati dan Calon Wakil Bupati, serta pasangan Calon Walikota dan Calon Wakil Walikota paling lama 3 (tiga) hari terhitung sejak pengumuman pendaftaran pasangan Calon Gubernur dan Calon Wakil Gubernur, pasangan Calon Bupati dan Calon Wakil Bupati, serta pasangan Calon Walikota dan Calon Wakil Walikota.",Calon dalam mendaftar 3 hari setelah pengumuman pembukaan pendaftaran pasangan calon KPU,PendaftaranPaslon,
+7,Lembaga apa yang menangani pelanggaran oleh Penyelenggara Pemilu,UU No 8 Tahun 2015 Pasal 1 Ayat 11,Dewan Kehormatan Penyelenggara Pemilihan Umum yang selanjutnya disingkat DKPP adalah lembaga yang bertugas menangani pelanggaran kode etik penyelenggara pemilihan umum dan merupakan satu kesatuan fungsi penyelenggaraan pemilihan umum sebagaimana dimaksud dalam undang-undang yang mengatur mengenai penyelenggara pemilihan umum yang diberikan tugas dan wewenang dalam menangani pelanggaran kode etik penyelenggara Pemilihan berdasarkan ketentuan yang diatur dalam Undang-Undang ini.,"Apabil  terjadi pelanggaran oelh Penyelenggara Pemilu, maka dilaporkan kepada DKPP untuk menentukan sanksi yang diberikan kepada Penyelenggara Pemilu",DKPP,
+8,Bagaimana struktur Penyelenggara Pemilu dari yang terendah hingga paling atas,UU No 8 Tahun 2015 Pasal 1,1. Kelompok Penyelenggara Pemungutan Suara yang selanjutnya disingkat KPPS adalah kelompok yang dibentuk oleh PPS untuk menyelenggarakan pemungutan suara di tempat pemungutan suara 2. Panitia Pemungutan Suara yang selanjutnya disingkat PPS adalah panitia yang dibentuk oleh KPU Kabupaten/Kota untuk menyelenggarakan Pemilihan di tingkat Desa atau sebutan lain/Kelurahan. 3. Panitia Pemilihan Kecamatan yang selanjutnya disingkat PPK adalah panitia yang dibentuk oleh KPU Kabupaten/Kota untuk menyelenggarakan Pemilihan di tingkat Kecamatan atau nama lain. 4. KPU Kabupaten/Kota adalah lembaga penyelenggara pemilihan umum sebagaimana dimaksud dalam undang-undang yang mengatur mengenai penyelenggara pemilihan umum yang diberikan tugas menyelenggarakan Pemilihan Bupati dan Wakil Bupati serta Walikota dan Wakil Walikota berdasarkan ketentuan yang diatur dalam Undang-Undang ini. 5. KPU Provinsi adalah lembaga penyelenggara pemilihan umum sebagaimana dimaksud dalam undang-undang yang mengatur mengenai penyelenggara pemilihan umum yang diberikan tugas menyelenggarakan Pemilihan Gubernur dan Wakil Gubernur berdasarkan ketentuan yang diatur dalam Undang-Undang ini. 6. Komisi Pemilihan Umum yang selanjutnya disingkat KPU adalah lembaga penyelenggara pemilihan umum sebagaimana dimaksud dalam undang-undang yang mengatur mengenai penyelenggara pemilihan umum yang diberikan tugas dan wewenang dalam penyelenggaraan Pemilihan berdasarkan ketentuan yang diatur dalam Undang-Undang ini.,"Tingkat terendah adalah KPPS, kemudia PPS, PPK, Kpu Kab Kota, KPU Provinsi, dan KPU RI",TingkatPenyelenggara,
+9,Bagaimana dengan calon yang tidak didukung oleh Partai Politik?,UU No 8 Tahun 2015 Pasal 39,Pasangan calon perseorangan yang didukung oleh sejumlah orang,Jika tidak didukung oleh partai politik maka Calon dapat maju melalui jalur perseorangan,CalonPerseorangan,
+10,Apakah ada syaratnya jika seseorang ingin maju melalui calon perseorangan?,UU No 8 Tahun 2015 Pasal 41,"(1) Calon perseorangan dapat mendaftarkan diri sebagai Calon Gubernur dan Calon Wakil Gubernur jika memenuhi syarat dukungan dengan ketentuan:
+a. Provinsi dengan jumlah penduduk sampai dengan 2.000.000 (dua juta) jiwa harus didukung paling sedikit 10% (sepuluh persen);
+b. Provinsi dengan jumlah penduduk lebih dari 2.000.000 (dua juta) jiwa sampai dengan 6.000.000 (enam juta) jiwa harus didukung paling sedikit 8,5% (delapan setengah persen);
+c. Provinsi dengan jumlah penduduk lebih dari 6.000.000 (enam juta) jiwa sampai dengan 12.000.000 (dua belas juta) jiwa harus didukung paling sedikit 7,5% (tujuh setengah persen);
+d. Provinsi dengan jumlah penduduk lebih dari 12.000.000 (dua belas juta) jiwa harus didukung paling sedikit 6,5% (enam setengah persen); dan
+e. jumlah dukungan sebagaimana dimaksud pada huruf a, huruf b, huruf c dan huruf d tersebar di lebih dari 50% (lima puluh persen) jumlah kabupaten/kota di Provinsi dimaksud. (2) Calon perseorangan dapat mendaftarkan diri sebagai Calon Bupati dan Calon Wakil Bupati serta Calon Walikota dan Calon Wakil Walikota, jika memenuhi syarat dukungan dengan ketentuan:
+a. Kabupaten/kota dengan jumlah penduduk sampai dengan 250.000 (dua ratus lima puluh ribu) jiwa harus didukung paling sedikit 10% (sepuluh persen); b. Kabupaten/kota dengan jumlah penduduk lebih dari 250.000 (dua ratus lima puluh ribu) sampai dengan 500.000 (lima ratus ribu) jiwa harus didukung paling sedikit 8,5% (delapan setengah persen);
+c. Kabupaten/kota dengan jumlah penduduk lebih dari 500.000 (lima ratus ribu) sampai dengan 1.000.000 (satu juta) jiwa harus didukung paling sedikit 7,5% (tujuh setengah persen);
+d. Kabupaten/kota dengan jumlah penduduk lebih dari 1.000.000 (satu juta) jiwa harus didukung paling sedikit 6,5% (enam setengah persen); dan
+e. Jumlah dukungan sebagaimana dimaksud pada huruf a, huruf b, huruf c, dan huruf d tersebar di lebih dari 50% (lima puluh persen) jumlah kecamatan di kabupaten/kota dimaksud.
+(3) Dukungan sebagaimana dimaksud pada ayat (1) dan ayat (2) dibuat dalam bentuk surat dukungan yang disertai dengan fotokopi Kartu Tanda Penduduk Elektronik, kartu keluarga, paspor, dan/atau identitas lain sesuai dengan ketentuan peraturan perundang-undangan.
+(4) Dukungan sebagaimana dimaksud pada ayat (3) hanya diberikan kepada 1 (satu) pasangan calon perseorangan.","Untuk maju sebagai calon perseorangan,  calon tersebut harus mengumpulkan syarat dukungan berdasarkan tingkat administrasi pemilihan yang dia inginkan. Dimana calon tersebut harus mengumpulkan surat dukungan yang disertai dengan bukti fotokopi pendukung calon tersebut seperti fotokopi ktp maupun lainnya",CalonPerseorangan,
+11,Apakah ada jangka waktu pengumpulan bukti dukungan untuk calon perseorangan?,UU No 8 tahun 2015 Pasal 48 Ayat 2,(2) Pasangan calon perseorangan menyerahkan dokumen syarat dukungan kepada PPS untuk dilakukan verifikasi paling lambat 28 (dua puluh delapan) hari sebelum waktu pendaftaran pasangan calon dimulai.,Calon tersebut harus menyerahkan bukti dukungan kepada Penyelenggara paling lambat 28 hari sebelulm waktu pendaftaran pasangan calon dimulai. Hal ini untuk verifikasi data dari paslon tersebut oleh ppenyelenggara.,CalonPerseorangan,
+12,Apakah calon yag mendaftar pasti menjadi calon yang maju dalampilkada,UU No 8 Tahun 2015 Pasal 45,"Pendaftaran pasangan Calon Gubernur dan Calon Wakil Gubernur, pasangan Calon Bupati dan Calon Wakil Bupati, serta pasangan Calon Walikota dan Calon Wakil Walikota disertai dengan penyampaian kelengkapan dokumen persyaratan.",Dokumen Persyaratan tersebut yang akan menjadi dasar penelitian untuk  penetapan calon tersebut,Pencalonan,
+13,Kapan dilakukan verifikasi tersebut?,UU No 8 Tahun 2015 Pasal 49,"(2) Penelitian persyaratan administrasi sebagaimana dimaksud ayat (1) dilakukan paling lama 7 (tujuh) hari sejak penutupan pendaftaran pasangan Calon Gubernur dan Calon Wakil Gubernur. (3) Hasil penelitian sebagaimana dimaksud pada ayat (2) diberitahukan secara tertulis kepada Partai Politik, gabungan Partai Politik, atau pasangan calon perseorangan paling lambat 2 (dua) hari setelah penelitian selesai.
+(4) Apabila hasil penelitian sebagaimana dimaksud ayat (3) dinyatakan tidak memenuhi syarat, Partai Politik, gabungan Partai Politik, atau pasangan calon perseorangan diberi kesempatan untuk melengkapi dan/atau memperbaiki persyaratan pencalonan paling lama 3 (tiga) hari sejak pemberitahuan hasil penelitian persyaratan oleh KPU Provinsi.",Jadi 7 hari setelah masa  pendaftaran ditutup dilaksanakan penelitian dokumen ppersyaratan calon. Dan penelitian tersebut harus disampaikan paling lambat 2 hari setelah penelitian tersebut selesai dan apabila ditemukan dokumen yang tidak lengkap  maka paslon harus melengkapinya dalam waktu 3 hari setelah pengumuman hasil penelitian ,Pencalonan,
+14,Apakah setelah verifikasi dalam dilakukan penggantian Paslon?,UU No 8 Tahun 2015 Pasal 49 dan Pasal 53,"(7) Dalam hal hasil penelitian sebagaimana dimaksud pada ayat (6), menetapkan calon yang diajukan tidak memenuhi syarat, Partai Politik atau gabungan Partai Politik tidak dapat mengajukan pasangan Calon Gubernur dan Calon Wakil Gubernur pengganti. Pasal 53 (2) Dalam hal Partai Politik dan gabungan Partai Politik menarik pasangan calonnya dan/atau pasangan calon mengundurkan diri sebagaimana dimaksud pada ayat (1), Partai Politik atau gabungan Partai Politik yang mencalonkan tidak dapat mengusulkan pasangan calon pengganti.",Partai Politik atau gabungan Partai Politik tidak dapat  mengajukan calon pengganti kecuali calon tersebut berhalangan tetap,Pencalonan,
+15,"Apabila mengeundurkan diri setelah ditetapkan, apakah ada sanksi untuk paslon tersebut?",UU No 8 tahun 2015 Pasal 53,"(4) Dalam hal pasangan calon perseorangan mengundurkan diri dari pasangan Calon Gubernur dan Calon Wakil Gubernur setelah ditetapkan oleh KPU Provinsi atau pasangan Calon Bupati dan Calon Wakil Bupati serta pasangan Calon Walikota dan Calon Wakil Walikota setelah ditetapkan oleh KPU Kabupaten/Kota, pasangan calon dikenai sanksi administratif berupa denda sebesar Rp20.000.000.000,00 (dua puluh miliar rupiah) untuk pasangan Calon Gubernur dan Calon Wakil Gubernur dan Rp10.000.000.000,00 (sepuluh miliar rupiah) untuk pasangan Calon Bupati dan Calon Wakil Bupati serta pasangan Calon Walikota dan Calon Wakil Walikota.",Paslon yang mengundurkan diri mendapatkan sanksi administratif sebesar 20 Miliar untuk paslon Gubernur dan 10 Miliar untuk paslon Walikota dan Bupati.,Pencalonan,
+16,Apakah salah satu pasangan calon dapat diganti?,UU No 8 tahun 2015 Pasal 54,"(1) Dalam hal pasangan calon berhalangan tetap sejak penetapan pasangan calon sampai pada saat dimulainya hari Kampanye, Partai Politik atau gabungan Partai Politik yang pasangan calonnya berhalangan tetap dapat mengusulkan pasangan calon pengganti paling lama 3 (tiga) hari terhitung sejak pasangan calon berhalangan tetap.",Paslon dapat diganti apabila yang bersangkutan berhalangan tetap untuk terus maju dalam tahapan berikutnya,Pencalonan,
+17,Apa saja  yang dapat dilakukan saat kampanye?,UU No 8 tahun 2015 Pasal 65 Ayat (1),"(1) Kampanye dapat dilaksanakan melalui:
+a. pertemuan terbatas;
+b. pertemuan tatap muka dan dialog;
+c. debat publik/debat terbuka antarpasangan calon;
+d. penyebaran bahan Kampanye kepada umum;
+e. pemasangan alat peraga;
+f. iklan media massa cetak dan media massa elektronik; dan/atau
+g. kegiatan lain yang tidak melanggar larangan Kampanye dan ketentuan peraturan perundang-undangan.","Terdapat 7 cara kampanye yang diatur untuk pilkada serentak ini yaitu 
+a. pertemuan terbatas;
+b. pertemuan tatap muka dan dialog;
+c. debat publik/debat terbuka antarpasangan calon;
+d. penyebaran bahan Kampanye kepada umum;
+e. pemasangan alat peraga;
+f. iklan media massa cetak dan media massa elektronik; dan/atau
+g. kegiatan lain yang tidak melanggar larangan Kampanye dan ketentuan peraturan perundang-undangan.",Kampanye,
+18,Siapakah yang membiayai  kampanye paslon?,UU No 8 tahun 2015 Pasal 65 Ayat (2),"(2) Kampanye sebagaimana dimaksud pada ayat (1) huruf c, huruf d, huruf e dan huruf f difasilitasi oleh KPU Provinsi dan KPU Kabupaten/Kota yang didanai APBD.",Beberapa Item kampanyae dibiayai oleh negara melalui APBD,Kampanye,
+19,Kapan Paslon dapat berkampanye?,UU No 8 tahun 2015 Pasal 67 Ayat (1),(1) Kampanye sebagaimana dimaksud dalam Pasal 65 ayat (1) dilaksanakan 3 (tiga) hari setelah penetapan pasangan calon peserta Pemilihan sampai dengan dimulainya masa tenang.,Paslon dapat berkampanye mulai dari 3 hari setelah penetapannya sebagai peserta sampai dengan 3 hari sebelum hari pemungutan suara,Kampanye,
+20,Adakah hal yang dilarang dalam kampanye?,UU No 8 tahun 2015 Pasal 69,"Dalam Kampanye dilarang:
+a. mempersoalkan dasar negara Pancasila dan Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+b. menghina seseorang, agama, suku, ras, golongan, Calon Gubernur, Calon Wakil Gubernur, Calon Bupati, Calon Wakil Bupati, Calon Walikota, Calon Wakil Walikota, dan/atau Partai Politik;
+c. melakukan Kampanye berupa menghasut, memfitnah, mengadu domba Partai Politik, perseorangan, dan/atau kelompok masyarakat;
+d. menggunakan kekerasan, ancaman kekerasan atau menganjurkan penggunaan kekerasan kepada perseorangan, kelompok masyarakat dan/atau Partai Politik;
+e. mengganggu keamanan, ketenteraman, dan ketertiban umum;
+f. mengancam dan menganjurkan penggunaan kekerasan untuk mengambil alih kekuasaan dari pemerintahan yang sah;
+g. merusak dan/atau menghilangkan alat peraga Kampanye;
+h. menggunakan fasilitas dan anggaran Pemerintah dan Pemerintah Daerah;
+i. menggunakan tempat ibadah dan tempat pendidikan;
+j. melakukan pawai yang dilakukan dengan berjalan kaki dan/atau dengan kendaraan di jalan raya; dan/atau
+k. melakukan kegiatan Kampanye di luar jadwal yang telah ditetapkan oleh KPU Provinsi dan KPU Kabupaten/Kota.","Paslon saat berkampanye dilarang untu: a. mempersoalkan dasar negara Pancasila dan Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+b. menghina seseorang, agama, suku, ras, golongan, Calon Gubernur, Calon Wakil Gubernur, Calon Bupati, Calon Wakil Bupati, Calon Walikota, Calon Wakil Walikota, dan/atau Partai Politik;
+c. melakukan Kampanye berupa menghasut, memfitnah, mengadu domba Partai Politik, perseorangan, dan/atau kelompok masyarakat;
+d. menggunakan kekerasan, ancaman kekerasan atau menganjurkan penggunaan kekerasan kepada perseorangan, kelompok masyarakat dan/atau Partai Politik;
+e. mengganggu keamanan, ketenteraman, dan ketertiban umum;
+f. mengancam dan menganjurkan penggunaan kekerasan untuk mengambil alih kekuasaan dari pemerintahan yang sah;
+g. merusak dan/atau menghilangkan alat peraga Kampanye;
+h. menggunakan fasilitas dan anggaran Pemerintah dan Pemerintah Daerah;
+i. menggunakan tempat ibadah dan tempat pendidikan;
+j. melakukan pawai yang dilakukan dengan berjalan kaki dan/atau dengan kendaraan di jalan raya; dan/atau
+k. melakukan kegiatan Kampanye di luar jadwal yang telah ditetapkan oleh KPU Provinsi dan KPU Kabupaten/Kota.",Kampanye,
+21,Adakah yang tidak diperbolehkan ikut berkampanye?,UU No 8 tahun 2015 Pasal 70,"(1) Dalam Kampanye, pasangan calon dilarang melibatkan: a. pejabat badan usaha milik negara/badan usaha milik daerah; b. aparatur sipil Negara, anggota Kepolisian Negara Republik Indonesia, dan anggota Tentara Nasional Indonesia; dan
+c. Kepala Desa atau sebutan lain/Lurah dan perangkat Desa atau sebutan lain/perangkat Kelurahan.
+(2) Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, Walikota dan Wakil Walikota, pejabat negara lainnya, serta pejabat daerah dapat ikut dalam kampanye dengan mengajukan izin cuti kampanye sesuai dengan ketentuan peraturan perundang-undangan.
+(3) Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, Walikota dan Wakil Walikota, yang mencalonkan kembali pada daerah yang sama, dalam melaksanakan kampanye harus memenuhi ketentuan:
+a. tidak menggunakan fasilitas yang terkait dengan jabatannya;
+b. menjalani cuti di luar tanggungan negara; dan
+c. pengaturan lama cuti dan jadwal cuti dengan memperhatikan keberlangsungan tugas penyelenggaraan pemerintahan daerah.
+(4) Cuti Pejabat Negara sebagaimana dimaksud pada ayat (3), bagi Gubernur dan Wakil Gubernur diberikan oleh Menteri Dalam Negeri atas nama Presiden dan bagi Bupati dan Wakil Bupati serta Walikota dan Wakil Walikota diberikan oleh Gubernur atas nama Menteri.
+(5) Izin cuti yang telah diberikan sebagaimana dimaksud pada ayat (4), wajib diberitahukan oleh Gubernur, Bupati, dan Walikota kepada KPU Provinsi, KPU Kabupaten, dan KPU Kota.","Ada beberapa  pihak yang dilarang untuk ikut berkampanye yaitu : a. pejabat badan usaha milik negara/badan usaha milik daerah; b. aparatur sipil Negara, anggota Kepolisian Negara Republik Indonesia, dan anggota Tentara Nasional Indonesia; dan
+c. Kepala Desa atau sebutan lain/Lurah dan perangkat Desa atau sebutan lain/perangkat Kelurahan.
+(2) Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, Walikota dan Wakil Walikota, pejabat negara lainnya, serta pejabat daerah dapat ikut dalam kampanye dengan mengajukan izin cuti kampanye sesuai dengan ketentuan peraturan perundang-undangan.
+(3) Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, Walikota dan Wakil Walikota, yang mencalonkan kembali pada daerah yang sama, dalam melaksanakan kampanye harus memenuhi ketentuan:
+a. tidak menggunakan fasilitas yang terkait dengan jabatannya;
+b. menjalani cuti di luar tanggungan negara; dan
+c. pengaturan lama cuti dan jadwal cuti dengan memperhatikan keberlangsungan tugas penyelenggaraan pemerintahan daerah.
+(4) Cuti Pejabat Negara sebagaimana dimaksud pada ayat (3), bagi Gubernur dan Wakil Gubernur diberikan oleh Menteri Dalam Negeri atas nama Presiden dan bagi Bupati dan Wakil Bupati serta Walikota dan Wakil Walikota diberikan oleh Gubernur atas nama Menteri.
+(5) Izin cuti yang telah diberikan sebagaimana dimaksud pada ayat (4), wajib diberitahukan oleh Gubernur, Bupati, dan Walikota kepada KPU Provinsi, KPU Kabupaten, dan KPU Kota.",Kampanye,
+22,"Dalam berkampanye, sumber dana  paslon berasal darimana?",UU No 8 tahun 2015 Pasal 74,"(1) Dana Kampanye pasangan calon yang diusulkan Partai Politik atau gabungan Partai Politik dapat diperoleh dari: a. sumbangan Partai Politik dan/atau gabungan Partai Politik yang mengusulkan pasangan calon; dan/atau
+b. sumbangan pihak lain yang tidak mengikat yang meliputi sumbangan perseorangan dan/atau badan hukum swasta.
+(2) Dana Kampanye pasangan calon perseorangan dapat diperoleh dari sumbangan pihak lain yang tidak mengikat yang meliputi sumbangan perseorangan dan/atau badan hukum swasta.
+(3) Partai Politik atau gabungan Partai Politik yang mengusulkan pasangan calon wajib memiliki rekening khusus dana Kampanye atas nama pasangan calon dan didaftarkan kepada KPU Provinsi atau KPU Kabupaten/Kota.
+(4) Pasangan calon perseorangan bertindak sebagai penerima sumbangan dana Kampanye sebagaimana dimaksud pada ayat (2) dan wajib memiliki rekening khusus dana Kampanye dan didaftarkan kepada KPU Provinsi atau KPU Kabupaten/Kota.
+(5) Sumbangan dana Kampanye sebagaimana dimaksud pada ayat (1) huruf b dan ayat (2) dari perseorangan paling banyak Rp50.000.000,00 (lima puluh juta rupiah) dan dari badan hukum swasta paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+(6) Partai Politik dan/atau gabungan Partai Politik yang mengusulkan pasangan calon dan pasangan calon perseorangan dapat menerima dan/atau menyetujui pembiayaan bukan dalam bentuk uang secara langsung untuk kegiatan Kampanye yang jika dikonversi berdasar harga pasar nilainya tidak melebihi sumbangan dana Kampanye sebagaimana dimaksud pada ayat (5).
+(7) Pemberi sumbangan sebagaimana dimaksud pada ayat (5) dan ayat (6) harus mencantumkan identitas yang jelas.
+(8) Penggunaan dana Kampanye pasangan calon wajib dilaksanakan secara transparan dan akuntabel.
+(9) Pembatasan dana Kampanye Pemilihan ditetapkan oleh KPU Provinsi dan KPU Kabupaten/Kota dengan mempertimbangkan jumlah penduduk, cakupan/luas wilayah, dan standar biaya daerah.","Dana kamapnye paslon terbagi  atas dua sumber yaitu pemerintah dan gabungan partai politik, Dana APBD yang digunakan untuk membiayai beberapa item kampanye seperti alat peraga dan sebagainya sedangkan yang berasala dari gabungan partai politik digunakan untuk pertemuan tatap muka",Kampanye,
+23,Siapa saja yang berhak untuk memilih?,UU No 8 tahun 2015 Pasal 95 ayat (1),"(1) Pemilih yang berhak mengikuti pemungutan suara di TPS meliputi:
+a. Pemilih yang terdaftar pada daftar Pemilih tetap dan daftar Pemilih tetap tambahan pada TPS yang bersangkutan; dan
+b. Pemilih yang terdaftar pada daftar Pemilih tambahan.",Pemilih yang berhak memilih dan mengikuti pemungutan suara adalah Pemilih yang terdaftar pada DPT dan Daftar Pemilih Tetap Tambahan  pada TPS yang bersangkutan dan Pemilih yang terdaftar pada pemilih tambahan.,PemilihPemilukada,
+24,"Apabila tidak terdaftar, apakah pemilih dapat memilih di TPS lainnya?",UU No 8 tahun 2015 Pasal 95 ayat (2),2) Pemilih sebagaimana dimaksud pada ayat (1) dapat menggunakan haknya untuk memilih di TPS lain dengan menunjukkan surat pemberitahuan dari PPS untuk memberikan suara di TPS lain.,Pemilih dapat memilih dengan menunjukkan surat pemberitahuan dari PPS untuk memberikan suara di TPS Lainnya.,PemilihPemilukada,
+25,Kapan penghitungan suara dimulai  dan apa saja yang dilakukan oleh KPPS?,UU No 8 tahun 2015 Pasal 98,"(1) Penghitungan suara di TPS dilakukan oleh KPPS setelah pemungutan suara berakhir.
+(2) Sebelum penghitungan suara dimulai, KPPS menghitung:
+a. jumlah Pemilih yang memberikan suara berdasarkan salinan daftar Pemilih tetap untuk TPS;
+b. jumlah Pemilih dari TPS lain;
+c. jumlah Pemilih yang menggunakan dasar Kartu Tanda Penduduk Elektronik, kartu keluarga, paspor, dan/atau identitas lain sesuai dengan ketentuan peraturan perundang-undangan; d. jumlah surat suara yang tidak terpakai; dan
+e. jumlah surat suara yang dikembalikan oleh Pemilih karena rusak atau keliru ditandai.","Penghitungan suara di KPPS dimulai setelah pemungutan suara berakhir. Dan yang dihitung adalah a. jumlah Pemilih yang memberikan suara berdasarkan salinan daftar Pemilih tetap untuk TPS;
+b. jumlah Pemilih dari TPS lain;
+c. jumlah Pemilih yang menggunakan dasar Kartu Tanda Penduduk Elektronik, kartu keluarga, paspor, dan/atau identitas lain sesuai dengan ketentuan peraturan perundang-undangan; d. jumlah surat suara yang tidak terpakai; dan
+e. jumlah surat suara yang dikembalikan oleh Pemilih karena rusak atau keliru ditandai.",Rekapitulasi,
+26,"Komisi Pemilihan Umum wajib mengumumkan  Informasi Publik secara berkala pada website resmi KUP, KPU povinsi/ KIP Aceh, dan KPU/KIP Kabupaten/Kota. Berapakah jenjang waktu yang dilakukan untuk    mengupdate informasi publik tersebut?",Undang-Undang No. 1 Tahun 2005 Bab 4 Pasal 10,"Komisi Pemilihan Umum wajib mengumumkan  Informasi Publik secara berkala pada website resmi KUP, KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota dan/ atau papan pengumuman. Paling sedikit 1 kali dalam setahun, dan paling singkat 6 bulan sekali","Paling sedikit 1 kali dalam setahun, dan paling singkat 6 bulan sekali",InformasiPublik,
+27,"  Informasi apakah yang disajikan oleh KPU/KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota yang wajib  informasikan secara berkala kepada publik: ",Undang-Undang No. 1 Tahun 2005 Bab 4 Pasal 11,"Informasi apakah yang disajikan oleh KPU/KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota yang wajib  informasikan secara berkala kepada publik: 
+
+a.  Profil KPU, KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota serta Sekretariat Jenderal KPU, Sekretariat KPU Provinsi/KIP Aceh, dan Sekretariat KPU/KIP Kabupaten/Kota
+b.  Ringkasan informasi tentang program dan/ atau kegiatan yang sedang dijalankan dalam lingkup KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota serta Sekretariat Jenderal KPU, Sekretariat KPU Provinsi/KIP Aceh, dan Sekretariat KPU/KIP Kabupaten/Kota
+c.  Ringkasan informasi tentang kinerja dalam lingkup KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota serta Sekretariat Jenderal KPU, Sekretariat KPU Provinsi/KIP Aceh, dan Sekretariat KPU/KIP Kabupaten/Kota berupa Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP) dan Penetapan Kinerja (TAPKIN).
+d.  Ringkasan laporan keuangan yang sudah diaudit
+e.  Ringkasan laporan akses Informasi Publik 
+f.  Informasi tentang peraturan, keputusan, dan/atau kebijakan yang mengikat dan/atau berdampak bagi publik yang dikeluarkan oleh KPU.
+g.  Standar operasional prosedur tentang pelayanan informasi di lingkungan KPU
+h.  Informasi tentang pengumuman pengadaan barang dan jasa sesuai dengan peraturan per undang-undangan yang berlaku
+","Informasi yang disajikan KPU terdiri dari Profil KPU, Ringkasan Informasi tentang Program, Ringkasan Informasi tentang Kinerja KPU, Ringkasan Laporan Keuangan yang sudah diaudit, laporan akses Informasi Publik, Informasi Tentang Peraturan, Standar Operasionan dan Pengadaan Barang",InformasiPublik,
+28,"Apakah ada Informasi Publik yang dikecualikan, atau tidak oleh KPU/KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota yang tidak boleh diinformasikan kepada publik",Undang-Undang No. 1 Tahun 2005 Bab 5 Pasal 18,"Informasi Publik yang dikecualikan, atau tidak oleh KPU/KPU Provinsi/KIP Aceh, dan KPU/KIP Kabupaten/Kota yang tidak boleh diinformasikan kepada publik: 
+
+a. Informasi Publik yang apabila dibuka dan diberikan kepada Pemohon Informasi Publik dapat menghambat penegakan hukum
+b. Informasi Publik yang apabila dibuka dan diberikan kepada Pemohon Informasi Publik dapat mengungkap rahasia pribadi
+c. Informasi publik yang apabila dibuka dan diberikan kepada pemohon informasi publik dapat mengungkap rahasia jabatan
+d. Memorandum atau surat-surat antar KPU atau intra KPU yang menurut sifatnya dirahasiakan kecuali atas putusan Komisi Informasi atau pengadilan dan/ atau
+e. Informasi yang tidak boleh diungkapkan berdasarkan Undang-Undang 
+","Informasi Publik yang tidak boleh diinformasikan kepada Publik  adalah informasi yang jika dibuka kepada publik dapat menghambat penegakan hukum, mengungkap rahasia pribadi, mengungkap rahasia jabatan, sifatnya dirahasiakan dan tidak bolah diungkap berdasarkan undang undang",InformasiPublik,
+29,"Penyelenggaraan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/ atau Walikota dan Wakil Walikota Berpedoman pada tahapan, program dan jadwal.  Bagaimanakah tahapannya",NOMOR 2 TAHUN 2015   Bab 2 Pasal 3 dan 4,"Penyelenggaraan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/ atau Walikota dan Wakil Walikota Berpedoman pada tahapan, program dan jadwal. Tahapan Pemilihan yang dimaksud terdiri dari Tahapan Persiapan dan  Tahapan Penyelenggaraan","Tahapan Penyelenggaraan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/ atau Walikota dan Wakil Walikota Berpedoman pada tahapan, program dan jadwal. Tahapan Pemilihan yang dimaksud terdiri dari Tahapan Persiapan dan  Tahapan Penyelenggaraan",PenyelenggaraanPemilu,
+30,"Bagaimanakah Rincian Tahap Persiapan  Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/ atau Walikota dan Wakil Walikota  ",NOMOR 2 TAHUN 2015   Bab 2 Pasal 5 ,"Tahapan Persiapan Terdiri Dari
+
+a. Perencanaan program dan anggaran 
+b. Penyusunan peraturan penyelenggaraan pemilihan
+c. Sosialisasi, penyuluhan dan bimbingan teknis
+d. Pembentukan PPK, PPS dan KPPS
+e. Pendaftaran Pemantau Pemilihan
+f. Pengolahan Daftar Penduduk Potensial Pemilih Pemilihan (DP4); dan
+g. Pemutakhiran data dan daftar pemilih
+","Tahapan Persiapan terdiri dari perencanaan program dan anggaran, penyusunan penyelenggaraan pemerintahan, sosialisasi, pembentukan PPK, PPS dan KPPS. Pendaftaran Pemantau Pemilihan, Pengolahan DP4 dan Pemutakhiran Data",TahapanPersiapan,
+31,"Bagaimanakah Rincian Tahapan Penyelenggaraan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/ atau Walikota dan Wakil Walikota  ",NOMOR 2 TAHUN 2015   Bab 2 Pasal 6 ,"Rincian Tahapan Penyelenggaraan Pemilu adalah:
+a. Pencalonan
+b. Sengketa Tata Usaha Negara Pemilihan
+c. Kampanye
+d. Laporan dan audit dana kampanye
+e. Pengadaan dan pendistribusian perlengkapan pemungutan dan penghitungan suara
+f. Pemungutan dan penghitungan suara
+g. Rekapitulasi hasil penghitungan suara
+h. Penetapan rakapitulasi hasil penghitungan suara
+i. Penetapan dan pengumuman pasangan calon terpilih tidak ada permohonan perselisihan hasil pemeilihan
+j. Sengketa perselisihan hasil pemilihan
+k. Penetapan dan pengumuman Pasangan Calon terpilih paska putusan Mahkamah Konstitusi
+l. Pengusulan pengesahan pengangkatan Pasangan Calon terpilih
+m. Evaluasi dan pelaporan","Rincian Tahapan Penyelenggaraan Pemilu:
+1) Pencalonan, Sengketa Tata Usaha Negara Pemilihan
+2) Kampanye, laporan dan audit dana kampaney
+3) Pengadaan dan pendistribusian perlengkapan dan
+4) pemungutan suara, Pemungutan dan penghitungan
+5) suara, rakapitulasi hasil, penetapatan rakapitulasi hasil
+6) penetapan pasangan calon, penetapan dan pengumuman
+7) pasangan calon, pengusulan pengesahan
+8) Evaluasi dan pelaporan",TahapanPenyelenggaraan,
+32,"Tugas, wewenang dan kewajiban KPU dalam penyelenggaraan pemilihan umum meliputi:",NOMOR 3 TAHUN 2015   Bab 2 Pasal 5 ,"Tugas, wewenang dan kewajiban KPU dalam penyelenggaraan pemilihan umum meliputi
+a. Menetapkan kebijakan tahapan, program, jadwal dan kebutuhan anggaran pemilihan sesuai dengan ketentuan peraturan perudang-undangan
+b. Menyusun dan menetapkan peraturan untuk setiap tahapan pemilihan setelah berkonsultasi dengan Dewan Perwakilan Rakyat dan Pemerintah
+c. Mengkoordinasi dan memantau tahapan pemilihan yang diselenggarakan oleh KPU Provinsi/KIP Aceh dan KPU/KIP Kabupaten/Kota
+d. Melakukan supervisi, memberikan arahan dan konsultasi, asistensi, dan klarifikasi kepada KPU Provinsi/KIP Aceh dan KPU/KIP Kabupaten/Kota dalam tahapan penyelenggaraan Pemilihan
+e. Melakukan evaluasi tahunan penyelenggaraan Pemilihan
+f.  Menerima laporan periodik, laporan pertanggungjawaban dan laporan hasil pemilihan dari KPU Provinsi/KIP Aceh, KPU/KIP Kabupaten/Kota; PPK, PPS, KPPS dan petugas pemutakhiran data Pemilih, melalui KPU/KIP Kabupaten/Kota
+g. Melaksanakan tugas, wewenang dan kewajiban lain dalam penyelenggaraan Pemilihan sesuai dengan ketentuan perundang-undangan
+h. Mengenakan sanksi administratif dan/atau menonaktifkan sementara anggota KPU Provinsi/KIP Aceh yang terbukti melakukan tindakan yang mengakibatkan terganggunya tahapan penyelenggaraan Pemilihan Umum berdasarkan rekomendasi Bawaslu dan/atau ketentuan perundang-undangan.","Tugas, wewenang dan kewajiban KPU dalam penyelenggaraan pemilihan umum meliputi
+a. Menetapkan kebijakan tahapan, program, jadwal dan kebutuhan anggaran pemilihan sesuai dengan ketentuan peraturan perudang-undangan
+b. Menyusun dan menetapkan peraturan untuk setiap tahapan pemilihan setelah berkonsultasi dengan Dewan Perwakilan Rakyat dan Pemerintah
+c. Mengkoordinasi dan memantau tahapan pemilihan yang diselenggarakan oleh KPU Provinsi/KIP Aceh dan KPU/KIP Kabupaten/Kota
+d. Melakukan supervisi, memberikan arahan dan konsultasi, asistensi, dan klarifikasi kepada KPU Provinsi/KIP Aceh dan KPU/KIP Kabupaten/Kota dalam tahapan penyelenggaraan Pemilihan
+e. Melakukan evaluasi tahunan penyelenggaraan Pemilihan
+f.  Menerima laporan periodik, laporan pertanggungjawaban dan laporan hasil pemilihan dari KPU Provinsi/KIP Aceh, KPU/KIP Kabupaten/Kota; PPK, PPS, KPPS dan petugas pemutakhiran data Pemilih, melalui KPU/KIP Kabupaten/Kota
+g. Melaksanakan tugas, wewenang dan kewajiban lain dalam penyelenggaraan Pemilihan sesuai dengan ketentuan perundang-undangan
+h. Mengenakan sanksi administratif dan/atau menonaktifkan sementara anggota KPU Provinsi/KIP Aceh yang terbukti melakukan tindakan yang mengakibatkan terganggunya tahapan penyelenggaraan Pemilihan Umum berdasarkan rekomendasi Bawaslu dan/atau ketentuan perundang-undangan.",TugasWewenangdanKewajibanKPU,
+33,"Berapakah batas waktu yang diberikan kepada pemerintah untuk menyampaikan DP4 yang telah dikonsolidasi, diverivikasi dan divalidasi kepada KPU?",NOMOR 4 TAHUN 2015   Bab 3 Pasal 6 ,"Batas waktu yang diberikan kepada pemerintah untuk menyampaikan DP4 yang telah dikonsolidasi, diverivikasi dan divalidasi kepada KPU paling lambat enam bulan sebelum hari pemungutan suara","Batas waktu yang diberikan kepada pemerintah untuk menyampaikan DP4 yang telah dikonsolidasi, diverivikasi dan divalidasi kepada KPU paling lambat enam bulan sebelum hari pemungutan suara",PenyerahanDP4,
+34,Sebutkan jenis perlengkapan yang dibutuhkan untuk Pemungutan Suara:,NOMOR 6 TAHUN 2015   Bab 2 Pasal 4 ,"Jenis pelengkapan yang dibutuhkan untuk pemungutan suara:
+a. Kotak Suara
+b. Surat Suara
+c. Tinta
+d. Bilik Pemungutan Suara
+e. Segel
+f. Alat Untuk memberi tanda pilihan
+g. TPS","Jenis pelengkapan yang dibutuhkan untuk pemungutan suara:
+a. Kotak Suara
+b. Surat Suara
+c. Tinta
+d. Bilik Pemungutan Suara
+e. Segel
+f. Alat Untuk memberi tanda pilihan
+g. TPS",PerlengkapanPemungutanSuara,
+35,"Setiap pasangan calon mempunyai hak, kesempatan, dan perlakuan yang adil dan setara dalam Kampanye. Bagaimanakah prinsip-prinsip dalam berkampanye:",NOMOR 7 TAHUN 2015   Bab 1 Pasal 4 ,"Prinsip-Prinsip dalam berkampanye: Jujur, terbuka dan dialogis","Prinsip-Prinsip dalam berkampanye: Jujur, terbuka dan dialogis",PrinsipKampanye,
+36,Pelaksanaan Kampanye yang dilaksanakan oleh KPU Provinsi/KIP Aceh atau KPU/KIP Kabupaten Kota dilaksanakan dengan metode:,NOMOR 7 TAHUN 2015   Bab 2 Pasal 5 ,"Pelaksanaan Kampanye yang dilaksanakan oleh KPU Provinsi/KIP Aceh atau KPU/KIP Kabupaten Kota dilaksanakan dengan metode
+a. Debat publik atau debat terbuka antar pasangan calon
+b. Penyebaran Bahan Kampanye kepada Umum
+c. Pemasangan Alat Peraga Kampanye
+d. Iklan di media massa cetak dan/atau media massa elektronik","Metode berkampanye dapat dilakukan dengan debat publik penyebaran bahan kampanye, pemasangan alat peraga dan iklan di media masa",MetodeKampanye,
+37,"Dana Kampanye Pasangan Calon dari Partai Politik atau Gabungan Partai Politik, bersumber dari",NOMOR 8 TAHUN 2015   Bab 2 Pasal 4,"Dana Kampanye Pasangan Calon dari Partai Politik atau Gabungan Partai Politik, bersumber dari
+a. Pasangan Calon
+b. Partai Poltik atau Gabungan Partai Politik Pengusul dan/atau
+c. Sumbangan yang sah menurut hukum dari pihak lain","Sumber dana kampanye dapat berasal dari pasangan calon, partai politik atau gabungan partai politik dan sumbangah yang sah menurut undang-undang",DanaKampanye,
+38,Pasangan Calon wajib menyusun dan menyampaikan laporan dana kampanye yang terdiri atas:,NOMOR 8 TAHUN 2015   Bab 2 Pasal 21,"Pasangan Calon wajib menyusun dan menyampaikan laporan dana kampanye yang terdiri atas:
+a. LDK (Laporan Dana  Awal Kampanye)
+b. LPSDK (Laporan Penerimaan Sumbangan Dana Kampanya
+c. LPPDK (Laporan Penerimaan dan Pengeluaran Dana Kampanye","Pasangan Calon wajib menyusun dan menyampaikan laporan dana kampanye yang terdiri atas Laporan Dana 
+1) Awal Kampanye, Laporan Penerimaan  sumbangan Dana
+2) Kampanye dan Laporan Penerimaan dan Pengeluaran
+3) Dana Kampanye
+",DanaKampanye,
+39,Berapakah usia paling rendah Calon Gubernur dan Wakil Gubernur  dan usia paling rendah Untuk Calon Bupati dan Calon Wakil Bupati,NOMOR 9 TAHUN 2015   Bab 2 Pasal 4,"usia paling rendah Calon Gubernur dan Wakil Gubernur  dan usia paling rendah Untuk Calon Bupati dan Calon Wakil Bupati
+
+30 Tahun untuk Calon Gubernur dan Wakil Gubernur
+25 Tahun untuk Calon Bupati dan Wakil Bupati",usia paling rendah Calon Gubernur dan Wakil Gubernur adalah 30 Tahun  dan usia paling rendah Untuk Calon Bupati dan Calon Wakil Bupati adalah 25 Tahun,BatasUsiaCalon,
