@@ -1,0 +1,5 @@
+id,candidate_id,kind,name,gender,pob,dob,address,work,status
+1,1240,CALON,"Drs. Rasiyo, MSi",L,Madiun,1951-12-17,Semolowaru Selatan 3/15,Pensiunan,0
+2,253,CALON,"DR (H.C) IR. Tri Rismaharini, MT",P,KEDIRI,1961-11-20,PDIP,WALIKOTA SURABAYA,0
+3,1240,WAKIL,Dra. Lucy Kurniasari,P,Surabaya,1962-02-04,,,0
+4,253,WAKIL,"Whisnu Sakti Buana, ST",L,SURABAYA,1974-10-22,PDIP,WAKIL WALIKOTA SURABAYA,0
