@@ -1,0 +1,45 @@
+id,Name,parent_id
+1,INDEKS DEMOKRASI INDONESIA,0
+2,I. KEBEBASAN SIPIL,0
+3,Kebebasan Berkumpul dan Berserikat,2
+4,Jumlah ancaman kekerasan atau penggunaan kekerasan oleh aparat pemerintah yang menghambat kebebasan berkumpul dan berserikat,3
+5,Jumlah ancaman kekerasan atau penggunaan kekerasan oleh masyarakat yang menghambat kebebasan berkumpul dan berserikat,3
+6,Kebebasan Berpendapat,2
+7,Jumlah ancaman kekerasan atau penggunaan kekerasan oleh aparat pemerintah yang menghambat kebebasan berpendapat,6
+8,Jumlah ancaman kekerasan atau penggunaan kekerasan oleh masyarakat yang menghambat kebebasan berpendapat,6
+9,Kebebasan Berkeyakinan,2
+10,Jumlah aturan tertulis yang membatasi kebebasan atau mengharuskan masyarakat dalam  menjalankan agamanya,9
+11,Jumlah tindakan atau pernyataan pejabat Pemerintah yang membatasi kebebasan atau mengharuskan masyarakat menjalankan ajaran agamanya ,9
+12,Jumlah ancaman kekerasan atau penggunaan kekerasan dari satu kelompok masyarakat terhadap kelompok masyarakat lain terkait dengan ajaran agama,9
+13,Kebebasan dari Diskriminasi,2
+14,"Jumlah aturan tertulis yang diskriminatif dalam hal gender, etnis atau terhadap kelompok rentan lainnya",13
+15,"Jumlah tindakan atau pernyataan pejabat pemerintah daerah yang diskriminatif dalam hal gender, etnis atau terhadap kelompok rentan lainnya",13
+16,"Jumlah ancaman kekerasan atau penggunaan kekerasan oleh masyarakat karena alasan gender, etnis atau terhadap kelompok rentan lainnya",13
+17,II. HAK-HAK POLITIK,0
+18,Hak Memilih dan Dipilih,17
+19,Jumlah kejadian di mana hak memilih atau dipilih masyarakat terhambat ,18
+20,Jumlah kejadian yang menunjukkan ketiadaan/kekurangan fasilitas sehingga kelompok penyandang cacat tidak dapat menggunakan hak memilih,18
+21,Kualitas daftar pemilih tetap (DPT),18
+22,Persentase penduduk yang menggunakan hak pilih dibandingkan dengan yang memiliki hak untuk memilih dalam pemilu (voters turnout),18
+23,Persentase anggota perempuan terhadap total anggota DPRD provinsi dan kabupaten/kota,18
+24,Partisipasi Politik dalam Pengambilan Keputusan dan Pengawasan,17
+25,Jumlah demonstrasi/mogok yang bersifat kekerasan,24
+26,Jumlah pengaduan masyarakat mengenai penyelenggaraan pemerintahan,24
+27,III. LEMBAGA DEMOKRASI,0
+28,Pemilu yang Bebas dan Adil,27
+29,Jumlah kejadian yang menunjukkan keberpihakan KPUD dalam penyelenggaraan pemilu,28
+30,Jumlah kejadian atau pelaporan tentang kecurangan dalam penghitungan suara,28
+31,Peran DPRD,27
+32,Persentase alokasi anggaran pendidikan thd total APBD,31
+33,Persentase alokasi anggaran kesehatan thd total APBD,31
+34,Persentase jumlah perda yang berasal dari hak inisiatif DPRD terhadap jumlah total perda yang dihasilkan,31
+35,Jumlah rekomendasi DPRD kepada eksekutif ,31
+36,Peran Partai Politik,27
+37,Jumlah kegiatan kaderisasi yang dilakukan parpol peserta pemilu,36
+38,Persentase perempuan dalam kepengurusan parpol tingkat provinsi,36
+39,Peran Birokrasi Pemerintah Daerah,27
+40,Jumlah laporan dan berita penggunaan fasilitas pemerintah untuk kepentingan calon/parpol tertentu dalam pemilu legislatif,39
+41,Jumlah laporan dan berita keterlibatan PNS dalam kegiatan politik parpol pada pemilu legislatif,39
+42,Peran Peradilan yang Independen,27
+43,Jumlah keputusan hakim yang kontroversial,42
+44,Jumlah penghentian penyidikan yang kontroversial oleh jaksa atau polisi,42
