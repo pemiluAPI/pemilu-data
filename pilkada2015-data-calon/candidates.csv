@@ -13,7 +13,7 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 12,14,15711,663,PARPOL,"Partai Hati Nurani Rakyat, Partai Gerindra, Partai NasDem, Partai Golkar",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=663
 13,14,15711,458,PARPOL,"Partai Demokrat, Partai Keadilan Sejahtera, Partai Kebangkitan Bangsa",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=458
 14,15,16073,983,PARPOL,"Partai Amanat Nasional, Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera, NASDEM, PARTAI KEADILAN DAN PERSATUAN INDONESIA",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,2,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=983
-15,16,16073,583,PARPOL,"PDI Perjuangan, Partai Kebangkitan Bangsa, Partai Demokrat, PARTAI BULAN BINTANG, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=583
+15,15,16073,583,PARPOL,"PDI Perjuangan, Partai Kebangkitan Bangsa, Partai Demokrat, PARTAI BULAN BINTANG, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=583
 16,13,13864,754,PARPOL,"Partai Gerindra, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=754
 17,13,13864,755,PARPOL,"Partai Demokrat, Partai Hati Nurani Rakyat, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=755
 18,12,9187,1206,PARPOL,"Partai Hati Nurani Rakyat, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1206
@@ -47,33 +47,33 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 46,19,26576,422,PARPOL,"Partai Demokrat, Partai Persatuan Pembangunan, Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera, Partai Nasional Demokrat, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=422
 47,19,26576,423,PARPOL,"PDI Perjuangan, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=423
 48,51,55256,859,PARPOL,Partai Demokrasi Indonesia Perjuangan,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=859
-49,52,55256,861,PARPOL,"Partai Demokrat, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=861
+49,51,55256,861,PARPOL,"Partai Demokrat, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=861
 50,63,64768,207,PERORANGAN,,,,,,,41562,21668,Tidak diset,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=207
-51,64,64768,1245,PARPOL,Partai Golkar,KURSI,DITOLAK,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1245
-52,65,64768,452,PARPOL,"Partai Kebangkitan Bangsa, Partai NasDem, Partai Kesejahteraan dan Persatuan Indonesia",KURSI,DITERIMA,TIDAK LENGKAP,MEMENUHI SYARAT,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=452
-53,66,64768,519,PARPOL,"Partai Gerindra, PDI Perjuangan, Partai Demokrat, Partai Amanat Nasional, Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera",KURSI,DITERIMA,TIDAK LENGKAP,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=519
+51,63,64768,1245,PARPOL,Partai Golkar,KURSI,DITOLAK,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1245
+52,63,64768,452,PARPOL,"Partai Kebangkitan Bangsa, Partai NasDem, Partai Kesejahteraan dan Persatuan Indonesia",KURSI,DITERIMA,TIDAK LENGKAP,MEMENUHI SYARAT,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=452
+53,63,64768,519,PARPOL,"Partai Gerindra, PDI Perjuangan, Partai Demokrat, Partai Amanat Nasional, Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera",KURSI,DITERIMA,TIDAK LENGKAP,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=519
 54,34,43506,961,PARPOL,"Partai Gerindra, Partai Kebangkitan Bangsa",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=961
-55,35,43506,276,PARPOL,"PDI Perjuangan, NASDEM",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=276
+55,34,43506,276,PARPOL,"PDI Perjuangan, NASDEM",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=276
 56,35,46475,553,PARPOL,"PDI Perjuangan, Partai Gerindra, Partai Nasdem, Partai Keadilan Sejahtera, Partai Amanat Nasional",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,2,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=553
-57,36,46475,790,PARPOL,"Partai Golkar, Partai Hati Nurani Rakyat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=790
+57,35,46475,790,PARPOL,"Partai Golkar, Partai Hati Nurani Rakyat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=790
 58,73,73920,1026,PARPOL,"NASDEM, Partai Demokrat, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1026
-59,74,73920,561,PARPOL,"PDI Perjuangan, Partai Golkar",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=561
-60,75,73920,548,PARPOL,"Partai Persatuan Pembangunan, Partai Keadilan Sejahtera, Partai Hati Nurani Rakyat, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=548
+59,73,73920,561,PARPOL,"PDI Perjuangan, Partai Golkar",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=561
+60,73,73920,548,PARPOL,"Partai Persatuan Pembangunan, Partai Keadilan Sejahtera, Partai Hati Nurani Rakyat, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=548
 61,15,17401,242,PARPOL,"NASDEM, Partai Kebangkitan Bangsa, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=242
-62,16,17401,1032,PARPOL,"Partai Demokrat, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1032
-63,17,17401,598,PARPOL,"Partai Gerindra, Partai Golkar",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=598
-64,18,17401,318,PARPOL,"PDI Perjuangan, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=318
+62,15,17401,1032,PARPOL,"Partai Demokrat, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1032
+63,15,17401,598,PARPOL,"Partai Gerindra, Partai Golkar",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=598
+64,15,17401,318,PARPOL,"PDI Perjuangan, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=318
 65,19,26717,931,PARPOL,"NASDEM, PDI Perjuangan",KURSI,DITERIMA,,,,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=931
-66,20,26717,1155,PARPOL,"Partai Bulan Bintang, Partai Gerindra, Partai Golkar",,,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1155
-67,21,26717,934,PARPOL,"Partai Keadilan Sejahtera, Partai Hati Nurani Rakyat",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=934
+66,19,26717,1155,PARPOL,"Partai Bulan Bintang, Partai Gerindra, Partai Golkar",,,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1155
+67,19,26717,934,PARPOL,"Partai Keadilan Sejahtera, Partai Hati Nurani Rakyat",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=934
 68,53,57621,855,PARPOL,"Partai Demokrat, Partai Gerindra, Partai Golkar, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=855
-69,54,57621,857,PARPOL,"Partai Kebangkitan Bangsa, Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=857
-70,55,57621,1159,PARPOL,"Partai NasDem, PDI Perjuangan",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1159
+69,53,57621,857,PARPOL,"Partai Kebangkitan Bangsa, Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=857
+70,53,57621,1159,PARPOL,"Partai NasDem, PDI Perjuangan",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1159
 71,14,15158,1187,PARPOL,"Partai Nasional Demokrat, PDI Perjuangan, Partai Keadilan Dan Persatuan Indonesia, Partiai Amanat Nasional",,,,,,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1187
-72,15,15158,1188,PARPOL,"Partai Demokrat, PDI Perjuangan",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1188
-73,16,15158,486,PARPOL,"Partai Keadilan Sejahtera, Partai Kebangkitan Bangsa, Partai Bulan Bintang, Partai Keadilan Dan Persatuan Indonesia, Partai Nasdem",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=486
+72,14,15158,1188,PARPOL,"Partai Demokrat, PDI Perjuangan",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1188
+73,14,15158,486,PARPOL,"Partai Keadilan Sejahtera, Partai Kebangkitan Bangsa, Partai Bulan Bintang, Partai Keadilan Dan Persatuan Indonesia, Partai Nasdem",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=486
 74,61,61841,464,PARPOL,"Partai Nasional Demokrat, Partai Gerindra, Partai Amanat Nasional, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,2,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=464
-75,62,61841,481,PARPOL,PDI Perjuangan,KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=481
+75,61,61841,481,PARPOL,PDI Perjuangan,KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=481
 76,17,21842,850,PARPOL,"Partai Demokrat, Partai NasDem",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=850
 77,17,21842,851,PARPOL,"Partai Persatuan Pembangunan, Partai Keadilan Sejahtera, Partai Golkar",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=851
 78,17,21842,520,PARPOL,"PDI Perjuangan, Partai Hati Nurani Rakyat, Partai Keadilan Dan Persatuan Indonesia",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,1,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=520
@@ -82,11 +82,11 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 81,17,22184,38,PARPOL,"Partai Gerindra, PDI Perjuangan, PARTAI BULAN BINTANG, Partai Demokrat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=38
 82,17,22184,374,PARPOL,"NASDEM, PARTAI KEADILAN DAN PERSATUAN INDONESIA, Partai Kebangkitan Bangsa",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=374
 83,64,66981,666,PARPOL,"Partai Persatuan Pembangunan, Partai Demokrat, Partai Gerindra, PDI Perjuangan",KURSI,DITERIMA,,,,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=666
-84,65,66981,544,PARPOL,"Partai Keadilan Sejahtera, Partai Bulan Bintang, Partai Amanat Nasional",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=544
+84,64,66981,544,PARPOL,"Partai Keadilan Sejahtera, Partai Bulan Bintang, Partai Amanat Nasional",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=544
 85,52,56467,309,PARPOL,"NASDEM, PDI Perjuangan, Partai Demokrat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=309
-86,53,56467,209,PARPOL,"Partai Amanat Nasional, Partai Kebangkitan Bangsa, PARTAI BULAN BINTANG",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=209
-87,54,56467,67,PERORANGAN,,,,,,,39041,15290,44035,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=67
-88,55,56467,1033,PARPOL,"Partai Golkar, Partai Gerindra, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1033
+86,52,56467,209,PARPOL,"Partai Amanat Nasional, Partai Kebangkitan Bangsa, PARTAI BULAN BINTANG",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=209
+87,52,56467,67,PERORANGAN,,,,,,,39041,15290,44035,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=67
+88,52,56467,1033,PARPOL,"Partai Golkar, Partai Gerindra, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1033
 89,21,26815,715,PARPOL,"PDI Perjuangan, Partai Amanat Nasional, Partai Hati Nurani Rakyat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=715
 90,21,26815,722,PARPOL,"Partai Nasional Demokrat, Partai Demokrat, Partai Keadilan Sejahtera",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=722
 91,33,39074,1044,PARPOL,"Partai Golkar, Partai Demokrat",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1044
@@ -98,11 +98,11 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 97,71,69819,1200,PARPOL,"Partai Amanat Nasional, Partai Gerindra, Partai Demokrat, Partai Kebangkitan Bangsa",KURSI,DITERIMA,LENGKAP,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1200
 98,71,69819,1201,PARPOL,"Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1201
 99,75,78559,826,PARPOL,"Partai Golkar, PARTAI BULAN BINTANG",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=826
-100,76,78559,1007,PARPOL,"Partai Amanat Nasional, PARTAI KEADILAN DAN PERSATUAN INDONESIA",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,2,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1007
-101,77,78559,806,PARPOL,"Partai Keadilan Sejahtera, Partai Demokrat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=806
-102,78,78559,1009,PARPOL,"Partai Persatuan Pembangunan, Partai Hati Nurani Rakyat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1009
-103,79,78559,815,PARPOL,"PDI Perjuangan, Partai Gerindra",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=815
-104,80,78559,28,PERORANGAN,,,,,,,19761,Tidak diset,Tidak diset,A,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=28
+100,75,78559,1007,PARPOL,"Partai Amanat Nasional, PARTAI KEADILAN DAN PERSATUAN INDONESIA",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,2,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1007
+101,75,78559,806,PARPOL,"Partai Keadilan Sejahtera, Partai Demokrat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=806
+102,75,78559,1009,PARPOL,"Partai Persatuan Pembangunan, Partai Hati Nurani Rakyat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1009
+103,75,78559,815,PARPOL,"PDI Perjuangan, Partai Gerindra",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=815
+104,75,78559,28,PERORANGAN,,,,,,,19761,Tidak diset,Tidak diset,A,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=28
 105,91,86129,698,PARPOL,"Partai Gerindra, Partai Hati Nurani Rakyat, Partai Golkar",KURSI,DITERIMA,TIDAK LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=698
 106,91,86129,682,PERORANGAN,,,,,,,6090,4808,4494,A,A,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=682
 107,91,86129,1124,PARPOL,"Partai Demokrasi Indonesia Perjuangan, Partai Persatuan Pembangunan",KURSI,DITERIMA,TIDAK LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1124
@@ -174,8 +174,8 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 173,63,65605,448,PARPOL,"PDI Perjuangan, Partai Amanat Nasional, Partai Nasdem, Partai Hati Nurani Rakyat, Partai Keadilan Dan Persatuan Indonesia",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=448
 174,63,65605,449,PARPOL,"Partai Gerindra, Partai Keadilan Sejahtera, Partai Bulan Bintang",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=449
 175,12,10925,571,PARPOL,"Partai Kebangkitan Bangsa, PDI Perjuangan, Partai Gerindra, Partai Amanat Nasional, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=571
-176,13,10925,43,PERORANGAN,,,,,,,22876,Tidak diset,19901,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=43
-177,14,10925,45,PERORANGAN,,,,,,,26315,0,23179,A,A,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=45
+176,12,10925,43,PERORANGAN,,,,,,,22876,Tidak diset,19901,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=43
+177,12,10925,45,PERORANGAN,,,,,,,26315,0,23179,A,A,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=45
 178,14,14949,617,PARPOL,"PDI Perjuangan, Partai Keadilan Sejahtera, Partai Amanat Nasional, PARTAI KEADILAN DAN PERSATUAN INDONESIA",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=617
 179,14,14949,317,PARPOL,"Partai Hati Nurani Rakyat, Partai Gerindra, Partai Demokrat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,1,,1,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=317
 180,32,31958,160,PARPOL,"PDI Perjuangan, Partai Kebangkitan Bangsa, Partai Nasional Demokrat",KURSI,DITERIMA,TIDAK LENGKAP,,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=160
@@ -185,7 +185,7 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 184,51,54844,848,PARPOL,PDI Perjuangan,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,2,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=848
 185,51,54844,849,PARPOL,"Partai Hati Nurani Rakyat, Partai Kebangkitan Bangsa, NASDEM",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=849
 186,92,89235,686,PARPOL,"Partai Demokrat, Partai NasDem",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=686
-187,93,89235,1112,PARPOL,"Partai Amanat Nasional, Partai Gerindra",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1112
+187,92,89235,1112,PARPOL,"Partai Amanat Nasional, Partai Gerindra",KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1112
 188,61,61535,469,PARPOL,"PDI Perjuangan, Partai Demokrat, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=469
 189,61,61535,478,PARPOL,"Partai Nasional Demokrat, Partai Kebangkitan Bangsa, Partai Keadilan Sejahtera, Partai Gerindra, Partai Amanat Nasional, Partai Persatuan Pembangunan, PARTAI KEADILAN DAN PERSATUAN INDONESIA",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=478
 190,51,55333,867,PARPOL,Partai Demokrasi Indonesia Perjuangan,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=867
@@ -208,9 +208,9 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 207,12,8042,972,PARPOL,"Partai Demokrat, Partai Amanat Nasional",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=972
 208,12,8042,973,PERORANGAN,,,,,,,23326,Tidak diset,Tidak diset,A,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=973
 209,17,22422,299,PARPOL,"Partai NasDem, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=299
-210,18,22422,84,PERORANGAN,,,,,,,16324,13279,13279,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=84
-211,19,22422,1167,PARPOL,"Partai Kebangkitan Bangsa, Partai Bulan Bintang",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1167
-212,20,22422,1173,PARPOL,"Partai Golkar, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1173
+210,17,22422,84,PERORANGAN,,,,,,,16324,13279,13279,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=84
+211,17,22422,1167,PARPOL,"Partai Kebangkitan Bangsa, Partai Bulan Bintang",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1167
+212,17,22422,1173,PARPOL,"Partai Golkar, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1173
 213,33,35462,901,PARPOL,"Partai Golkar, Partai NasDem, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=901
 214,33,35462,902,PARPOL,"Partai Gerindra, Partai Demokrat, Partai Kebangkitan Bangsa, Partai Amanat Nasional",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=902
 215,33,35462,907,PARPOL,"Partai Demokrasi Indonesia Perjuangan, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=907
@@ -230,7 +230,7 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 229,81,80691,450,PARPOL,"Partai Nasdem, Partai Keadilan Sejahtera, Partai Demokrat, Partai Keadilan Dan Persatuan Indonesia",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=450
 230,81,80691,451,PARPOL,"PDI Perjuangan, Partai Amanat Nasional, Partai Hati Nurani Rakyat",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=451
 231,14,16464,1137,PARPOL,"PDI Perjuangan, Partai Hati Nurani Rakyat",KURSI,DITERIMA,TIDAK LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1137
-232,15,16464,1138,PARPOL,"Partai Kebangkitan Bangsa, Partai Gerindra, Partai Demokrat, Partai Keadilan Sejahtera, Partai Amanat Nasional, Partai Persatuan Pembangunan, Partai Bulan Bintang",KURSI,DITERIMA,TIDAK LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1138
+232,14,16464,1138,PARPOL,"Partai Kebangkitan Bangsa, Partai Gerindra, Partai Demokrat, Partai Keadilan Sejahtera, Partai Amanat Nasional, Partai Persatuan Pembangunan, Partai Bulan Bintang",KURSI,DITERIMA,TIDAK LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1138
 233,73,72451,249,PARPOL,"Partai Gerindra, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=249
 234,73,72451,251,PARPOL,"NASDEM, Partai Demokrat, PDI Perjuangan",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=251
 235,73,72451,819,PARPOL,"Partai Amanat Nasional, Partai Hati Nurani Rakyat, Partai Kebangkitan Bangsa",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=819
@@ -492,10 +492,10 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 491,18,25554,1178,PERORANGAN,,,,,,,41203,54003,65105,A,A,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1178
 492,18,25554,1180,PARPOL,"PDI Perjuangan, Partai Demokrat, Partai Gerindra, Partai Amanat Nasional, Partai Keadilan Sejahtera",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1180
 493,18,25554,76,PERORANGAN,,,,,,,67308,0,54025,A,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=76
-494,19,26067,593,PARPOL,"PDI Perjuangan, PARTAI KEADILAN DAN PERSATUAN INDONESIA",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=593
-495,20,26067,949,PARPOL,"NASDEM, Partai Amanat Nasional, Partai Kebangkitan Bangsa",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=949
-496,21,26067,952,PARPOL,"Partai Demokrat, PARTAI BULAN BINTANG, Partai Keadilan Sejahtera",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=952
-497,22,26067,90,PERORANGAN,,,,,,,24478,Tidak diset,Tidak diset,A,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=90
+494,18,26067,593,PARPOL,"PDI Perjuangan, PARTAI KEADILAN DAN PERSATUAN INDONESIA",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=593
+495,18,26067,949,PARPOL,"NASDEM, Partai Amanat Nasional, Partai Kebangkitan Bangsa",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,1,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=949
+496,18,26067,952,PARPOL,"Partai Demokrat, PARTAI BULAN BINTANG, Partai Keadilan Sejahtera",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=952
+497,18,26067,90,PERORANGAN,,,,,,,24478,Tidak diset,Tidak diset,A,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=90
 498,13,13339,761,PARPOL,"Partai Gerindra, Partai Amanat Nasional, Partai NasDem",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=761
 499,13,13339,767,PARPOL,"Partai Hati Nurani Rakyat, Partai Demokrasi Indonesia Perjuangan, Partai Bulan Bintang, Partai Kebangkitan Bangsa",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=767
 500,13,13339,845,PARPOL,"Partai Golkar, Partai Keadilan Sejahtera",KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,LENGKAP,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=845
@@ -806,3 +806,67 @@ id,province_id,region_id,id_participant,endorsement_type,endorsement,vote_type,a
 805,71,68250,325,PARPOL,PDI Perjuangan,KURSI,DITERIMA,,,,,,,,,0,,0,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=325
 806,13,13338,877,PARPOL,"NASDEM, Partai Amanat Nasional, PDI Perjuangan, Partai Hati Nurani Rakyat",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=877
 807,13,13338,399,PARPOL,"Partai Keadilan Sejahtera, Partai Gerindra",KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,1,,0,Ya,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=399
+808,35,44903,1062,PARPOL,PDI Perjuangan Partai Gerindra,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1062
+809,92,88552,1100,PARPOL,Partai Demokrat PDI Perjuangan Partai NasDem Partai Hati Nurani Rakyat Partai Amanat Nasional Partai Bulan Bintang,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1100
+810,92,88552,1101,PARPOL,Partai Kebangkitan Bangsa Partai Gerindra,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1101
+811,92,88552,1102,PARPOL,Partai Golkar,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1102
+812,92,88552,1103,PARPOL,Partai Golkar,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1103
+813,12,10925,1284,PARPOL,Partai Golkar,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1284
+814,51,54844,852,PARPOL,Partai Golkar Partai Demokrat Partai Gerindra,KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=852
+815,92,89235,691,PARPOL,Partai Demokrasi Indonesia Perjuangan Partai Kebangkitan Bangsa Partai Hati Nurani Rakyat,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=691
+816,17,23134,1250,PARPOL,Partai Keadilan Dan Persatuan Indonesia,KURSI,DITOLAK,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1250
+817,81,80691,1066,PARPOL,Partai Golkar Partai Gerindra,KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1066
+818,81,80691,1068,PARPOL,Partai Kebangkitan Bangsa Partai Persatuan Pembangunan,KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1068
+819,33,37422,880,PARPOL,Partai Gerindra Partai Keadilan Sejahtera Partai Hati Nurani Rakyat,KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=880
+820,76,79133,1031,PARPOL,Partai Demokrat,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1031
+821,71,69121,1212,PARPOL,Partai Gerindra Partai Demokrat,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1212
+822,71,69121,390,PARPOL,PDI Perjuangan,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=390
+823,71,69121,1256,PARPOL,Partai Golkar,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1256
+824,91,83188,1226,PARPOL,Partai NasDem Partai Golkar,KURSI,DITOLAK,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1226
+825,64,66570,532,PARPOL,Partai Persatuan Pembangunan Partai Gerindra PARTAI BULAN BINTANG Partai Demokrat,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=532
+826,13,13339,843,PARPOL,Partai Demokrat Partai Persatuan Pembangunan,KURSI,DITERIMA,TIDAK LENGKAP,BELUM MEMENUHI SYARAT,TIDAK LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=843
+827,91,86683,771,PARPOL,Partai Golkar Partai Keadilan Sejahtera,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=771
+828,65,68187,950,PARPOL,Partai NasDem Partai Hati Nurani Rakyat,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=950
+829,32,29721,822,PARPOL,PDI Perjuangan Partai Golkar Partai Amanat Nasional Partai Keadilan Sejahtera,KURSI,DITERIMA,TIDAK LENGKAP,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=822
+830,53,57403,890,PARPOL,PDI Perjuangan,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=890
+831,51,55578,664,PARPOL,Partai Golkar Partai Gerindra Partai Demokrat,KURSI,DITERIMA,LENGKAP,BELUM MEMENUHI SYARAT,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=664
+832,12,13230,1004,PARPOL,Partai Gerindra Partai Golkar Partai Amanat Nasional,KURSI,DITOLAK,TIDAK LENGKAP,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1004
+833,35,52914,1271,PARPOL,Partai Demokrat Partai Amanat Nasional,,,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1271
+834,35,52914,1240,PARPOL,Partai Demokrat Partiai Amanat Nasional,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1240
+835,35,52914,253,PARPOL,PDI Perjuangan,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=253
+836,71,68250,1285,PARPOL,Partai Golkar Partai Keadilan Sejahtera Partai Keadilan dan Persatuan Indonesia,KURSI,DITERIMA,LENGKAP,MEMENUHI SYARAT,LENGKAP,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1285
+837,71,68250,738,PARPOL,Partai Golkar Partai Keadilan Sejahtera Partai Kesejahteraan dan Persatuan Indonesia,KURSI,DITERIMA,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=738
+838,71,69906,653,PERORANGAN,,,,,,,6923,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=653
+839,75,78559,30,PERORANGAN,,,,,,,15793,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=30
+840,91,86129,674,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=674
+841,33,37135,27,PERORANGAN,,,,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=27
+842,73,72551,717,PERORANGAN,,,,,,,,,,,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=717
+843,12,12428,49,PERORANGAN,,,,,,,35294,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=49
+844,18,25023,937,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=937
+845,17,23017,144,PERORANGAN,,,,,,,11084,1769,Tidak diset,A,A,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=144
+846,52,55760,11,PERORANGAN,,,,,,,71516,72251,Tidak diset,A,D,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=11
+847,53,58824,1202,PERORANGAN,,,,,,,27543,26201,Tidak diset,A,A,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1202
+848,74,76290,1099,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1099
+849,53,58660,12,PERORANGAN,,,,,,,16309,4058,Tidak diset,A,C,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=12
+850,75,78743,50,PERORANGAN,,,,,,,13258,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=50
+851,64,66570,533,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=533
+852,64,66570,534,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=534
+853,16,21386,562,PERORANGAN,,,,,,,16189,Tidak diset,Tidak diset,A,A,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=562
+854,17,22012,1125,PERORANGAN,,,,,,,1,307,7655,A,D,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1125
+855,17,22012,1126,PERORANGAN,,,,,,,1,6602,16598,A,D,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1126
+856,72,71995,1050,PERORANGAN,,,,,,,24494,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=1050
+857,12,8742,129,PERORANGAN,,,,,,,66305,36863,68730,A,A,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=129
+858,13,14219,58,PERORANGAN,,,,,,,19950,6111,16992,A,A,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=58
+859,73,73983,74,PERORANGAN,,,,,,,22392,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=74
+860,52,56677,294,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=294
+861,12,9683,82,PERORANGAN,,,,,,,21437,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=82
+862,64,67582,85,PERORANGAN,,,,,,,55068,21653,26665,A,C,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=85
+863,64,67582,86,PERORANGAN,,,,,,,55245,33248,34387,A,C,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=86
+864,71,70092,165,PERORANGAN,,,,,,,22126,27574,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=165
+865,71,69993,883,PERORANGAN,,,,,,,42872,23956,36564,A,C,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=883
+866,33,43340,336,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=336
+867,12,12939,168,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=168
+868,12,12939,169,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=169
+869,12,12939,170,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=170
+870,12,12939,173,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=173
+871,12,12939,177,PERORANGAN,,,,,,,1,Tidak diset,Tidak diset,A,,,,,,http://infopilkada.kpu.go.id/index.php?r=dashboard/paslondetil&id=177
