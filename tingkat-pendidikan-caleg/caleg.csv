@@ -1,13 +1,13 @@
-id,peserta,sma/sederajat,d3/akademi,d4/s1,s2,s3
-1,Nasdem,-,-,2,-,-
-2,PKB,1,-,3,1,-
-3,PKS,1,-,2,2,-
-4,PDIP,2,-,8,5,-
-5,Golkar,1,-,2,1,-
-6,Gerindra,1,-,3,-,1
-7,Demokrat,2,-,3,-,1
-8,PAN,-,-,3,1,-
-9,PPP,-,-,1,-,-
-10,Hanura,1,-,2,-,-
-11,PBB,-,-,-,-,-
-12,PKPI,-,-,-,-,-
+id,peserta,nama_lengkap,sma/sederajat,d3/akademi,d4/s1,s2,s3
+1,Nasdem,Partai Nasional Demokrat,-,-,2,-,-
+2,PKB,Partai Kebangkitan Bangsa,1,-,3,1,-
+3,PKS,Partai Keadilan Sejahtera,1,-,2,2,-
+4,PDIP,Partai Demokrasi Indonesia Perjuangan,2,-,8,5,-
+5,Golkar,Partai Golongan Karya,1,-,2,1,-
+6,Gerindra,Partai Gerakan Indonesia Raya,1,-,3,-,1
+7,Demokrat,Partai Demokrat,2,-,3,-,1
+8,PAN,Partai Amanat Nasional,-,-,3,1,-
+9,PPP,Partai Persatuan Pembangunan,-,-,1,-,-
+10,Hanura,Partai Hati Nurani Rakyat,1,-,2,-,-
+11,PBB,Partai Bulan Bintang,-,-,-,-,-
+12,PKPI,Partai Keadilan dan Persatuan Indonesia,-,-,-,-,-
