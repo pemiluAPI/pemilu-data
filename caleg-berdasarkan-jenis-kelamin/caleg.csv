@@ -1,13 +1,13 @@
-id,Peserta,Laki - laki,Perempuan
-1,Partai Nasional Demokrat (Nasdem),32,18
-2,Partai Kebangkitan Bangsa (PKB),33,17
-3,Partai Keadilan Sejahtera (PKS),33,17
-4,Partai Demokrasi Indonesia Perjuangan (PDIP),33,17
-5,Partai Golongan Karya (Golkar),33,17
-6,Partai Gerakan Indonesia Raya (Gerindra),33,17
-7,Partai Demokrat,33,17
-8,Partai Amanat Nasional (PAN),33,17
-9,Partai Persatuan Pembangunan (PPP),33,17
-10,Partai Hati Nurani Rakyat (Hanura),31,16
-11,Partai Bulan Bintang (PBB),20,13
-12,Partai    Keadilan    dan    Persatuan    Indonesia (PKPI),32,18
+id,peserta,nama_lengkap,Laki - laki,Perempuan
+1,Nasdem,Partai Nasional Demokrat,32,18
+2,PKB,Partai Kebangkitan Bangsa,33,17
+3,PKS,Partai Keadilan Sejahtera,33,17
+4,PDIP,Partai Demokrasi Indonesia Perjuangan,33,17
+5,Golkar,Partai Golongan Karya,33,17
+6,Gerindra,Partai Gerakan Indonesia Raya,33,17
+7,Demokrat,Partai Demokrat,33,17
+8,PAN,Partai Amanat Nasional,33,17
+9,PPP,Partai Persatuan Pembangunan,33,17
+10,Hanura,Partai Hati Nurani Rakyat,31,16
+11,PBB,Partai Bulan Bintang,20,13
+12,PKPI,Partai Keadilan dan Persatuan Indonesia,32,18
