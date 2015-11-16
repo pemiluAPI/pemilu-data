@@ -1,13 +1,13 @@
-id,peserta,dapil_1,dapil_2,dapil_3,dapil_4,dapil_5
-1,NasDem,-,1,-,-,1
-2,PKB,1,1,1,1,1
-3,PKS,1,1,1,1,1
-4,PDIP,4,3,3,3,2
-5,Golkar,1,1,1,1,-
-6,Gerindra,1,1,1,1,1
-7,Demokrat,1,1,1,1,2
-8,PAN,1,1,1,1,-
-9,PPP,-,1,-,-,-
-10,Hanura,1,-,-,1,1
-11,PBB,-,-,-,-,-
-12,PKPI,-,-,-,-,-
+id,peserta,nama_lengkap,dapil_1,dapil_2,dapil_3,dapil_4,dapil_5
+1,Nasdem,Partai Nasional Demokrat,-,1,-,-,1
+2,PKB,Partai Kebangkitan Bangsa,1,1,1,1,1
+3,PKS,Partai Keadilan Sejahtera,1,1,1,1,1
+4,PDIP,Partai Demokrasi Indonesia Perjuangan,4,3,3,3,2
+5,Golkar,Partai Golongan Karya,1,1,1,1,-
+6,Gerindra,Partai Gerakan Indonesia Raya,1,1,1,1,1
+7,Demokrat,Partai Demokrat,1,1,1,1,2
+8,PAN,Partai Amanat Nasional,1,1,1,1,-
+9,PPP,Partai Persatuan Pembangunan,-,1,-,-,-
+10,Hanura,Partai Hati Nurani Rakyat,1,-,-,1,1
+11,PBB,Partai Bulan Bintang,-,-,-,-,-
+12,PKPI,Partai Keadilan dan Persatuan Indonesia,-,-,-,-,-

@@ -1,13 +1,13 @@
-id,peserta,dapil_1,dapil_2,dapil_3,dapil_4,dapil_5
-1,NasDem,8.816,12.336,7.592,9.109,15.643
-2,PKB,18.766,28.443,25.769,22.045,24.718
-3,PKS,13.554,13.574,12.902,14.613,14.293
-4,PDIP,84.602,64.75,65.254,71.985,59.729
-5,Golkar,13.832,15.534,10.246,11.36,11.971
-6,Gerindra,30.025,30.127,29.505,26.049,27.173
-7,Demokrat,24.809,23.432,23.511,28.288,40.227
-8,PAN,19.818,13.041,12.279,16.29,12.115
-9,PPP,9.292,34.79,9.618,5.694,7.534
-10,Hanura,17.794,10.451,9.848,11.473,14.241
-11,PBB,1.215,1.174,2.352,1.396,1.135
-12,PKPI,1.198,1.493,913,1.394,968
+id,peserta,nama_lengkap,dapil_1,dapil_2,dapil_3,dapil_4,dapil_5
+1,Nasdem,Partai Nasional Demokrat,8.816,12.336,7.592,9.109,15.643
+2,PKB,Partai Kebangkitan Bangsa,18.766,28.443,25.769,22.045,24.718
+3,PKS,Partai Keadilan Sejahtera,13.554,13.574,12.902,14.613,14.293
+4,PDIP,Partai Demokrasi Indonesia Perjuangan,84.602,64.75,65.254,71.985,59.729
+5,Golkar,Partai Golongan Karya,13.832,15.534,10.246,11.36,11.971
+6,Gerindra,Partai Gerakan Indonesia Raya,30.025,30.127,29.505,26.049,27.173
+7,Demokrat,Partai Demokrat,24.809,23.432,23.511,28.288,40.227
+8,PAN,Partai Amanat Nasional,19.818,13.041,12.279,16.29,12.115
+9,PPP,Partai Persatuan Pembangunan,9.292,34.79,9.618,5.694,7.534
+10,Hanura,Partai Hati Nurani Rakyat,17.794,10.451,9.848,11.473,14.241
+11,PBB,Partai Bulan Bintang,1.215,1.174,2.352,1.396,1.135
+12,PKPI,Partai Keadilan dan Persatuan Indonesia,1.198,1.493,913,1.394,968
