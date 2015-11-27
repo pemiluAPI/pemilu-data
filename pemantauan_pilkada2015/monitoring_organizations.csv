@@ -1,17 +1,17 @@
-id_monitoring,monitoring_name,leader_name,address,monitoring_counter,accreditation_num
-1307,Komite Independen Pemantau Pemilu,,,0,01/AKR-Pemantau/KPU Nabire/VIII/2015
-1306,Lembaga Independen Pemantau Demokrasi,,,0,383/KPU-Kab019.435755/XI/2015
-1296,LSM Pijar Keadilan,,,0,2254/KPU-Kab/002.434801/X/2015
-1291,klinik konsultasi bisnis mandiri,Dadik Setyo Wahyudi,"Jl. WR. Supratman no. 123,  Blitar",25,72/BA/XI/2015
-1292,Gerakan Mahasiswa Nasional Indonesia,Imam Buchori,"Jl. Riau No. 42,  Blitar",26,72/BA/XI/2015
-1302,Komite Independen Pemantau Pemilu Sidoarjo,,,0,1000/KPU_Kab_014.329888/XI/2015
-1303,LSM Grasi,,,0,370/KPU_Kab_014.329888/VI/2015
-1304,LSM Fopin,,,0,505/KPU_Kab_014.329888/VII/2016
-1305,Reclassering Indonesia,,,0,834/KPU_Kab_014.329888/X/2017
-1300,Jaringan Pendidikan Pemilih Untuk Rakyat,,,0,494/KPU-Kab/Btl.013-329.600/X/2015
-1301,Jaringan Pendidikan Pemilih Untuk Rakyat,,,0,494/KPU-Kab/Btl.013-329.600/X/2015
-1299,PT. Cyrus,,,0,001/LS/KPU Beltim/XI/2015
-1297,Komite Independen Pemantau Pemilu,,,0,001/Pemantu-Pilkada/KPU-LAMTIM/XI/2015
-1293,id,Anto,,2,101010
-1295,Lemabaga Pemberdayaan Masyarakat Daerah Indonesia,,,0,1350/Akred/KPU-PS.02656024/IX/2015
-1294,LSM Pijar Keadilan,,,0,1286/KPU-002.434863/X/2015
+id_monitoring,monitoring_name,leader_name,address,monitoring_counter,accreditation_num,region_id
+1307,Komite Independen Pemantau Pemilu,,,0,01/AKR-Pemantau/KPU Nabire/VIII/2015,83188
+1306,Lembaga Independen Pemantau Demokrasi,,,0,383/KPU-Kab019.435755/XI/2015,61535
+1296,LSM Pijar Keadilan,,,0,2254/KPU-Kab/002.434801/X/2015,57403
+1291,klinik konsultasi bisnis mandiri,Dadik Setyo Wahyudi,"Jl. WR. Supratman no. 123,  Blitar",25,72/BA/XI/2015,52700
+1292,Gerakan Mahasiswa Nasional Indonesia,Imam Buchori,"Jl. Riau No. 42,  Blitar",26,72/BA/XI/2015,52700
+1302,Komite Independen Pemantau Pemilu Sidoarjo,,,0,1000/KPU_Kab_014.329888/XI/2015,47859
+1303,LSM Grasi,,,0,370/KPU_Kab_014.329888/VI/2015,47859
+1304,LSM Fopin,,,0,505/KPU_Kab_014.329888/VII/2016,47859
+1305,Reclassering Indonesia,,,0,834/KPU_Kab_014.329888/X/2017,47859
+1300,Jaringan Pendidikan Pemilih Untuk Rakyat,,,0,494/KPU-Kab/Btl.013-329.600/X/2015,43506
+1301,Jaringan Pendidikan Pemilih Untuk Rakyat,,,0,494/KPU-Kab/Btl.013-329.600/X/2015,43506
+1299,PT. Cyrus,,,0,001/LS/KPU Beltim/XI/2015,26717
+1297,Komite Independen Pemantau Pemilu,,,0,001/Pemantu-Pilkada/KPU-LAMTIM/XI/2015,25023
+1293,id,Anto,,2,101010,21841
+1295,Lemabaga Pemberdayaan Masyarakat Daerah Indonesia,,,0,1350/Akred/KPU-PS.02656024/IX/2015,12939
+1294,LSM Pijar Keadilan,,,0,1286/KPU-002.434863/X/2015,12766
