@@ -1,0 +1,270 @@
+id,name,resource
+1,BENGKULU,https://pilkada2015.kpu.go.id/bengkuluprov
+2,JAMBI,https://pilkada2015.kpu.go.id/jambiprov
+3,KABUPATEN  PELALAWAN,https://pilkada2015.kpu.go.id/pelalawankab
+4,KABUPATEN  ROKAN HILIR,https://pilkada2015.kpu.go.id/rokanhilirkab
+5,KABUPATEN  ROKAN HULU,https://pilkada2015.kpu.go.id/rokanhulukab
+6,KABUPATEN  SIAK,https://pilkada2015.kpu.go.id/siakkab
+7,KABUPATEN AGAM,https://pilkada2015.kpu.go.id/agamkab
+8,KABUPATEN ASAHAN,https://pilkada2015.kpu.go.id/asahankab
+9,KABUPATEN ASMAT,https://pilkada2015.kpu.go.id/asmatkab
+10,KABUPATEN BADUNG,https://pilkada2015.kpu.go.id/badungkab
+11,KABUPATEN BALANGAN,https://pilkada2015.kpu.go.id/balangankab
+12,KABUPATEN BANDUNG,https://pilkada2015.kpu.go.id/bandungkab
+13,KABUPATEN BANGGAI,https://pilkada2015.kpu.go.id/banggaikab
+14,KABUPATEN BANGGAI LAUT,https://pilkada2015.kpu.go.id/banggailautkab
+15,KABUPATEN BANGKA BARAT,https://pilkada2015.kpu.go.id/bangkabaratkab
+16,KABUPATEN BANGKA SELATAN,https://pilkada2015.kpu.go.id/bangkaselatankab
+17,KABUPATEN BANGKA TENGAH,https://pilkada2015.kpu.go.id/bangkatengahkab
+18,KABUPATEN BANGLI,https://pilkada2015.kpu.go.id/banglikab
+19,KABUPATEN BANJAR,https://pilkada2015.kpu.go.id/banjarkab
+20,KABUPATEN BANTUL,https://pilkada2015.kpu.go.id/bantulkab
+21,KABUPATEN BANYUWANGI,https://pilkada2015.kpu.go.id/banyuwangikab
+22,KABUPATEN BARRU,https://pilkada2015.kpu.go.id/barrukab
+23,KABUPATEN BATANGHARI,https://pilkada2015.kpu.go.id/batangharikab
+24,KABUPATEN BELITUNG TIMUR,https://pilkada2015.kpu.go.id/belitungtimurkab
+25,KABUPATEN BELU,https://pilkada2015.kpu.go.id/belukab
+26,KABUPATEN BENGKALIS,https://pilkada2015.kpu.go.id/bengkaliskab
+27,KABUPATEN BENGKAYANG,https://pilkada2015.kpu.go.id/bengkayangkab
+28,KABUPATEN BENGKULU SELATAN,https://pilkada2015.kpu.go.id/bengkuluselatankab
+29,KABUPATEN BENGKULU UTARA,https://pilkada2015.kpu.go.id/bengkuluutarakab
+30,KABUPATEN BERAU,https://pilkada2015.kpu.go.id/beraukab
+31,KABUPATEN BIMA,https://pilkada2015.kpu.go.id/bimakab
+32,KABUPATEN BINTAN,https://pilkada2015.kpu.go.id/bintankab
+33,KABUPATEN BLITAR,https://pilkada2015.kpu.go.id/blitarkab
+34,KABUPATEN BLORA,https://pilkada2015.kpu.go.id/blorakab
+35,KABUPATEN BOLAANG MONGONDOW SELATAN,https://pilkada2015.kpu.go.id/bolmongselkab
+36,KABUPATEN BOLAANG MONGONDOW TIMUR,https://pilkada2015.kpu.go.id/bolmongtimkab
+37,KABUPATEN BONE BOLANGO,https://pilkada2015.kpu.go.id/bonebolangokab
+38,KABUPATEN BOVEN DIGOEL,https://pilkada2015.kpu.go.id/bovendigoelkab
+39,KABUPATEN BOYOLALI,https://pilkada2015.kpu.go.id/boyolalikab
+40,KABUPATEN BULUKUMBA,https://pilkada2015.kpu.go.id/bulukumbakab
+41,KABUPATEN BULUNGAN,https://pilkada2015.kpu.go.id/bulungankab
+42,KABUPATEN BUNGO,https://pilkada2015.kpu.go.id/bungokab
+43,KABUPATEN BURU SELATAN,https://pilkada2015.kpu.go.id/buruselatankab
+44,KABUPATEN BUTON UTARA,https://pilkada2015.kpu.go.id/butonutarakab
+45,KABUPATEN CIANJUR,https://pilkada2015.kpu.go.id/cianjurkab
+46,KABUPATEN DEMAK,https://pilkada2015.kpu.go.id/demakkab
+47,KABUPATEN DHARMASRAYA,https://pilkada2015.kpu.go.id/dharmasrayakab
+48,KABUPATEN DOMPU,https://pilkada2015.kpu.go.id/dompukab
+49,KABUPATEN FAK FAK,https://pilkada2015.kpu.go.id/fakfakkab
+50,KABUPATEN GORONTALO,https://pilkada2015.kpu.go.id/gorontalokab
+51,KABUPATEN GOWA,https://pilkada2015.kpu.go.id/gowakab
+52,KABUPATEN GRESIK,https://pilkada2015.kpu.go.id/gresikkab
+53,KABUPATEN GROBOGAN,https://pilkada2015.kpu.go.id/grobogankab
+54,KABUPATEN GUNUNG KIDUL,https://pilkada2015.kpu.go.id/gunungkidulkab
+55,KABUPATEN HALMAHERA BARAT,https://pilkada2015.kpu.go.id/halbarkab
+56,KABUPATEN HALMAHERA SELATAN,https://pilkada2015.kpu.go.id/halselkab
+57,KABUPATEN HALMAHERA TIMUR,https://pilkada2015.kpu.go.id/haltimkab
+58,KABUPATEN HALMAHERA UTARA,https://pilkada2015.kpu.go.id/halutkab
+59,KABUPATEN HULU SUNGAI TENGAH,https://pilkada2015.kpu.go.id/hulusungaitengahkab
+60,KABUPATEN HUMBANG HASUNDUTAN,https://pilkada2015.kpu.go.id/humbanghasundutankab
+61,KABUPATEN INDRAGIRI HULU,https://pilkada2015.kpu.go.id/indragirihulukab
+62,KABUPATEN INDRAMAYU,https://pilkada2015.kpu.go.id/indramayukab
+63,KABUPATEN JEMBER,https://pilkada2015.kpu.go.id/jemberkab
+64,KABUPATEN JEMBRANA,https://pilkada2015.kpu.go.id/jembranakab
+65,KABUPATEN KAIMANA,https://pilkada2015.kpu.go.id/kaimanakab
+66,KABUPATEN KAPUAS HULU,https://pilkada2015.kpu.go.id/kapuashulukab
+67,KABUPATEN KARANGASEM,https://pilkada2015.kpu.go.id/karangasemkab
+68,KABUPATEN KARAWANG,https://pilkada2015.kpu.go.id/karawangkab
+69,KABUPATEN KARIMUN,https://pilkada2015.kpu.go.id/karimunkab
+70,KABUPATEN KARO,https://pilkada2015.kpu.go.id/karokab
+71,KABUPATEN KAUR,https://pilkada2015.kpu.go.id/kaurkab
+72,KABUPATEN KEBUMEN,https://pilkada2015.kpu.go.id/kebumenkab
+73,KABUPATEN KEDIRI,https://pilkada2015.kpu.go.id/kedirikab
+74,KABUPATEN KEEROM,https://pilkada2015.kpu.go.id/keeromkab
+75,KABUPATEN KENDAL,https://pilkada2015.kpu.go.id/kendalkab
+76,KABUPATEN KEPAHIANG,https://pilkada2015.kpu.go.id/kepahiangkab
+77,KABUPATEN KEPULAUAN ANAMBAS,https://pilkada2015.kpu.go.id/kepanambaskab
+78,KABUPATEN KEPULAUAN ARU,https://pilkada2015.kpu.go.id/keparukab
+79,KABUPATEN KEPULAUAN MERANTI,https://pilkada2015.kpu.go.id/merantikab
+80,KABUPATEN KEPULAUAN SELAYAR,https://pilkada2015.kpu.go.id/selayarkab
+81,KABUPATEN KEPULAUAN SULA,https://pilkada2015.kpu.go.id/kepsulakab
+82,KABUPATEN KETAPANG,https://pilkada2015.kpu.go.id/ketapangkab
+83,KABUPATEN KLATEN,https://pilkada2015.kpu.go.id/klatenkab
+84,KABUPATEN KOLAKA TIMUR,https://pilkada2015.kpu.go.id/kolakatimurkab
+85,KABUPATEN KONAWE KEPULAUAN,https://pilkada2015.kpu.go.id/kepkonawekab
+86,KABUPATEN KONAWE SELATAN,https://pilkada2015.kpu.go.id/konaweselatankab
+87,KABUPATEN KONAWE UTARA,https://pilkada2015.kpu.go.id/konaweutarakab
+88,KABUPATEN KOTABARU,https://pilkada2015.kpu.go.id/kotabarukab
+89,KABUPATEN KOTAWARINGIN TIMUR,https://pilkada2015.kpu.go.id/kotawaringintimurkab
+90,KABUPATEN KUANTAN SINGINGI,https://pilkada2015.kpu.go.id/kuantansingingikab
+91,KABUPATEN KUTAI BARAT,https://pilkada2015.kpu.go.id/kutaibaratkab
+92,KABUPATEN KUTAI KARTANEGARA,https://pilkada2015.kpu.go.id/kutaikertanegarakab
+93,KABUPATEN KUTAI TIMUR,https://pilkada2015.kpu.go.id/kutaitimurkab
+94,KABUPATEN LABUHANBATU,https://pilkada2015.kpu.go.id/labuhanbatukab
+95,KABUPATEN LABUHANBATU SELATAN,https://pilkada2015.kpu.go.id/labuanbatuselatankab
+96,KABUPATEN LABUHANBATU UTARA,https://pilkada2015.kpu.go.id/labuanbatuutarakab
+97,KABUPATEN LAMONGAN,https://pilkada2015.kpu.go.id/lamongankab
+98,KABUPATEN LAMPUNG SELATAN,https://pilkada2015.kpu.go.id/lampungselatankab
+99,KABUPATEN LAMPUNG TENGAH,https://pilkada2015.kpu.go.id/lampungtengahkab
+100,KABUPATEN LAMPUNG TIMUR,https://pilkada2015.kpu.go.id/lampungtimurkab
+101,KABUPATEN LEBONG,https://pilkada2015.kpu.go.id/lebongkab
+102,KABUPATEN LIMA PULUH KOTA,https://pilkada2015.kpu.go.id/limapuluhkotakab
+103,KABUPATEN LINGGA,https://pilkada2015.kpu.go.id/linggakab
+104,KABUPATEN LOMBOK TENGAH,https://pilkada2015.kpu.go.id/lomboktengahkab
+105,KABUPATEN LOMBOK UTARA,https://pilkada2015.kpu.go.id/lombokutarakab
+106,KABUPATEN LUWU TIMUR,https://pilkada2015.kpu.go.id/luwutimurkab
+107,KABUPATEN LUWU UTARA,https://pilkada2015.kpu.go.id/luwuutarakab
+108,KABUPATEN MAHAKAM ULU,https://pilkada2015.kpu.go.id/mahakamulukab
+109,KABUPATEN MAJENE,https://pilkada2015.kpu.go.id/majenekab
+110,KABUPATEN MALAKA,
+111,KABUPATEN MALANG,https://pilkada2015.kpu.go.id/malangkab
+112,KABUPATEN MALINAU,https://pilkada2015.kpu.go.id/malinaukab
+113,KABUPATEN MALUKU BARAT DAYA,https://pilkada2015.kpu.go.id/malbardaykab
+114,KABUPATEN MAMBERAMO RAYA,https://pilkada2015.kpu.go.id/mamberamorayakab
+115,KABUPATEN MAMUJU,https://pilkada2015.kpu.go.id/mamujukab
+116,KABUPATEN MAMUJU TENGAH,https://pilkada2015.kpu.go.id/mamujutengahkab
+117,KABUPATEN MAMUJU UTARA,https://pilkada2015.kpu.go.id/mamujuutarakab
+118,KABUPATEN MANDAILING NATAL,https://pilkada2015.kpu.go.id/mandailingnatalkab
+119,KABUPATEN MANGGARAI,https://pilkada2015.kpu.go.id/manggaraikab
+120,KABUPATEN MANGGARAI BARAT,https://pilkada2015.kpu.go.id/manggaraibaratkab
+121,KABUPATEN MANOKWARI,https://pilkada2015.kpu.go.id/manokwarikab
+122,KABUPATEN MANOKWARI SELATAN,https://pilkada2015.kpu.go.id/manokwariselatankab
+123,KABUPATEN MAROS,https://pilkada2015.kpu.go.id/maroskab
+124,KABUPATEN MELAWI,https://pilkada2015.kpu.go.id/melawikab
+125,KABUPATEN MERAUKE,https://pilkada2015.kpu.go.id/meraukekab
+126,KABUPATEN MINAHASA SELATAN,https://pilkada2015.kpu.go.id/minselkab
+127,KABUPATEN MINAHASA UTARA,https://pilkada2015.kpu.go.id/minutkab
+128,KABUPATEN MOJOKERTO,https://pilkada2015.kpu.go.id/mojokertokab
+129,KABUPATEN MOROWALI UTARA,https://pilkada2015.kpu.go.id/morowaliutarakab
+130,KABUPATEN MUKO MUKO,https://pilkada2015.kpu.go.id/mukomukokab
+131,KABUPATEN MUNA,https://pilkada2015.kpu.go.id/munakab
+132,KABUPATEN MUSI RAWAS,https://pilkada2015.kpu.go.id/murakab
+133,KABUPATEN MUSI RAWAS UTARA,https://pilkada2015.kpu.go.id/muratarakab
+134,KABUPATEN NABIRE,https://pilkada2015.kpu.go.id/nabirekab
+135,KABUPATEN NATUNA,https://pilkada2015.kpu.go.id/natunakab
+136,KABUPATEN NGADA,https://pilkada2015.kpu.go.id/ngadakab
+137,KABUPATEN NGAWI,https://pilkada2015.kpu.go.id/ngawikab
+138,KABUPATEN NIAS,https://pilkada2015.kpu.go.id/niaskab
+139,KABUPATEN NIAS BARAT,https://pilkada2015.kpu.go.id/niasbaratkab
+140,KABUPATEN NIAS SELATAN,https://pilkada2015.kpu.go.id/niasselatankab
+141,KABUPATEN NIAS UTARA,https://pilkada2015.kpu.go.id/niasutarakab
+142,KABUPATEN NUNUKAN,https://pilkada2015.kpu.go.id/nunukankab
+143,KABUPATEN OGAN ILIR,https://pilkada2015.kpu.go.id/oganilirkab
+144,KABUPATEN OGAN KOMERING ULU,https://pilkada2015.kpu.go.id/okukab
+145,KABUPATEN OGAN KOMERING ULU SELATAN,https://pilkada2015.kpu.go.id/okuselatankab
+146,KABUPATEN OGAN KOMERING ULU TIMUR,https://pilkada2015.kpu.go.id/okutimurkab
+147,KABUPATEN PACITAN,https://pilkada2015.kpu.go.id/pacitankab
+148,KABUPATEN PADANG PARIAMAN,https://pilkada2015.kpu.go.id/padangpariamankab
+149,KABUPATEN PAHUWATO,https://pilkada2015.kpu.go.id/pahuwatokab
+150,KABUPATEN PAKPAK BHARAT,https://pilkada2015.kpu.go.id/pakpakbharatkab
+151,KABUPATEN PANDEGLANG,https://pilkada2015.kpu.go.id/pandeglangkab
+152,KABUPATEN PANGANDARAN,https://pilkada2015.kpu.go.id/pangandarankab
+153,KABUPATEN PANGKAJENE KEPULAUAN,https://pilkada2015.kpu.go.id/pangkajenekepkab
+154,KABUPATEN PASAMAN,https://pilkada2015.kpu.go.id/pasamankab
+155,KABUPATEN PASAMAN BARAT,https://pilkada2015.kpu.go.id/pasamanbaratkab
+156,KABUPATEN PASER,https://pilkada2015.kpu.go.id/paserkab
+157,KABUPATEN PEGUNUNGAN ARFAK,https://pilkada2015.kpu.go.id/pegarfakkab
+158,KABUPATEN PEGUNUNGAN BINTANG,https://pilkada2015.kpu.go.id/pegbintangkab
+159,KABUPATEN PEKALONGAN,https://pilkada2015.kpu.go.id/pekalongankab
+160,KABUPATEN PEMALANG,https://pilkada2015.kpu.go.id/pemalangkab
+161,KABUPATEN PENUKAL ABAB LEMATANG ILIR,https://pilkada2015.kpu.go.id/palikab
+162,KABUPATEN PESAWARAN,https://pilkada2015.kpu.go.id/pesawarankab
+163,KABUPATEN PESISIR BARAT,https://pilkada2015.kpu.go.id/pesisirbaratkab
+164,KABUPATEN PESISIR SELATAN,https://pilkada2015.kpu.go.id/pesisirselatankab
+165,KABUPATEN PONOROGO,https://pilkada2015.kpu.go.id/ponorogokab
+166,KABUPATEN POSO,https://pilkada2015.kpu.go.id/posokab
+167,KABUPATEN PULAU TALIABU,https://pilkada2015.kpu.go.id/taliabukab
+168,KABUPATEN PURBALINGGA,https://pilkada2015.kpu.go.id/purbalinggakab
+169,KABUPATEN PURWOREJO,https://pilkada2015.kpu.go.id/purworejokab
+170,KABUPATEN RAJA AMPAT,https://pilkada2015.kpu.go.id/rajaampatkab
+171,KABUPATEN REJANG LEBONG,https://pilkada2015.kpu.go.id/rejanglebongkab
+172,KABUPATEN REMBANG,https://pilkada2015.kpu.go.id/rembangkab
+173,KABUPATEN SABU RAIJUA,https://pilkada2015.kpu.go.id/saburaijuakab
+174,KABUPATEN SAMBAS,https://pilkada2015.kpu.go.id/sambaskab
+175,KABUPATEN SAMOSIR,https://pilkada2015.kpu.go.id/samosirkab
+176,KABUPATEN SEKADAU,https://pilkada2015.kpu.go.id/sekadaukab
+177,KABUPATEN SELUMA,https://pilkada2015.kpu.go.id/selumakab
+178,KABUPATEN SEMARANG,https://pilkada2015.kpu.go.id/semarangkab
+179,KABUPATEN SERAM BAGIAN TIMUR,https://pilkada2015.kpu.go.id/serambagtimkab
+180,KABUPATEN SERANG,https://pilkada2015.kpu.go.id/serangkab
+181,KABUPATEN SERDANG BEDAGAI,https://pilkada2015.kpu.go.id/serdangbedagaikab
+182,KABUPATEN SIDOARJO,https://pilkada2015.kpu.go.id/sidoarjokab
+183,KABUPATEN SIGI,https://pilkada2015.kpu.go.id/sigikab
+184,KABUPATEN SIJUNJUNG,https://pilkada2015.kpu.go.id/sijunjungkab
+185,KABUPATEN SIMALUNGUN,
+186,KABUPATEN SINTANG,https://pilkada2015.kpu.go.id/sintangkab
+187,KABUPATEN SITUBONDO,https://pilkada2015.kpu.go.id/situbondokab
+188,KABUPATEN SLEMAN,https://pilkada2015.kpu.go.id/slemankab
+189,KABUPATEN SOLOK,https://pilkada2015.kpu.go.id/solokkab
+190,KABUPATEN SOLOK SELATAN,https://pilkada2015.kpu.go.id/solokselatankab
+191,KABUPATEN SOPPENG,https://pilkada2015.kpu.go.id/soppengkab
+192,KABUPATEN SORONG SELATAN,https://pilkada2015.kpu.go.id/sorongselatankab
+193,KABUPATEN SRAGEN,https://pilkada2015.kpu.go.id/sragenkab
+194,KABUPATEN SUKABUMI,https://pilkada2015.kpu.go.id/sukabumikab
+195,KABUPATEN SUKOHARJO,https://pilkada2015.kpu.go.id/sukoharjokab
+196,KABUPATEN SUMBA BARAT,https://pilkada2015.kpu.go.id/sumbabaratkab
+197,KABUPATEN SUMBA TIMUR,https://pilkada2015.kpu.go.id/sumbatimurkab
+198,KABUPATEN SUMBAWA,https://pilkada2015.kpu.go.id/sumbawakab
+199,KABUPATEN SUMBAWA BARAT,https://pilkada2015.kpu.go.id/sumbawabaratkab
+200,KABUPATEN SUMENEP,https://pilkada2015.kpu.go.id/sumenepkab
+201,KABUPATEN SUPIORI,https://pilkada2015.kpu.go.id/supiorikab
+202,KABUPATEN TABANAN,https://pilkada2015.kpu.go.id/tabanankab
+203,KABUPATEN TANA TIDUNG,https://pilkada2015.kpu.go.id/tanatidungkab
+204,KABUPATEN TANA TORAJA,https://pilkada2015.kpu.go.id/tanatorajakab
+205,KABUPATEN TANAH BUMBU,https://pilkada2015.kpu.go.id/tanahbumbukab
+206,KABUPATEN TANAH DATAR,https://pilkada2015.kpu.go.id/tanahdatarkab
+207,KABUPATEN TANJUNG JABUNG BARAT,https://pilkada2015.kpu.go.id/tanjabbarkab
+208,KABUPATEN TANJUNG JABUNG TIMUR,https://pilkada2015.kpu.go.id/tanjabtimkab
+209,KABUPATEN TAPANULI SELATAN,https://pilkada2015.kpu.go.id/tapanuliselatankab
+210,KABUPATEN TASIKMALAYA,https://pilkada2015.kpu.go.id/tasikmalayakab
+211,KABUPATEN TELUK BINTUNI,https://pilkada2015.kpu.go.id/telbintunikab
+212,KABUPATEN TELUK WONDAMA,https://pilkada2015.kpu.go.id/telwondamakab
+213,KABUPATEN TIMOR TENGAH UTARA,https://pilkada2015.kpu.go.id/ttukab
+214,KABUPATEN TOBA SAMOSIR,https://pilkada2015.kpu.go.id/tobasamosirkab
+215,KABUPATEN TOJO UNA UNA,https://pilkada2015.kpu.go.id/tojounaunakab
+216,KABUPATEN TOLI TOLI,https://pilkada2015.kpu.go.id/tolitolikab
+217,KABUPATEN TORAJA UTARA,https://pilkada2015.kpu.go.id/torajautarakab
+218,KABUPATEN TRENGGALEK,https://pilkada2015.kpu.go.id/trenggalekkab
+219,KABUPATEN TUBAN,https://pilkada2015.kpu.go.id/tubankab
+220,KABUPATEN WAKATOBI,https://pilkada2015.kpu.go.id/wakatobikab
+221,KABUPATEN WAROPEN,
+222,KABUPATEN WAY KANAN,https://pilkada2015.kpu.go.id/waykanankab
+223,KABUPATEN WONOGIRI,https://pilkada2015.kpu.go.id/wonogirikab
+224,KABUPATEN WONOSOBO,https://pilkada2015.kpu.go.id/wonosobokab
+225,KABUPATEN YAHUKIMO,
+226,KABUPATEN YALIMO,
+227,KALIMANTAN SELATAN,https://pilkada2015.kpu.go.id/kalselprov
+228,KALIMANTAN TENGAH,
+229,KALIMANTAN UTARA,https://pilkada2015.kpu.go.id/kaltaraprov
+230,KEPULAUAN RIAU,https://pilkada2015.kpu.go.id/kepriprov
+231,KOTA BALIKPAPAN,https://pilkada2015.kpu.go.id/balikpapankota
+232,KOTA BANDAR LAMPUNG,https://pilkada2015.kpu.go.id/bandarlampungkota
+233,KOTA BANJARBARU,https://pilkada2015.kpu.go.id/banjarbarukota
+234,KOTA BANJARMASIN,https://pilkada2015.kpu.go.id/banjarmasinkota
+235,KOTA BATAM,https://pilkada2015.kpu.go.id/batamkota
+236,KOTA BINJAI,https://pilkada2015.kpu.go.id/binjaikota
+237,KOTA BITUNG,https://pilkada2015.kpu.go.id/bitungkota
+238,KOTA BLITAR,https://pilkada2015.kpu.go.id/blitarkota
+239,KOTA BONTANG,https://pilkada2015.kpu.go.id/bontangkota
+240,KOTA BUKITTINGGI,https://pilkada2015.kpu.go.id/bukittinggikota
+241,KOTA CILEGON,https://pilkada2015.kpu.go.id/cilegonkota
+242,KOTA DENPASAR,https://pilkada2015.kpu.go.id/denpasarkota
+243,KOTA DEPOK,https://pilkada2015.kpu.go.id/depokkota
+244,KOTA DUMAI,https://pilkada2015.kpu.go.id/dumaikota
+245,KOTA GUNUNGSITOLI,https://pilkada2015.kpu.go.id/gunungsitolikota
+246,KOTA MAGELANG,https://pilkada2015.kpu.go.id/magelangkota
+247,KOTA MANADO,
+248,KOTA MATARAM,https://pilkada2015.kpu.go.id/mataramkota
+249,KOTA MEDAN,https://pilkada2015.kpu.go.id/medankota
+250,KOTA METRO,https://pilkada2015.kpu.go.id/metrokota
+251,KOTA PALU,https://pilkada2015.kpu.go.id/palukota
+252,KOTA PASURUAN,https://pilkada2015.kpu.go.id/pasuruankota
+253,KOTA PEKALONGAN,https://pilkada2015.kpu.go.id/pekalongankota
+254,KOTA PEMATANG SIANTAR,
+255,KOTA SAMARINDA,https://pilkada2015.kpu.go.id/samarindakota
+256,KOTA SEMARANG,https://pilkada2015.kpu.go.id/semarangkota
+257,KOTA SIBOLGA,https://pilkada2015.kpu.go.id/sibolgakota
+258,KOTA SOLOK,https://pilkada2015.kpu.go.id/solokkota
+259,KOTA SUNGAI PENUH,https://pilkada2015.kpu.go.id/sungaipenuhkota
+260,KOTA SURABAYA,https://pilkada2015.kpu.go.id/surabayakota
+261,KOTA SURAKARTA,https://pilkada2015.kpu.go.id/surakartakota
+262,KOTA TANGERANG SELATAN,https://pilkada2015.kpu.go.id/tangselkota 
+263,KOTA TANJUNG BALAI,https://pilkada2015.kpu.go.id/tanjungbalaikota 
+264,KOTA TERNATE,https://pilkada2015.kpu.go.id/ternatekota 
+265,KOTA TIDORE KEPULAUAN,https://pilkada2015.kpu.go.id/tidorekepkota 
+266,KOTA TOMOHON,https://pilkada2015.kpu.go.id/tomohonkota 
+267,SULAWESI TENGAH,https://pilkada2015.kpu.go.id/sultengprov/
+268,SULAWESI UTARA,https://pilkada2015.kpu.go.id/sulutprov/
+269,SUMATERA BARAT,https://pilkada2015.kpu.go.id/sumbarprov/
