@@ -27,7 +27,7 @@ foreach ($file as $row) {
       list($nama, $periode) = $row;
 
       //skip first row
-      if ($nama != 'nama_fraksi'){
+      if ($nama != 'nama'){
         $query->bindParam(':nama', $nama, PDO::PARAM_STR);
         $query->bindParam(':periode', $periode, PDO::PARAM_STR);
         $query->execute();
